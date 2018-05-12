@@ -54,7 +54,7 @@ description:
     (* for option in template_var.classoptions *)
     ((option)),
     (* endfor *)
-    fontsize=8pt
+    fontsize=7pt
     ]{scrartcl}
 (* endblock *)
 
@@ -120,9 +120,13 @@ description:
 \renewcommand{\extendprelude}{
   {\bfseries\showauthors}
 }
+
+\renewcommand{\songtarget}[2]
+{\pdfbookmark[#1]{\thesongnum. \songtitle}{#2}}
+\renewcommand{\songlink}[2]{\hyperlink{#1}{#2}}
 % Denser verses
-\versesep=6pt
-\columnsep=6pt
+\versesep=4pt
+\columnsep=4pt
 % Remove separating lines between songs and thinner chorus line
 \setlength{\sbarheight}{0pt}
 \setlength{\cbarwidth}{1pt}
@@ -131,14 +135,13 @@ description:
 \lineskip=1pt
 }
 
-
 % Single spacing when no chords
 \setlength\baselineadj{-\baselineskip}
 \setlength{\versenumwidth}{0cm}
-\usepackage{hyperref}
 (* endblock *)
 
 (* block songbookpreambule *)
+
 % Redefining the preambule
 (* for lang in _langs|sort -*)
     \PassOptionsToPackage{(( lang | lang2babel ))}{babel}
@@ -146,13 +149,10 @@ description:
 \usepackage[(( book.lang | lang2babel ))]{babel}
 \lang{(( book.lang | lang2babel ))}
 
-\usepackage{graphicx}
-\graphicspath{ %
-    (* for dir in _datadir|iter_datadirs*)
-        {(( dir | path2posix ))/} %
-    (* endfor *)
-}
-
+\usepackage{hyperref}
+\renewcommand{\songtarget}[2]
+{\pdfbookmark[#1]{\thesongnum. \songtitle}{#2}}
+\renewcommand{\songlink}[2]{\hyperlink{#1}{#2}}
 
 \makeatletter
 \@ifpackageloaded{hyperref}{}{

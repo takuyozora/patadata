@@ -1,45 +1,42 @@
 \selectlanguage{english}
-\songcolumns{2}
+\songcolumns{1}
 \beginsong{I'm yours}
   [by={Jason Marz},cover={i_m_yours},album={I'm yours}]
 
   \cover
-  \gtab{B}{2:X02220}
-  \gtab{F#}{2:022100}
-  \gtab{G#m}{3:022000}
-  \gtab{E}{022100}
+  \capo{5}
 
   \begin{verse}
-    \[B]Well you done done me and you bet I felt it
-    I \[F#]tried to be chill but you're so hot that I melted
-    I \[G#m]fell right through the cracks
-    And now I'm \[E]trying to get back
-    Before the \[B]cool done run out
+    \[G]Well you done done me and you bet I felt it
+    I \[D]tried to be chill but you're so hot that I melted
+    I \[Em]fell right through the cracks
+    And now I'm \[C]trying to get back
+    Before the \[G]cool done run out
     I'll be giving it my best
-    \[F#]Nothing's going to stop me but divine intervention
-    I \[G#m]reckon it's again my turn to \[E]win some or learn some
+    \[D]Nothing's going to stop me but divine intervention
+    I \[Em]reckon it's again my turn to \[C]win some or learn some
   \end{verse}
 
   \begin{chorus}
-    \[B]I won't hesita\[F#]te no more, no \[G#m]more
-    It cannot \[E]wait, I'm yours \[B F# G#m E]
+    \[G]I won't hesita\[D]te no more, no \[Em]more
+    It cannot \[C]wait, I'm yours \[G D Em C]
   \end{chorus}
 
   \begin{chorus}
-    \[B]Well open up your mind and see like \[F#]me
-    Open up your plans and damn you're \[G#m]free
-    Look into your heart and you'll find \[E]love love love
-    \[B]Listen to the music of the moment come and dance with \[F#]me
-    I like one big \[G#m]family
-    It's your God-forsaken right to be \[E]loved love love \[B]love
+    \[G]Well open up your mind and see like \[D]me
+    Open up your plans and damn you're \[Em]free
+    Look into your heart and you'll find \[C]love love love
+    \[G]Listen to the music of the moment come and dance with \[D]me
+    I like one big \[Em]family
+    It's your God-forsaken right to be \[C]loved love love \[C#dim]love
   \end{chorus}
 
   \begin{chorus}
-    \[B]So I won't hesita\[F#]te no more, no \[G#m]more
-    It cannot \[E]wait I'm sure
-    There's no \[B]need to complica\[F#]te
-    Our time is \[G#m]short
-    This is our \[E]fate, I'm yours \[B F# G#m E]
+    \[G]So I won't hesita\[D]te no more, no \[Em]more
+    It cannot \[C]wait I'm sure
+    There's no \[G]need to complica\[D]te
+    Our time is \[Em]short
+    This is our \[C]fate, I'm yours \[B F# G#m E]
   \end{chorus}
 
   \begin{verse}

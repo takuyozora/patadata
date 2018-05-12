@@ -5,16 +5,16 @@
   [by={Boby Lapointe},cover={l-integrale},album={L'intégrale}]
 
   \cover
-
-  \gtab{Dm}{XX0231}
-  \gtab{Gm}{355333}
-  \gtab{A7}{X02020}
+  \transpose{2}
+  % \gtab{Dm}{XX0231}
+  % \gtab{Gm}{355333}
+  % \gtab{A7}{X02020}
 
   \begin{verse}
     \[Dm]Il était une fois un tout pe\[Gm]tit bour\[Dm]reau
     Pas plus grand que trois noix
     Et pas beaucoup \[A7]plus gros
-    Des \[Dm]hautes et basses œuvres était é\[Gm]xécu\[Dm]teur
+    Des \[Dm]hautes et basses œuvres était e\[Gm]xécu\[Dm]teur
     Et pour les basses œuvres
     É\[A7]tait à la hau\[Dm]teur
   \end{verse}
@@ -60,7 +60,7 @@
     En quelques coups de hache
     Il la lui débita
     L'époux au bruit du bris survint, un peu inquiet
-    Il partagea la mari
+    Il partagea l'mari
     Pour garder sa moitié
   \end{verse}
   \begin{verse*}

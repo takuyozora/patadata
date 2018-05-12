@@ -4,6 +4,7 @@
   [by={Pierre Perret},cover={pierrot-a-l-olympia},album={Pierrot à l'Olympia}]
 
   \cover
+  \transpose{-3}
   \gtab{C}{3:X02220}
   \gtab{G}{3:02210}
   \gtab{Dm}{XX0231}
