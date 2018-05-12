@@ -1,0 +1,194 @@
+% Copyright (C) 2017 Paul Ferrand
+% Copyright (C) 2014 The Patacrep Team
+% Copyright (C) 2009-2010 Romain Goffe, Alexandre Dupas
+% Copyright (C) 2008 Kevin W. Hamlen
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 2
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+% MA  02110-1301, USA.
+
+(* variables *)
+schema:
+  type: //rec
+  optional:
+    chordfont: //str
+    chordcolor: //str
+    versefont: //str
+    chorusfont: //str
+default:
+  en:
+    chordfont: "i"
+    chordcolor: "000000"
+    versefont: ""
+    chorusfont: "i"
+description:
+  en:
+    chordfont: "Chord font (i, b, n)"
+    chordcolor: "Chord color, hexadecimal notation"
+    versefont: "Verse font (i, b, n)"
+    chorusfont: "Chorus font (i, b, n)"
+  fr:
+    chordfont: "Police des accords"
+    chordcolor: "Couleur des accords en notation hexadécimale"
+    versefont: "Police des couplets"
+    chorusfont: "Police des refrains"
+
+(* endvariables *)
+
+% begin document
+(* extends "default.tex" *)
+
+(* block documentclass *)
+\documentclass[
+    (* for option in template_var.classoptions *)
+    ((option)),
+    (* endfor *)
+    fontsize=8pt
+    ]{scrartcl}
+(* endblock *)
+
+(* block preambule *)
+(*- set template_var = _template["ereader.tex"] -*)
+\usepackage{licence}
+
+%! Font management
+\usepackage[sfdefault,condensed]{roboto}
+
+\makeatletter
+\renewcommand{\chorusfont}{%
+   (* for letter in template_var.chorusfont *)
+   (* if letter=="i" *)   \itshape %
+   (* elif letter=='b' *)   \bfseries %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+
+\def\@chordfont{%
+   (* for letter in template_var.chordfont *)
+   (* if letter=="i" *)   \itshape %
+   (* elif letter=='b' *)   \bfseries %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\definecolor{ChordColor}{HTML}{(( template_var.chordcolor ))}
+\renewcommand{\printchord}[1]{\@chordfont\textcolor{ChordColor}{#1}}
+
+\renewcommand{\lyricfont}{%
+   (* for letter in template_var.versefont *)
+   (* if letter=="i" *)   \itshape %
+   (* elif letter=='b' *)   \bfseries %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\makeatother
+%! End of font management
+
+\usepackage[
+ left=4pt,
+ foot=0pt,
+ bottom=4pt,
+ right=4pt,
+ top=4pt,
+ paperwidth=90mm,
+ paperheight=117mm
+]{geometry}
+
+% Remove song numbers
+% \nosongnumbers
+% \renewcommand{\printsongnum}[1]{\Huge \bfseries \hspace{4pt}#1}
+
+\pagestyle{empty}
+
+% Shorter musicnotes
+\renewcommand\musicnote[1]{#1}
+\renewcommand\printchord[1]{\sffamily\itshape\footnotesize#1}
+% Show only authors
+\renewcommand{\extendprelude}{
+  {\bfseries\showauthors}
+}
+% Denser verses
+\versesep=6pt
+\columnsep=6pt
+% Remove separating lines between songs and thinner chorus line
+\setlength{\sbarheight}{0pt}
+\setlength{\cbarwidth}{1pt}
+\renewcommand{\clineparams}{
+\lineskiplimit=1pt
+\lineskip=1pt
+}
+
+
+% Single spacing when no chords
+\setlength\baselineadj{-\baselineskip}
+\setlength{\versenumwidth}{0cm}
+\usepackage{hyperref}
+(* endblock *)
+
+(* block songbookpreambule *)
+% Redefining the preambule
+(* for lang in _langs|sort -*)
+    \PassOptionsToPackage{(( lang | lang2babel ))}{babel}
+(* endfor *)
+\usepackage[(( book.lang | lang2babel ))]{babel}
+\lang{(( book.lang | lang2babel ))}
+
+\usepackage{graphicx}
+\graphicspath{ %
+    (* for dir in _datadir|iter_datadirs*)
+        {(( dir | path2posix ))/} %
+    (* endfor *)
+}
+
+
+\makeatletter
+\@ifpackageloaded{hyperref}{}{
+   \usepackage{url}
+   \newcommand{\phantomsection}{}
+   \newcommand{\hyperlink}[2]{#2}
+   \newcommand{\href}[2]{\expandafter\url\expandafter{#1}}
+}
+\makeatother
+
+\title{(( template_var.title|escape_specials() ))}
+\author{(( template_var.author|escape_specials() ))}
+
+\newindex{titleidx}{((filename))_title}
+\newauthorindex{authidx}{((filename))_auth}
+
+(* for prefix in titleprefixwords -*)
+   \titleprefixword{((prefix))}
+(* endfor*)
+(* for word in authors.ignore -*)
+   \authignoreword{((word))}
+(* endfor *)
+(* for word in authors.after -*)
+   \authbyword{((word))}
+(* endfor *)
+(* for word in authors.separators -*)
+   \authsepword{((word))}
+(* endfor *)
+
+\notenamesout{(( chords._notenames[0] ))}{(( chords._notenames[1] ))}{(( chords._notenames[2] ))}{(( chords._notenames[3] ))}{(( chords._notenames[4] ))}{(( chords._notenames[5] ))}{(( chords._notenames[6] ))}
+(* endblock *)
+
+(* block preface *)
+% Licence
+\newpage
+\input{license-small}
+\newpage
+(* endblock *)
+% end document
