@@ -6,7 +6,7 @@
   \cover
   \gtab{D}{XX0232}
   \gtab{A7}{X02020}
-
+  \versesep=2pt
   \begin{verse}
     \[D]C'est à travers de larges grilles
     Que les femelles du can\[A7]ton
@@ -109,5 +109,5 @@
     Comme l'homme auquel, le jour même
     Il avait fait trancher le cou
   \end{verse}
-
+  \versesep=4pt
 \endsong

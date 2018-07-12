@@ -3,15 +3,17 @@
 \beginsong{Le dîner}
   [by={Bénabar},cover={reprise-des-negociations},album={Reprise des négociations}]
 
-  \cover
-  \gtab{Bm}{2:X02210}
-  \gtab{G}{3:022100}
-  \gtab{F#}{2:022100}
-  \gtab{B}{2:X02220}
-  \gtab{Em}{022000}
-  \gtab{C#}{4:X02220}
-  \gtab{D}{XX0232}
-  \gtab{F#m}{2:022000}
+  \transpose{-2}
+  \capo{2}
+  % \cover
+  % \gtab{Bm}{2:X02210}
+  % \gtab{G}{3:022100}
+  % \gtab{F#}{2:022100}
+  % \gtab{B}{2:X02220}
+  % \gtab{Em}{022000}
+  % \gtab{C#}{4:X02220}
+  % \gtab{D}{XX0232}
+  % \gtab{F#m}{2:022000}
 
   \begin{verse}
     J'veux \[Bm]pas y aller à ce dîner

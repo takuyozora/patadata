@@ -4,11 +4,13 @@
   [by={Rise\ Against},cover={appeal-to-reason},album={Appeal to reason}]
 
   \cover
-  \gtab{E}{7:X02220}
-  \gtab{G#m}{4:022000}
-  \gtab{A}{5:022100}
-  \gtab{C#m}{4:X02210}
-  \gtab{B}{7:022100}
+  \transpose{-4}
+  \capo{4}
+  % \gtab{E}{7:X02220}
+  % \gtab{G#m}{4:022000}
+  % \gtab{A}{5:022100}
+  % \gtab{C#m}{4:X02210}
+  % \gtab{B}{7:022100}
 
   \begin{verse}
     He said, ``\[E]Son
@@ -20,7 +22,7 @@
     I said, ``That sounds pretty \[B]good''
   \end{verse}
 
-  \begin{verse}
+  \begin{verse*}
     Black leather boots
     Spit-shined so bright
     They cut off my hair
@@ -28,7 +30,7 @@
     We marched and we sang
     We all became friends
     As we learned how to fight
-  \end{verse}
+  \end{verse*}
 
   \begin{chorus}
     A hero of \[C#m]war
@@ -51,7 +53,7 @@
     From his family and his friends
   \end{verse}
 
-  \begin{verse}
+  \begin{verse*}
     They took off his clothes
     They pissed in his hands
     I told them to stop
@@ -59,7 +61,7 @@
     We beat him with guns
     And batons not just once
     But again and again
-  \end{verse}
+  \end{verse*}
 
   \begin{verse}
     She walked
@@ -71,7 +73,7 @@
     And I fired away
   \end{verse}
 
-  \begin{verse}
+  \begin{verse*}
     The shells
     Jumped through the smoke
     And into the sand
@@ -79,7 +81,7 @@
     She collapsed
     With a flag in her hand
     A flag white as snow
-  \end{verse}
+  \end{verse*}
 
   \begin{chorus}
     A hero of war
@@ -91,12 +93,5 @@
     But it's a flag that I love
     It's the only flag I trust
   \end{chorus}
-
-  \begin{verse}
-    He said, ``Son
-    Have you seen the world?
-    Well what would you say
-    If I said that you could?''
-  \end{verse}
-
+  \textnote{1er couplet}
 \endsong

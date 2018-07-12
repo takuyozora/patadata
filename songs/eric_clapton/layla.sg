@@ -1,0 +1,33 @@
+\selectlanguage{french}
+\songcolumns{1}
+
+\beginsong{Layla}
+  [by={Eric Clapton}]
+\begin{chorus}
+{\nolyrics \[D2 A# C D2]\rep{2}}
+{\nolyrics \[D2 A# C A C]}
+\end{chorus}
+\begin{verse}
+\[C#m7] What'll you do when you get \[G#7]lonely
+\[C#m7] No one's \[C]waiting \[D]by your \[E]side? \[E7]
+\[F#m] You've been \[B]running and \[E]hiding much too \[A]long.
+\[F#m] You know it's \[B]just your foolish \[E]pride. \[A]
+\end{verse}
+\begin{chorus}
+Lay\[D2]la,\[A#] you've \[C]got me on my \[D2]knees.
+Lay\[D2]la,\[A#] I'm \[C]begging, darling \[D2]please.
+Lay\[D2]la,\[A#] \[C]darling won't you \[D2]ease my worried mind. \[A# C A C]
+\end{chorus}
+\begin{verse}
+I tried to give you consolation
+When your old man had let you down.
+Like a fool, I fell in love with you,
+Turned my whole world upside down.
+\end{verse}
+\begin{verse}
+Let's make the best of the situation
+Before I finally go insane.
+Please don't say I'll never find a way
+And tell me all my love's in vain.
+\end{verse}
+\endsong

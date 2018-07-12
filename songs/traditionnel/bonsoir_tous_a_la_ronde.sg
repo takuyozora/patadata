@@ -1,0 +1,17 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Bonsoir tous à la ronde}
+  [by={Traditionnel},cover={traditionnel},album={France}]
+
+  \cover
+  \gtab{Am}{XX0231}
+  \gtab{G}{X02210}
+
+  \begin{verse*}
+    Bon\[Am]soir tous \[G]à la \[Am]ronde
+    Que la \[Am]paix soit \[G]sur le \[Am]monde
+    Dans la \[Am]nuit calme \[G]et se\[Am]reine
+    L'\[Am]homme, \[G]sans \[Am]haine
+  \end{verse*}
+
+\endsong

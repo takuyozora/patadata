@@ -39,12 +39,14 @@
     \end{verse*}
   \end{repeatedchords}
 
+  \begin{repeatedchords}
   \begin{chorus}
-    Mais au \[Am]bout du ch'min, dis-moi c'qui va res\[G]ter
-    De la p'\[Em]tite école et d'la cour de ré\[F]cré ?
-    Quand les av\[Am]ions en papier ne partent plus au \[G]vent
-    On se \[Em]dit que l'bon temps passe finale\[F]ment \dots comme une étoile fi\[Am]lante
-  \end{chorus}
+      Mais au \[Am]bout du ch'min, dis-moi c'qui va res\[G]ter
+      De la p'\[Em]tite école et d'la cour de ré\[F]cré ?
+      Quand les av\[Am]ions en papier ne partent plus au \[G]vent
+      On se \[Em]dit que l'bon temps passe finale\[F]ment \dots comme une étoile fi\[Am]lante
+    \end{chorus}
+  \end{repeatedchords}
 
   \lilypond{Etoiles_filantes-2}
 
