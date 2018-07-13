@@ -1,5 +1,5 @@
 \selectlanguage{french}
-\songcolumns{2}
+\songcolumns{1}
 
 \beginsong{Sur ma route}
   [by={Black~M},cover={les-yeux-plus-gros-que-le-monde},%
@@ -31,8 +31,6 @@
     Sur ma route j'ai eu des moments de doute
     J'marchais sans savoir vers ou
     J'étais têtu rien à foutre
-  \endverse
-  \beginverse*
     Sur ma route, j'avais pas de bagages en soute
     Et dans ma poche pas un sous
     Juste la famille entre nous
@@ -52,8 +50,6 @@
     Sur ma route on m'a fait des coups en douce
     L'impression que mon coeur en souffre
     Mais je suis sous anesthésie
-    \endverse
-    \beginverse*
     Sur mon chemin j'ai croisé pas mal d'anciens
     Ils me parlaient du lendemain
     Et que tout allait si vite
