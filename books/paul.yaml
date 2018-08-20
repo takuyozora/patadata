@@ -14,6 +14,7 @@ chords:
   lilypond: no
 
 content:
+  - "3_cafes_gourmands/a_nos_souvenirs.sg"
   - "au_petit_bonheur/je_veux_du_soleil.sg"
   - "aldebert/la_norme_et_la_marge.sg"
   - "aldebert/amoureuse.sg"
@@ -21,6 +22,7 @@ content:
   - "benabar/le_diner.sg"
   - "benabar/a_notre_sante.sg"
   - "bigflo_et_oli/gangsta.sg"
+  - "bigflo_et_oli/dommage.sg"
   - "bobby_mcferrin/don_t_worry_be_happy.sg"
   - "boby_lapointe/sentimental_bourreau.sg"
   - "charles_aznavour/emmenez-moi.sg"
@@ -75,6 +77,7 @@ content:
   - "louise_attaque/ton_invitation.sg"  
   - "lucienne_delyle/mon_amant_de_saint_jean.sg"
   - "maitre_gims/bella.sg"
+  - "maitre_gims/la_meme.sg"
   - "manau/la_tribu_de_dana.sg"
   - "max_boubil/j_aime_les_moches.sg"
   - "maxime_le_forestier/mon_frere.sg"
@@ -115,7 +118,9 @@ content:
   - "tri_yann/si_mort_a_mors.sg"
   - "tryo/ce_que_l_on_s_aime.sg"
   - "tryo/l_hymne_de_nos_campagnes.sg"
-  - "vianney/j_m_en_fous.sg"
+  - "vianney/pas_la.sg"
+  - "vianney/je_te_deteste.sg"
+  - "vianney/je_m_en_vais.sg"
   - "yannick_noah/la_voix_des_sages.sg"
   - "zebda/tomber_la_chemise.sg"
 template:

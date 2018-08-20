@@ -8,42 +8,6 @@
 	"buffers":
 	[
 		{
-			"file": "templates/songbook/ereader.tex",
-			"settings":
-			{
-				"buffer_size": 5073,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/josh_white/one_meatball.sg",
-			"settings":
-			{
-				"buffer_size": 1380,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/charles_aznavour/emmenez-moi.sg",
-			"settings":
-			{
-				"buffer_size": 2439,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/boby_lapointe/meli-melodie.sg",
-			"settings":
-			{
-				"buffer_size": 2031,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "songs/jeremie_dazy/je_prends_le_relais.sg",
 			"settings":
 			{
@@ -53,46 +17,28 @@
 			}
 		},
 		{
+			"file": "books/corse-2018.yaml",
+			"settings":
+			{
+				"buffer_size": 4493,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/songbook/ereader.tex",
+			"settings":
+			{
+				"buffer_size": 5077,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "books/paul.yaml",
 			"settings":
 			{
-				"buffer_size": 4038,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/georges_brassens/pour_me_rendre_a_mon_bureau.sg",
-			"settings":
-			{
-				"buffer_size": 3291,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/les_cowboys_fringants/ti-cul.sg",
-			"settings":
-			{
-				"buffer_size": 3700,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/jean-jacques_goldman/je_te_donne.sg",
-			"settings":
-			{
-				"buffer_size": 2407,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "songs/jean-jacques_goldman/famille.sg",
-			"settings":
-			{
-				"buffer_size": 2607,
+				"buffer_size": 4400,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -230,7 +176,7 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 143.0,
 		"history":
 		[
 		]
@@ -247,21 +193,31 @@
 	"expanded_folders":
 	[
 		"/C/Users/paulf/Documents/patadata",
-		"/C/Users/paulf/Documents/patadata/songs",
-		"/C/Users/paulf/Documents/patadata/songs/benabar",
-		"/C/Users/paulf/Documents/patadata/songs/bobby_mcferrin",
-		"/C/Users/paulf/Documents/patadata/songs/boby_lapointe",
-		"/C/Users/paulf/Documents/patadata/songs/edith_piaf",
-		"/C/Users/paulf/Documents/patadata/songs/georges_brassens",
-		"/C/Users/paulf/Documents/patadata/songs/jean-jacques_goldman",
-		"/C/Users/paulf/Documents/patadata/songs/jeremie_dazy",
-		"/C/Users/paulf/Documents/patadata/songs/scouts",
-		"/C/Users/paulf/Documents/patadata/songs/the_pogues",
-		"/C/Users/paulf/Documents/patadata/songs/traditionnel",
-		"/C/Users/paulf/Documents/patadata/songs/yannick_noah"
+		"/C/Users/paulf/Documents/patadata/templates",
+		"/C/Users/paulf/Documents/patadata/templates/songbook",
+		"/C/Users/paulf/Documents/patadata/templates/styles"
 	],
 	"file_history":
 	[
+		"/C/Users/paulf/Documents/patadata/templates/songbook/ereader.tex",
+		"/C/Users/paulf/Documents/patadata/songs/josh_white/one_meatball.sg",
+		"/C/Users/paulf/Documents/patadata/songs/charles_aznavour/emmenez-moi.sg",
+		"/C/Users/paulf/Documents/patadata/songs/les_wriggles/julie_la_petite_olive.sg",
+		"/C/Users/paulf/Documents/patadata/songs/bigflo_et_oli/gangsta.sg",
+		"/C/Users/paulf/Documents/patadata/songs/vianney/j_m_en_fous.sg",
+		"/C/Users/paulf/Documents/patadata/songs/zebda/tomber_la_chemise.sg",
+		"/C/Users/paulf/Documents/patadata/songs/stromae/papaoutai.sg",
+		"/C/Users/paulf/Documents/patadata/songs/maitre_gims/bella.sg",
+		"/C/Users/paulf/Documents/patadata/songs/ray_charles/hit_the_road.sg",
+		"/C/Users/paulf/Documents/patadata/songs/les_fatals_picards/le_retour_a_la_terre.sg",
+		"/C/Users/paulf/Documents/patadata/songs/black_m/sur_ma_route.sg",
+		"/C/Users/paulf/Documents/patadata/songs/les_fatals_picards/mon_pere_etait_tellement_de_gauche.sg",
+		"/C/Users/paulf/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Wrap in environment.sublime-snippet",
+		"/C/Users/paulf/Documents/patadata/songs/jean-jacques_goldman/je_te_donne.sg",
+		"/C/Users/paulf/Documents/patadata/NEWS",
+		"/C/Users/paulf/Documents/patadata/utils/new-songs-list.sh",
+		"/C/Users/paulf/Documents/patadata/songs/jean-jacques_goldman/famille.sg",
+		"/C/Users/paulf/Documents/patadata/songs/georges_brassens/pour_me_rendre_a_mon_bureau.sg",
 		"/C/Users/paulf/Documents/patadata/songs/edith_piaf/la_foule.sg",
 		"/C/Users/paulf/Documents/patadata/songs/boby_lapointe/sentimental_bourreau.sg",
 		"/C/Users/paulf/Documents/patadata/songs/georges_brassens/la_mauvaise_reputation.sg",
@@ -270,7 +226,6 @@
 		"/C/Users/paulf/Documents/patadata/songs/amplitude/comme_un_appel.sg",
 		"/C/Users/paulf/Documents/patadata/songs/amplitude/avec_ma_tribu.sg",
 		"/C/Users/paulf/Documents/patadata/songs/amplitude/chant_des_equipages.sg",
-		"/C/Users/paulf/Documents/patadata/songs/les_wriggles/julie_la_petite_olive.sg",
 		"/C/Users/paulf/Documents/patadata/songs/georges_brassens/le_gorille.sg",
 		"/E/Onebox/WIP/1802 CPP article/simulator_v3_check/1024_coded_2.tikz",
 		"/E/Onebox/WIP/1802 CPP article/figures/pfe_256_coded_r1_08.data",
@@ -300,7 +255,6 @@
 		"/C/Users/paulf/Documents/patacrep/patacrep/data/templates/styles/crepbook.sty",
 		"/C/Users/paulf/Documents/patadata/songs/les_ogres_de_barback/contes_vents_et_marees.sg",
 		"/C/Users/paulf/Documents/patadata/songs/oldelaf_et_monsieur_d/cafe.sg",
-		"/C/Users/paulf/Documents/patadata/songs/georges_brassens/pour_me_rendre_a_mon_bureau.sg",
 		"/C/Users/paulf/Documents/patadata/songs/georges_brassens/les_copains_d_abord.sg",
 		"/C/Users/paulf/Documents/patadata/songs/michel_sardou/en_chantant.sg",
 		"/C/Users/paulf/Documents/patadata/songs/oldelaf_et_monsieur_d/nathalie.sg",
@@ -312,14 +266,12 @@
 		"/C/Users/paulf/Documents/patadata/templates/songbook/ereader2.tex",
 		"/C/Users/paulf/Documents/patacrep/patacrep/data/templates/songbook/layout.tex",
 		"/C/Users/paulf/Documents/patadata/songs/boby_lapointe/l_ange.sg",
-		"/C/Users/paulf/Documents/patadata/songs/charles_aznavour/emmenez-moi.sg",
 		"/C/Users/paulf/Documents/patadata/songs/hugues_aufray/le_bon_dieu_s_enervait.sg",
 		"/C/Users/paulf/Documents/patadata/songs/hugues_aufray/le_petit_ane_gris.sg",
 		"/C/Users/paulf/Documents/patacrep/patacrep/authors.py",
 		"/C/Users/paulf/Documents/songbook/songs/les_fatals_picards/mon_pere_etait_tellement_de_gauche.sg",
 		"/C/Users/paulf/Documents/patadata/songs/tri_yann/les_filles_des_forges.sg",
 		"/C/Users/paulf/Documents/patadata/templates/styles/license-small.tex",
-		"/C/Users/paulf/Documents/patadata/songs/les_fatals_picards/mon_pere_etait_tellement_de_gauche.sg",
 		"/C/Users/paulf/Documents/patadata/songs/jean-jacques_goldman/et_l_on_y_peut_rien_short.sg",
 		"/C/Users/paulf/Documents/patadata/songs/les_cowboys_fringants/hannah_short.sg",
 		"/C/Users/paulf/Documents/songbook/templates/ereader.tmpl",
@@ -341,7 +293,6 @@
 		"/C/Users/paulf/Documents/songbook/songs/jean-jacques_goldman/et_l_on_y_peut_rien_no_bridge.sg",
 		"/C/Users/paulf/Documents/songbook/songs/les_ogres_de_barback/solene_de_grenoble.sg",
 		"/C/Users/paulf/Documents/patadata/books/songbook_fr.yaml",
-		"/C/Users/paulf/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Wrap in environment.sublime-snippet",
 		"/C/Users/paulf/Documents/songbook/songs/leonard_cohen/hallelujah.sg",
 		"/C/Users/paulf/Documents/songbook/songs/les_fatals_picards/la_securite_de_l_emploi.sg",
 		"/C/Users/paulf/Documents/songbook/songs/les_ogres_de_barback/contes_vents_et_marees.sg",
@@ -375,12 +326,7 @@
 		"/C/Users/paulf/Documents/songbook/tex/songs.sty",
 		"/C/Users/paulf/Documents/songbook/tex/chords.tex",
 		"/C/Users/paulf/Documents/songbook/books/default.sb",
-		"/C/Users/paulf/Documents/songbook/windows/make.bat",
-		"/C/Users/paulf/OneDrive/Documents/perso/songbook/francais.tex",
-		"/C/Users/paulf/pfearc@gmail.com/2018 - Les calanques Corses/Candidatures/Lettre type.txt",
-		"/E/Onebox/WIP/1804 Shanghai trip/report/report.tex",
-		"/C/Users/paulf/OneDrive/Notes/Windows Installs.md",
-		"/C/Users/paulf/OneDrive/Documents/work/teaching/2017 ENSEA IoT/TPs/CALLIGARO_WEBER/tpiot/ser_ber_curve.m"
+		"/C/Users/paulf/Documents/songbook/windows/make.bat"
 	],
 	"find":
 	{
@@ -399,6 +345,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\\[F]\t",
+			"\\[Am]",
+			"\\[C]",
+			"\\[G]",
+			"\\[F]\t",
+			"verse",
+			"verse*",
 			"samechords",
 			"repeatchords",
 			"E&",
@@ -494,130 +447,11 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "templates/songbook/ereader.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5073,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3581,
-								3582
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "songs/josh_white/one_meatball.sg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1380,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								559,
-								559
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "songs/charles_aznavour/emmenez-moi.sg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2439,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								38,
-								38
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "songs/boby_lapointe/meli-melodie.sg",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 2031,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								647,
-								647
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "songs/jeremie_dazy/je_prends_le_relais.sg",
 					"semi_transient": false,
 					"settings":
@@ -629,8 +463,8 @@
 						"selection":
 						[
 							[
-								135,
-								135
+								644,
+								644
 							]
 						],
 						"settings":
@@ -640,33 +474,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 48.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 3,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 1,
-			"sheets":
-			[
+				},
 				{
-					"buffer": 5,
-					"file": "books/paul.yaml",
+					"buffer": 1,
+					"file": "books/corse-2018.yaml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4038,
+						"buffer_size": 4493,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								659,
-								659
+								1549,
+								1549
 							]
 						],
 						"settings":
@@ -676,19 +504,55 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 180.0,
+						"translation.y": 480.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "songs/georges_brassens/pour_me_rendre_a_mon_bureau.sg",
+					"buffer": 2,
+					"file": "templates/songbook/ereader.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3291,
+						"buffer_size": 5077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5046,
+								5046
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2537.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "books/paul.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4400,
 						"regions":
 						{
 						},
@@ -696,110 +560,20 @@
 						[
 							[
 								225,
-								225
+								4318
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "songs/les_cowboys_fringants/ti-cul.sg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3700,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2631,
-								2631
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1770.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "songs/jean-jacques_goldman/je_te_donne.sg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2407,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								284,
-								284
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1043.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "songs/jean-jacques_goldman/famille.sg",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2607,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								427,
-								427
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 803.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1013,7 +787,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},

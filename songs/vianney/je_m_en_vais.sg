@@ -9,9 +9,10 @@
   \gtab{C}{X32010}
   \gtab{D4}{X54030}
   \gtab{Bm}{X13321}
-  [G]
 
-  \musicnote{\Intro :{\[Em C D4 Em C D4 Em}}
+  \begin{verse*}
+  \musicnote{\Intro : \nolyrics{\[Em C D4 Em C D4 Em]}}
+  \end{verse*}
   \begin{verse}
 	\[Em]J'ai troqué mes cliques et mes \[C]claques
 	\[D4]Contre des cloques et des \[Em]flaques
@@ -29,7 +30,7 @@
 	Dieu que je l'aime
   \end{verse*}
   
-  \musicnote{\nolyrics{\[Em C D4}}
+  % \textnote{\nolyrics{\[Em C D4}}
   
   \begin{chorus}
 	\[Em]  Et tournent tournent dans ma \[C]tête
@@ -42,37 +43,31 @@
 	Je m'en vais  
   \end{chorus}
   
-  \musicnote{\nolyrics{\[Em C D4 Em}}
-  \musicnote{\nolyrics{\[Em C Bm Em}}
-  
-  \begin{verse}
-	\[Em]  Et ce qui perle sur mon \[C]front
-	\[D4]Gouttes de pluie gouttes de \[Em]froid
-	\[Em]  Donne des ailes donne \[C]donc
-	\[D4]  L'ennuie de m'éloigner de \[Em]toi 
-  \end{verse}
-  
   \begin{verse*}
-	\[Em]  Et mes larmes	\[C]
-	Et mes armes	\[D4]
-	Sont ma peine,
-	Ma \[Em]peine plus que la haine
-	\[Em]  Et mes larmes	\[C]
-	Mes larmes	\[D4]
-	Dieu que j'ai mal
+  \musicnote{\nolyrics{\[Em C D4 Em Em C Bm Em]}}
   \end{verse*}
+
+  \begin{repeatedchords}
+  \begin{verse}
+  	\[Em]  Et ce qui perle sur mon \[C]front
+  	\[D4]Gouttes de pluie gouttes de \[Em]froid
+  	\[Em]  Donne des ailes donne \[C]donc
+  	\[D4]  L'ennuie de m'éloigner de \[Em]toi 
+    \end{verse}
+    
+    \begin{verse*}
+  	\[Em]  Et mes larmes	\[C]
+  	Et mes armes	\[D4]
+  	Sont ma peine,
+  	Ma \[Em]peine plus que la haine
+  	\[Em]  Et mes larmes	\[C]
+  	Mes larmes	\[D4]
+  	Dieu que j'ai mal
+    \end{verse*}
+  \end{repeatedchords}
   
-  \musicnote{\nolyrics{\[Em C D4 Em}}
-  \musicnote{\nolyrics{\[Em C Bm Em}}
-  
-  \musicnote{\Chorus}
-  
-  \begin{verse*}
+  \begin{bridge}
 	Je m'en va\[C]is	\[Am]	\[D4]	\[G]
 	Je m'en va\[C]is	\[Am]	\[Bm]	\[Bm]
-  \end{verse*}
-  
-  \musicnote{\Chorus}
-  \musicnote{\nolyrics{\[Em C D4 Em}}
-  \musicnote{\nolyrics{\[Em C Bm Em}}
+  \end{bridge}
 \endsong
