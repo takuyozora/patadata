@@ -1,0 +1,57 @@
+\selectlanguage{english}
+\songcolumns{1}
+\beginsong{Castle on the Hill}
+  [by={Ed Sheeran}]
+
+\begin{verse}
+\[D] When I was six \[D/F#]years \[G]old I broke my leg \[Bm] \[A7sus4]
+\[D] I was run\[D/F#]ning \[G]from my brother and \[Bm]his friends \[A7sus4]
+\[D] And tasted \[D/F#]the \[G]sweet perfume of the \[Bm]mountain grass I \[A7sus4]rolled down
+\[D] I was youn\[D/F#]ger \[G]then,\[Bm]  take me back to \[A7sus4]when I
+\end{verse}
+
+\begin{verse*}
+\[G] Found my \[A7sus4]heart and broke it \[D]here, made friends and \[G]lost them through the years
+And I've not \[A7sus4]seen the roaring \[D]fields in so long, I \[G]know I've grown
+But I can't \[A7sus4]wait to go home
+\end{verse*}
+
+\begin{chorus}
+\[D]I'm on \[D/F#]my \[G]way, \[Bm]driving at \[A7sus4]ninety down
+\[D]those coun\[D/F#]try \[G]lanes, \[Bm]singing to \[A7sus4]Tiny Dancer
+And \[D]I miss \[D/F#]the \[G]way you make \[Bm] me feel,\[A7sus4] and it's real
+when \[D]we watched \[D/F#]the \[G]sunset \[Bm]over the \[A7sus4]castle on the hill \[D]
+\end{chorus}
+
+\begin{verse}
+Fifteen years old and smoking hand-rolled cigarettes
+Running from the law through the backfields and getting drunk with my friends
+Had my first kiss on a Friday night, I don't reckon that I did it right
+But I was younger then, take me back to when
+\end{verse}
+
+\begin{verse*}
+We found weekend jobs, when we got paid, we'd buy cheap spirits and drink them straight
+Me and my friends have not thrown up in so long, oh how we've grown
+But I can't wait to go home
+\end{verse*}
+
+\begin{bridge}
+\[Bm] One friend \[G]left to sell clothes,\[D] one works \[A7sus4]down by the coast
+One had two kids but lives alone, one's brother overdosed
+One's already on his second wife, one's just barely getting by
+But these people raised me and I can't wait to go home
+\end{bridge}
+
+\textnote{Dernier chorus : "When we did not know the answers" $\leftrightarrow$ "Singing to Tiny Dancer"}
+% \begin{chorus}
+% And I'm on my way, I still remember
+% These old country lanes
+% When we did not know the answers
+% And I miss the way you make me feel, it's real
+% We watched the sunset over the castle on the hill
+% Over the castle on the hill
+% Over the castle on the hill
+% \end{chorus}
+
+\endsong
