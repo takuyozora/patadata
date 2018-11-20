@@ -1,0 +1,59 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Jeune Fille Du Métro}
+  [by={Renaud}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+  \cover
+  \gtab{D}{XX0232}
+  \gtab{A}{X02220}
+  \gtab{G}{310003}
+
+  
+  \begin{verse}
+    \[D]C'était une jeune \[A]fille simple et b\[D]onne
+    Qui demand\[A]ait rien à p\[D]ersonne
+    U\[A]n soir dans l'métro, y avait \[D]presse
+    U\[A]n jeune homme osa, je l'con\[D]fesse
+    Lu\[A]i passer la main sur les ... \[D]ch'veux
+    Comm\[G]e elle était gen\[D]tille, elle s'a\[A]pprocha un \[D]peu.
+  \end{verse}
+
+  \begin{verse}
+    Mais comme a craignait pour ses robes
+    A ses attaques elle se dérobe
+    Sentant quelqu'chose qui la chatouille
+    Derrière son dos elle tripatouille
+    Et tombe sur une belle paire de ... gants
+    Que l'jeune homme, à la main, tenait négligemment.
+  \end{verse}
+    
+  \begin{verse}
+    En voyant l'émoi d'la d'moiselle
+    Il s'approcha un p'tit peu d'elle
+    Et comme en chaque homme, tout de suite
+    S'éveille le démon qui l'habite
+    Le jeune lui sorti sa ... carte
+    Et lui dit j'm'appelle Jules, et j'habite rue Descartes.
+  \end{verse}
+  
+  \begin{verse}
+    L'métro continue son voyage
+    Elle se dit c'jeune homme n'est pas sage
+    Je sens quelque chose de pointu
+    Qui d'un air ferme et convaincu
+    Cherche à pénétrer dans mon ... cœur
+    Ah qu'il est doux d'aimer, quel frisson de bonheur.
+  \end{verse}
+  
+  \begin{verse}
+    Ainsi à Paris, quand on s'aime
+    On peut se le dire sans problème
+    Peu importe le véhicule
+    N'ayons pas peur du ridicule
+    Dites lui simplement je t'en ... prie
+    Viens donc à la maison manger des spaghettis.
+  \end{verse}
+
+\endsong
