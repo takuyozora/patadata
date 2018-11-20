@@ -1,0 +1,68 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Non Je Ne Regrette Rien}
+  [by={Edith Piaf}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+  \cover
+  \gtab{D}{XX0232}
+  \gtab{G}{320003}
+  \gtab{E}{022100}
+  \gtab{A}{X02220}
+  \gtab{Dm}{XX0231}
+  \gtab{C}{X32010}
+  \gtab{B&}{1:X03330}
+  \gtab{Gm}{1:033000}
+  
+  \begin{verse*}
+    {\nolyrics
+      \musicnote{Intro:~~ \[G] \[D/F\shrp] \[D/F\shrp] \[G]}
+    }
+  \end{verse*}
+  
+  \begin{chorus}
+    \[G]Non! Rien de \[D/F#]rien ...
+    Non! Je ne regrette \[G]rien ...
+    Ni le \[C]bien qu'on m'a \[C+]fait
+    Ni le \[C6]mal tout ça m'est bien \[Am/D]égal! \[D]\newline
+  
+    \[G]Non! Rien de \[D/F#]rien ...
+    Non! Je ne regrette \[G]rien ...
+    C'est pa\[C]yé, bal\[Am]ayé, oub\[D]lié
+    Je me \[D7]fous du pas\[G]sé!
+  \end{chorus}
+  
+  \begin{verse*}
+    Avec mes souven\[G]irs
+    J'ai allumé le feu
+    Mes chagrins, mes plais\[D7]irs
+    Je n'ai plus besoin \[G]d'eux!
+  \end{verse*}
+  \begin{verse*}  
+    Balayés les am\[G]ours
+    Avec leurs trémolos
+    Balayés pour touj\[D]ours
+    Je repars à zér\[G]o ...
+  \end{verse*}
+  
+  \begin{chorus}
+    Non! Rien de rien ...
+    Non! Je ne regrette rien...
+    Ni le bien qu'on m'a fait
+    Ni le mal tout ça m'est bien égal!\newline
+    
+    Non! Rien de rien ...
+    Non! Je ne regrette rien ...
+  \end{chorus}
+   
+  \begin{verse*}
+    Car ma \[C]vie,\[C+] car me\[C6]s joi\[C7]es
+    Aujourd'\[D6/B]\[D7]hui, ça comm\[D7]ence avec \[G]toi! \[G6]
+    \[G] \[E] \[E6] \[E]
+  \end{verse*}
+
+
+  
+
+\endsong
