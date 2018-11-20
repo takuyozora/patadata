@@ -1,0 +1,74 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Milord}
+  [by={Edith Piaf}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+  \cover
+  \gtab{D}{XX0232}
+  \gtab{G}{320003}
+  \gtab{E}{022100}
+  \gtab{A}{X02220}
+  \gtab{Dm}{XX0231}
+  \gtab{C}{X32010}
+  \gtab{B&}{1:X03330}
+  \gtab{Gm}{1:033000}
+  
+  \begin{chorus}                                  
+    \[D]Allez, venez, Milord! Vous asseoir \[G]à ma table, 
+    il fait si \[D]froid, dehors, \[E]ici c'est confor\[A]table. 
+    Laissez vous \[D]faire, Milord, et prenez \[D]bien vos aises, 
+    vos peines \[D]sur mon coeur, et \[E]vos pieds sur une \[A]chaise. 
+    Je vous \[D]connais, Milord, vous n'm'\[G]avez jamais vue, 
+    je ne suis \[D]qu'une fille du port, \[G]qu'une ombre de la rue. 
+  \end{chorus}
+  
+  \begin{verse}
+    \[Dm]{Pou}rtant, je vous ai fr\[A]{ôlé}, \[Dm]{qua}nd vous passiez \[A]{hi}er,
+    \[Dm]{Vou}s n'étiez pas peu \[A]{fie}r, Dame ! le ciel vous comblait :
+    \[Dm]{Vot}re foulard de soie \[C]{fl}ottant sur vos \[B&]{ép}aules
+    \[Gm]{Vou}s aviez le beau rôle, on aurait dit le \[B&]{roi}.
+    \[Dm]{Vou}s marchiez en \[C]{vainqueur} \[Dm]{au} bras d'une \[C]{demoiselle},
+    \[B&]{Mon} Dieu ! \[A]{Qu}'elle était belle, \[B&]{j'en} ai froid dans le cœur.
+  \end{verse}
+  
+  \begin{verse}
+    Dire qu'il suffit parfois, qu'il y ait un navire
+    Pour que tout se déchire, quand le navire s'en va
+    Il emmenait avec lui, la douce aux yeux si tendres
+    Qui n'a pas su comprendre, qu'elle brisait votre vie.
+    L'amour, ça fait pleurer, comme quoi l'existence
+    Ça vous donne toutes les chances, pour les reprendre après...
+  \end{verse}
+ 
+  \begin{chorus} 
+    Allez ! venez, Milord ! Vous avez l'air d'un môme !
+    Laissez-vous faire, Milord, venez dans mon royaume :
+    Je soigne les remords, je chante la romance,
+    Je chante les milords, qui n'ont pas eu de chance !
+    Regardez-moi, Milord, vous ne m'avez jamais vue...
+    ..Mais.. vous pleurez, Milord! Ça.. j'l'aurais jamais cru !..
+  \end{chorus}
+ 
+ 
+  \textnote[french]{mi-récité, mi-chanté}
+
+  \begin{verse}
+    Eh ! bien voyons, Milord ! Souriez-moi, Milord !
+    .. Mieux que ça ! Un p'tit effort...
+    Voilà, c'est ça !
+     
+    Allez ! riez, Milord
+    Allez ! chantez, Milord
+    Ta da da da...
+   
+    Mais oui, dansez, Milord
+    Ta da da da...
+     
+    Bravo ! Milord...
+     
+    Encore, Milord...
+  \end{verse}
+
+\endsong
