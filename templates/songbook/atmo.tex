@@ -1,0 +1,165 @@
+% Copyright (C) 2014 The Patacrep Team
+% Copyright (C) 2009-2010 Romain Goffe, Alexandre Dupas
+% Copyright (C) 2008 Kevin W. Hamlen
+%
+% This program is free software; you can redistribute it and/or
+% modify it under the terms of the GNU General Public License
+% as published by the Free Software Foundation; either version 2
+% of the License, or (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+% GNU General Public License for more details.
+%
+% You should have received a copy of the GNU General Public License
+% along with this program; if not, write to the Free Software
+% Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+% MA  02110-1301, USA.
+
+(* variables *)
+schema:
+  type: //rec
+  optional:
+    chordfont: //str
+    chordcolor: //str
+    chordsize: //str
+    versefont: //str
+    chorusfont: //str
+    geometry: //str
+    column_adjustment:
+      type: //any
+      of:
+        - type: //str
+          value: "only_one"
+        - type: //str
+          value: "one_more"
+        - type: //str
+          value: "two"
+        - type: //str
+          value: "none"
+default:
+  en:
+    chordfont: "i"
+    chordcolor: "000000"
+    chordsize: "n"
+    versefont: ""
+    chorusfont: "i"
+    geometry: "a4paper"
+    column_adjustment: none
+description:
+  en:
+    chordfont: "Chord font (i, b, n)"
+    chordcolor: "Chord color, hexadecimal notation"
+    chordsize: "Chord font size"
+    versefont: "Verse font (i, b, n)"
+    chorusfont: "Chorus font (i, b, n)"
+    geometry: "Paper geometry (size, margin, orientation...), as options of the LaTeX geometry package."
+    column_adjustment: "Column adjsutment."
+  fr:
+    chordfont: "Police des accords"
+    chordcolor: "Couleur des accords en notation hexadécimale"
+    chordsize: "Taille de la police pour les accords"
+    versefont: "Police des couplets"
+    chorusfont: "Police des refrains"
+    geometry: "Format du papier (taille, marges, orientation...), avec le même format que les options du paquet LaTeX geometry."
+    column_adjustment: "Ajustement des colonnes."
+
+
+(* endvariables *)
+
+% begin document
+(* extends "patacrep.tex" *)
+
+(* block preambule *)
+(*- set template_var = _template["atmo.tex"] -*)
+
+%% CUSTOM
+\renewcommand{\songmark}{\markboth{\thesongnum}{\thesongnum}}
+\usepackage{tabularx}
+\usepackage{multirow}
+\newcounter{lineno}
+\newenvironment{mbis}[2][]
+{
+	%\newcounter{numlines}
+	\setcounter{lineno}{0}%
+	%\setcounter{numlines}{#1}
+	\renewcommand{\line}[1]{\small\textbf{##1}&\stepcounter{lineno}\ifnum\value{lineno}=1\multirow{#1}{*}{\hspace{-4pt}{\small\it\bfseries(bis)}}\fi\ifnum \value{lineno}<#1\\\fi}
+	\if\detokenize{f}\detokenize{#2}\relax%
+	~\vspace{-0.72\baselineskip}\\\fi%
+	\setlength\arrayrulewidth{0.8pt}%
+	\tabularx{\hsize}{@{}X|r}
+}
+{
+	\endtabularx
+}
+\newcommand{\linerep}[2]{\small\textbf{#1}\hfill{\footnotesize(x#2)}}
+%%
+
+%! Font management
+\makeatletter
+\renewcommand{\chorusfont}{%
+   (* for letter in template_var.chorusfont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+
+\def\@chordfont{%
+
+   (* if template_var.chordfont=="i" *)  \it %
+   (* elif template_var.chordfont=='b' *)   \bf %
+   (* elif template_var.chordfont=='bi' *)   \it \bfseries %
+   (* elif template_var.chordfont=='n' *)   \normalfont %
+   (* endif *)
+
+   
+   (* for size in template_var.chordsize *)
+   (* if size=='s' *) \small %
+   (* elif size=='f' *) \footnotesize %
+   (* elif size=='r' *) \scriptsize %
+   (* elif size=='t' *) \tiny %
+   (* endif *)
+   (* endfor *)
+}
+\definecolor{ChordColor}{HTML}{(( template_var.chordcolor ))}
+\renewcommand{\printchord}[1]{\@chordfont\textcolor{ChordColor}{#1}}
+
+\renewcommand{\lyricfont}{%
+   (* for letter in template_var.versefont *)
+   (* if letter=="i" *)   \it %
+   (* elif letter=='b' *)   \bf %
+   (* elif letter=='n' *)   \normalfont %
+   (* endif *)
+   (* endfor *)
+}
+\makeatother
+%! End of font management
+
+\geometry{
+ ((template_var.geometry))
+}
+
+%! Temporary hack for columns management
+\let\OldSongColumns=\songcolumns
+\def\songcolumns#1{%
+(* if template_var.column_adjustment=="only_one" *)
+    \OldSongColumns{1}
+(* elif template_var.column_adjustment=="two" *)
+    \count0=1\relax\advance\count0 by 1\relax%
+    \OldSongColumns{2}
+(* elif template_var.column_adjustment=="one_more" *)
+    \count0=#1\relax\advance\count0 by 1\relax%
+    \OldSongColumns{\count0}
+(* else *)
+    \OldSongColumns{#1}
+(* endif *)
+}
+%! End of columns management
+(* endblock *)
+
+(* block preface *)
+(* endblock *)
+% end document
