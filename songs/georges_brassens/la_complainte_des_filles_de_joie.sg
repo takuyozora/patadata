@@ -1,0 +1,91 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Complainte Des Filles De Joie}
+  [by={Georges Brassens}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+  \cover
+  \gtab{Bm}{2:X04430}
+  \gtab{G}{310003}
+  \gtab{F#}{2:044300}
+  \gtab{D}{XX0232}
+  \gtab{D7}{XX0212}
+  \gtab{Em}{022000}
+  
+ \begin{verse*}
+    {\nolyrics
+      \musicnote{Intro:~~ \[Bm]}
+    }
+  \end{verse*}
+
+
+  \begin{verse} 
+    Bien \[Bm]que ces vaches de bourgeois
+    Bien \[G]que ces vaches \[F#]de bourgeois
+    Les \[Bm]appellent des filles de joie
+    Les \[G]appellent des fil\[F#]les de joie
+    C’est \[D]pas tous les \[D7]jours qu’ell’s ri\[Em]golent,
+    \hspace{15pt}Pa\[Bm]role, pa\[F#]role,
+    \[Bm]C’est pas tous les \[Em]jours qu’elles ri\[G]go-\[F#]o-\[Bm]lent.
+  \end{verse} 
+
+  \begin{verse}
+    Car, même avec des pieds de grue, 	
+    Fair’ les cent pas le long des rues 	
+    C’est fatiguant pour les guibolles,
+    Parole, parole,
+    C’est fatiguant pour les guibolles.
+  \end{verse}
+
+\begin{verse}
+    Non seulement ell’s ont des cors, 	
+    Des oeils-de-perdrix, mais encore 	
+    C’est fou ce qu’ell’s usent de grolles,
+    Parole, parole,
+    C’est fou ce qu’ell’s usent de grolles.
+  \end{verse}
+\begin{verse}
+    Y’a des clients, y’a des salauds 		
+    Qui se trempent jamais dans l’eau. 	
+    Faut pourtant qu’elles les cajolent,
+    Parole, parole,
+    Faut pourtant qu’elles les cajolent.
+  \end{verse}
+\begin{verse}
+    Qu’ell’s leur fassent la courte échell’ 	
+    Pour monter au septième ciel. 		
+    Les sous, croyez pas qu’ell’s les volent,
+    Parole, parole,
+    Les sous, croyez pas qu’ell’s les volent.
+  \end{verse}
+\begin{verse}
+    Ell’s sont méprisé’s du public, 		
+    Ell’s sont bousculé’s par les flics, 	
+    Et menacé’s de la vérole,
+    Parole, parole,
+    Et menacé’s de la vérole
+  \end{verse}
+\begin{verse}
+    Bien qu’tout la vie ell’s fass’nt l’amour
+    Qu’ell’s se marient vingt fois par jour,	
+    La noce est jamais pour leur fiole,
+    Parole, parole,
+    La noce est jamais pour leur fiole.
+  \end{verse}
+\begin{verse}
+    Fils de pécore et de minus, 		
+    Ris pas de la pauvre Vénus, 		
+    La pauvre vieille casserole,
+    Parole, parole,
+    La pauvre vieille casserole.
+  \end{verse}
+\begin{verse}
+    Il s’en fallait de peu, mon cher, 		
+    Que cett’ putain ne fût ta mère, 		
+    Cette putain dont tu rigoles,
+    Parole, parole,
+    Cette putain dont tu rigoles.
+  \end{verse}
+
+\endsong
