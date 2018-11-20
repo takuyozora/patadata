@@ -1,0 +1,55 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les Archers Du Roy}
+  [by={}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+  \begin{verse}
+    Ils ont commencé la saison
+    En fauchant les moissons
+    Avec les sabots de leurs coursiers
+    Ils sont venus à la maison
+    Ils ont pris les garçons
+    Sans demander permission
+    Je les ai vu courber l’échine
+    Sous les coups de fouet qui pleuvaient
+    Cordes d’acier bardées d’épines
+    Qui les mordaient les saignaient
+  \end{verse}
+
+  \begin{chorus}
+    \begin{mbis}[2]{f}
+      \line{Non ne me demandez pas}
+      \line{De saluer les archers du roi}
+    \end{mbis}
+  \end{chorus}
+
+  \begin{verse}
+    Et tout là-haut sur la colline
+    La potence est dressée
+    Pour pendre ceux qu’on a condamnés
+    On y accroche au matin
+    Le mendiant qui a faim
+    Le bandit de grands chemins
+    Celui qui dans sa misère
+    Voulut maudire le nom du roi
+    Parce qu’il lui avait pris sa terre
+    Son blé sa réserve de bois
+  \end{verse}
+
+  \begin{verse}
+    Derrière chez moi il y avait
+    une fille que j’aimais
+    et qui m’avait donné ses printemps
+    mais un jour on l’a emmenée
+    pour aller assister
+    à la noce d’un archer
+    j’ai vu des tours tomber la pierre
+    j’ai entendu les gens hurler
+    son corps fut jeté sans prières
+    sur le bas-côté d’un fossé
+  \end{verse}
+  
+  
+\endsong
