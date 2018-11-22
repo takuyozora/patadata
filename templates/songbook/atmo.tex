@@ -73,26 +73,84 @@ description:
 
 (* block preambule *)
 (*- set template_var = _template["atmo.tex"] -*)
-
+\songpos{0}
 %% CUSTOM
 \renewcommand{\songmark}{\markboth{\thesongnum}{\thesongnum}}
-\usepackage{tabularx}
-\usepackage{multirow}
+%\usepackage{tabularx}
+%\usepackage{tabu}
+%\usepackage{multirow}
+%\usepackage{array}
+%\usepackage{environ}
+%\usepackage{collect}
 \newcounter{lineno}
-\newenvironment{mbis}[2][]
-{
-	%\newcounter{numlines}
-	\setcounter{lineno}{0}%
-	%\setcounter{numlines}{#1}
-	\renewcommand{\line}[1]{\small\textbf{##1}&\stepcounter{lineno}\ifnum\value{lineno}=1\multirow{#1}{*}{\hspace{-4pt}{\small\it\bfseries(bis)}}\fi\ifnum \value{lineno}<#1\\\fi}
-	\if\detokenize{f}\detokenize{#2}\relax%
-	~\vspace{-0.72\baselineskip}\\\fi%
-	\setlength\arrayrulewidth{0.8pt}%
-	\tabularx{\hsize}{@{}X|r}
+
+%%%
+% IT'S WORKING : AVEC LES ACCORDS !! SANS ARGUMENT !!
+%%%
+\makeatletter
+\def\marker{\end{bis}}
+{\obeylines
+\gdef\getlines#1
+{\def\text{#1}%
+	\ifx\text\marker \let\next\text \else
+	\line{#1} \let\next\getlines\fi \next}}
+\newlength{\bislyrics}
+
+\newenvironment{bis}{
+\setcounter{lineno}{0}
+\def\tabcolsep{0pt}%
+\setlength\arrayrulewidth{0.5pt}%
+\setbox0=\hbox{\footnotesize({\it\bfseries bis})}
+\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep-4pt)\relax}
+\renewcommand{\line}[1]{\small{\bf{##1}}}%
+\setbox2=\hbox{~}
+\setbox1=\vbox{\copy2\hspace{-1.5\wd2}\\}
+\copy1
+\vspace{-0.72\ht1}
+\begin{tabular}{p{\bislyrics}@{\hspace{4pt}}|}%
+\begingroup\obeylines\getlines}%
+{\endgroup%
+\end{tabular}%
+\begin{tabular}{@{\hspace{1pt}}l}%
+	\copy0
+\end{tabular}
+\\[0.1\ht1]
+%\vspace{-0.72\ht1}
 }
-{
-	\endtabularx
-}
+\makeatother
+%%%
+
+
+%%%
+% IT'S WORKING !!! (sans les accords pour l'instant)
+%%%
+%\makeatletter
+%\def\activateCtrlChars{%
+%	\catcode`\^^M=\active
+%	\begingroup\lccode`~=`\^^M\lowercase{\endgroup\bf\small\def~}{\egroup\\\bgroup}%
+%}
+%\begingroup																															
+%\obeylines
+%\gdef\gobbleLineBreak{\@ifnextchar^^M{\@gobble}{}}%
+%\endgroup%
+%\makeatother
+%\newlength{\bislyrics}
+%\newenvironment{newbis}[1][]{%
+%	\def\tabcolsep{3pt}%
+%	\setbox0=\hbox{\small\it\bfseries(bis)}
+%	\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep+10pt)\relax}
+%	\if\detokenize{f}\detokenize{#1}\relax%
+%	~\vspace{-0.72\baselineskip}\\\fi%
+%	\activateCtrlChars%
+%		\tabularx{\bislyrics}{@{}X|}\gobbleLineBreak\bgroup%
+%	}
+%{\egroup\endtabularx%
+%	\def\tabcolsep{2pt}%
+%\begin{tabular}{l}
+%\copy0
+%\end{tabular}}
+%%%
+
 \newcommand{\linerep}[2]{\small\textbf{#1}\hfill{\footnotesize(x#2)}}
 %%
 
@@ -149,7 +207,7 @@ description:
     \OldSongColumns{1}
 (* elif template_var.column_adjustment=="two" *)
     \count0=1\relax\advance\count0 by 1\relax%
-    \OldSongColumns{2}
+    \OldSongColumns{\count0}
 (* elif template_var.column_adjustment=="one_more" *)
     \count0=#1\relax\advance\count0 by 1\relax%
     \OldSongColumns{\count0}
