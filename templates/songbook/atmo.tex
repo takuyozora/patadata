@@ -85,107 +85,81 @@ description:
 %\newcounter{lineno}
 
 %%%
-% IT'S WORKING : AVEC LES ACCORDS !! SANS ARGUMENT !!
+% BIS : IT'S WORKING : AVEC LES ACCORDS !! SANS ARGUMENT !!
 %%%
 \makeatletter
+%% Magic auto bis row for each line
 \def\marker{\end{bis}}
 {\obeylines
 \gdef\getlines#1
 {\def\text{#1}%
 	\ifx\text\marker \let\next\text \else
 	\line{#1} \let\next\getlines\fi \next}}
-\newlength{\bislyrics}
+%%
+%% CONF VARIABLE DIMENSION %%
+\newlength{\bislyricslen}		% Bis lyrics space before vbar
+\newlength{\setbispadtoplen}	% Top padding between bis block and prev line
 
+% Default value (verse)
+\def\bislyrics{-4pt}			
+\def\bispadtop{-0.72}
 
-\newenvironment{bis}{
-\def\tabcolsep{0pt}%
-\setlength\arrayrulewidth{0.5pt}%
-\setbox0=\hbox{\footnotesize({\it\bfseries bis})}
-\setbislyricslength
-\renewcommand{\line}[1]{\small{\bf{##1}}}%
-\setbox2=\hbox{~}
-\setbox1=\vbox{\copy2\hspace{-1.5\wd2}\\}
-\copy1
-\vspace{-0.72\ht1}
-\begin{tabular}{p{\bislyrics}@{\hspace{4pt}}|}%
-\begingroup\obeylines\getlines}%
-{\endgroup%
-\end{tabular}%
-\begin{tabular}{@{\hspace{1pt}}l}%
-	\copy0
-\end{tabular}
-\\[0.1\ht1]
-%\vspace{-0.72\ht1}
-}
-
-\newcommand{\setbislyricslength}{\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep-4pt)\relax}}
-
-\newcommand{\lbis}[1]{\def\tabcolsep{0pt}%
-	\setlength\arrayrulewidth{0.5pt}%
-	\setbox0=\hbox{\footnotesize({\it\bfseries bis})}
-	\setbislyricslength
-	\renewcommand{\line}[1]{\small{\bf{##1}}}%
-	\setbox2=\hbox{~}
+% Do computation of final value
+\newcommand{\setbislyrics}{\setlength{\bislyricslen}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep+(\bislyrics))\relax}}
+\newcommand{\setbispadtop}{\setbox2=\hbox{~}
 	\setbox1=\vbox{\copy2\hspace{-1.5\wd2}\\}
 	\copy1
-	\vspace{-0.72\ht1}
-	\begin{tabular}{p{\bislyrics}@{\hspace{4pt}}|}%
-		\line{#1}
-	\end{tabular}%
-	\begin{tabular}{@{\hspace{1pt}}l}%
-	\copy0
+	\setlength{\setbispadtoplen}{\bispadtop\ht1\relax}}
+%%
+\renewcommand{\line}[1]{\small{\bf{#1}}}%		% Style of bis line
+%% BIS ENVIRONMENT
+\newenvironment{bis}{\def\tabcolsep{0pt}%				% To correctly align from the left
+	\setlength\arrayrulewidth{0.5pt}%					% Width of the bis vbar
+	\setbox0=\hbox{\footnotesize({\it\bfseries bis})}	% bis as it will be displayed
+	\setbislyrics										% compute bis lyrics len
+	\setbispadtop										% compute top padding
+	\vspace{\setbispadtoplen}							% apply top padding
+	\begin{tabular}{p{\bislyricslen}@{\hspace{4pt}}|}%	% apply bis lyrics len
+\begingroup\obeylines\getlines}%						% magic auto row for each line
+%
+{\endgroup%												% close magic
+	\end{tabular}%										% close bis lyrics tab
+	\begin{tabular}{@{\hspace{1pt}}l}%					% tab for the bis part
+		\copy0											% copy bis
 	\end{tabular}
-	\\[0.1\ht1]	
+	\\[0.1\ht1]											% to corretly align bis block
 }
-
+%%
+%% \lbis for one line commande
+\newcommand{\lbis}[1]{\def\tabcolsep{0pt}%				% To correctly align from the left
+	\setlength\arrayrulewidth{0.5pt}%					% Width of the bis vbar
+	\setbox0=\hbox{\footnotesize({\it\bfseries bis})}	% bis as it will be displayed
+	\setbislyrics										% compute bis lyrics len
+	\setbispadtop										% compute top padding
+	\vspace{\setbispadtoplen}							% apply top padding
+	\begin{tabular}{p{\bislyricslen}@{\hspace{4pt}}|}%	% apply bis lyrics len
+		\line{#1}										% apply bis lyrics line style
+	\end{tabular}%
+	\begin{tabular}{@{\hspace{1pt}}l}%					% tab for the bis part
+		\copy0											% copy bis
+	\end{tabular}
+	\\[0.1\ht1]											% to corretly align bis block
+}
+%%
+%% TWEAK CHORUS ENVIRONMENT to apply different length
 \makeatletter
 \let\oldchorus\chorus
 \def\chorus{\@ifnextchar[\chorus@i \chorus@ii}
 \def\chorus@i[#1]{\oldchorus[#1]}
-\def\chorus@ii{\oldchorus\renewcommand{\setbislyricslength}{\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep)\relax}}}
+\def\chorus@ii{\oldchorus%
+	\def\bislyrics{0pt}				% Custom lyrics size ajustement
+	\def\bispadtop{-1.08}}			% Custom top padding adjustement
 \makeatother
-%\begingroup
-%\obeylines
-%\gdef\gobbleLineBreak{\getlines}%
-%\endgroup%
-%
-%\newcommand{\lbis}{%
-%	\begingroup\begin{bis}\lbisend
-%}
-%\newcommand\lbisend[1]{\gobbleLineBreak{#1}\end{bis}\endgroup}
-%\makeatother
-%%%
+%%
+%%
+% END
+%%
 
-
-%%%
-% IT'S WORKING !!! (sans les accords pour l'instant)
-%%%
-%\makeatletter
-%\def\activateCtrlChars{%
-%	\catcode`\^^M=\active
-%	\begingroup\lccode`~=`\^^M\lowercase{\endgroup\bf\small\def~}{\egroup\\\bgroup}%
-%}
-%\begingroup																															
-%\obeylines
-%\gdef\gobbleLineBreak{\@ifnextchar^^M{\@gobble}{}}%
-%\endgroup%
-%\makeatother
-%\newlength{\bislyrics}
-%\newenvironment{newbis}[1][]{%
-%	\def\tabcolsep{3pt}%
-%	\setbox0=\hbox{\small\it\bfseries(bis)}
-%	\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep+10pt)\relax}
-%	\if\detokenize{f}\detokenize{#1}\relax%
-%	~\vspace{-0.72\baselineskip}\\\fi%
-%	\activateCtrlChars%
-%		\tabularx{\bislyrics}{@{}X|}\gobbleLineBreak\bgroup%
-%	}
-%{\egroup\endtabularx%
-%	\def\tabcolsep{2pt}%
-%\begin{tabular}{l}
-%\copy0
-%\end{tabular}}
-%%%
 
 \newcommand{\linerep}[2]{\small\textbf{#1}\hfill{\footnotesize(x#2)}}
 %%
