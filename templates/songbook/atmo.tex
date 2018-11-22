@@ -82,7 +82,7 @@ description:
 %\usepackage{array}
 %\usepackage{environ}
 %\usepackage{collect}
-\newcounter{lineno}
+%\newcounter{lineno}
 
 %%%
 % IT'S WORKING : AVEC LES ACCORDS !! SANS ARGUMENT !!
@@ -96,12 +96,12 @@ description:
 	\line{#1} \let\next\getlines\fi \next}}
 \newlength{\bislyrics}
 
+
 \newenvironment{bis}{
-\setcounter{lineno}{0}
 \def\tabcolsep{0pt}%
 \setlength\arrayrulewidth{0.5pt}%
 \setbox0=\hbox{\footnotesize({\it\bfseries bis})}
-\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep-4pt)\relax}
+\setbislyricslength
 \renewcommand{\line}[1]{\small{\bf{##1}}}%
 \setbox2=\hbox{~}
 \setbox1=\vbox{\copy2\hspace{-1.5\wd2}\\}
@@ -117,7 +117,43 @@ description:
 \\[0.1\ht1]
 %\vspace{-0.72\ht1}
 }
+
+\newcommand{\setbislyricslength}{\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep-4pt)\relax}}
+
+\newcommand{\lbis}[1]{\def\tabcolsep{0pt}%
+	\setlength\arrayrulewidth{0.5pt}%
+	\setbox0=\hbox{\footnotesize({\it\bfseries bis})}
+	\setbislyricslength
+	\renewcommand{\line}[1]{\small{\bf{##1}}}%
+	\setbox2=\hbox{~}
+	\setbox1=\vbox{\copy2\hspace{-1.5\wd2}\\}
+	\copy1
+	\vspace{-0.72\ht1}
+	\begin{tabular}{p{\bislyrics}@{\hspace{4pt}}|}%
+		\line{#1}
+	\end{tabular}%
+	\begin{tabular}{@{\hspace{1pt}}l}%
+	\copy0
+	\end{tabular}
+	\\[0.1\ht1]	
+}
+
+\makeatletter
+\let\oldchorus\chorus
+\def\chorus{\@ifnextchar[\chorus@i \chorus@ii}
+\def\chorus@i[#1]{\oldchorus[#1]}
+\def\chorus@ii{\oldchorus\renewcommand{\setbislyricslength}{\setlength{\bislyrics}{\dimexpr(\hsize-\wd0-\arrayrulewidth-\tabcolsep)\relax}}}
 \makeatother
+%\begingroup
+%\obeylines
+%\gdef\gobbleLineBreak{\getlines}%
+%\endgroup%
+%
+%\newcommand{\lbis}{%
+%	\begingroup\begin{bis}\lbisend
+%}
+%\newcommand\lbisend[1]{\gobbleLineBreak{#1}\end{bis}\endgroup}
+%\makeatother
 %%%
 
 
