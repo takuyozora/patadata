@@ -7,13 +7,21 @@
 
   \cover
   \gtab{D}{XX0232}
+  \gtab{D6}{XX0202}
   \gtab{G}{320003}
-  \gtab{E}{022100}
-  \gtab{A}{X02220}
-  \gtab{Dm}{XX0231}
+  \gtab{D/F#}{2:054030}
+  \gtab{Eb}{XX1343}
+  \gtab{Eb6}{XX1013}
+  \gtab{Am/D}{XX0210}
+  \gtab{Am}{X02210}
   \gtab{C}{X32010}
-  \gtab{B&}{1:X03330}
-  \gtab{Gm}{1:033000}
+  \gtab{C+}{X32110}
+  \gtab{C6}{X32210}
+  \gtab{D7}{XX0212}
+  \gtab{C7}{X32310}
+%  \gtab{B}{X(24442)}
+  
+  \gtab{G6}{320000}
   
   \begin{verse*}
     {\nolyrics
@@ -22,6 +30,7 @@
   \end{verse*}
   
   \begin{chorus}
+%  \gtab{C7}{X(3535X):013140} 
     \[G]Non! Rien de \[D/F#]rien ...
     Non! Je ne regrette \[G]rien ...
     Ni le \[C]bien qu'on m'a \[C+]fait
