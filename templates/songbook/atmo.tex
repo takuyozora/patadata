@@ -101,7 +101,7 @@ description:
 \newlength{\setbispadtoplen}	% Top padding between bis block and prev line
 
 % Default value (verse)
-\def\bislyrics{-4pt}			
+\def\bislyrics{-8pt}			
 \def\bispadtop{-0.72}
 
 % Do computation of final value
@@ -136,14 +136,15 @@ description:
 	\setbox0=\hbox{\footnotesize({\it\bfseries bis})}	% bis as it will be displayed
 	\setbislyrics										% compute bis lyrics len
 	\setbispadtop										% compute top padding
-	\vspace{\setbispadtoplen}							% apply top padding
+	\vspace{\dimexpr( -3pt + \setbispadtoplen)}							% apply top padding
 	\begin{tabular}{p{\bislyricslen}@{\hspace{4pt}}|}%	% apply bis lyrics len
 		\line{#1}										% apply bis lyrics line style
 	\end{tabular}%
 	\begin{tabular}{@{\hspace{1pt}}l}%					% tab for the bis part
 		\copy0											% copy bis
 	\end{tabular}
-	\\[0.1\ht1]											% to corretly align bis block
+	\vspace{-12pt}
+%	\\[0.1\ht1]											% to corretly align bis block
 }
 %%
 %% TWEAK CHORUS ENVIRONMENT to apply different length
@@ -152,8 +153,8 @@ description:
 \def\chorus{\@ifnextchar[\chorus@i \chorus@ii}
 \def\chorus@i[#1]{\oldchorus[#1]}
 \def\chorus@ii{\oldchorus%
-	\def\bislyrics{0pt}				% Custom lyrics size ajustement
-	\def\bispadtop{-1.08}}			% Custom top padding adjustement
+	\def\bislyrics{-4pt}				% Custom lyrics size ajustement
+	\def\bispadtop{-0.63}}			% Custom top padding adjustement
 \makeatother
 %%
 %%
