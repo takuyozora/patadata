@@ -1,0 +1,82 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les Oiseaux De Passage}
+  [by={Georges Brassens}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+  \begin{verse}
+    \[Dm]Ô vie heureuse des bourgeois ! Qu'avril bourgeo\[C]nne
+    Ou que décembre g\[B&]êle, ils sont fiers et cont\[A7]ents
+    Ce pigeon est aim\[Dm]é, trois jours par sa pigeo\[C]nne
+    ça lui suffit, il \[B&]sait que l'\[A7]amour n'a qu'un te\[Dm]mps
+  \end{verse}
+    
+
+  \begin{verse}
+  Ce dindon a toujours béni sa destinée
+  Et quand vient le moment de mourir, il faut voir
+  Cette jeune oie en pleurs: "c'est là que je suis née
+  Je meurs près de ma mère et j'ai fait mon devoir."
+  \end{verse}
+
+  \begin{verse}
+  Elle a fait son devoir, c'est-à-dire que oncques
+  Elle n'eut de souhait impossible, elle n'eut
+  Aucun rêve de lune, aucun désir de joncque
+  L'emportant sans rameur sur un fleuve inconnu.
+  \end{verse}
+
+  \begin{verse}
+  Et tous sont ainsi faits, vivre la même vie
+  Toujours pour ces gens-là, cela n'est point hideux.
+  Ce canard n'a qu'un bec et n'eut jamais envie
+  Ou de n'en plus avoir ou bien d'en avoir deux.
+  \end{verse}
+
+  \begin{verse}
+  Ils n'ont aucun besoin de baiser sur les lèvres
+  Et, loin des songes vains, loin des soucis cuisants,
+  Possèdent pour tout coeur un viscère sans fièvre,
+  Un coucou régulier et garanti dix ans.
+  \end{verse}
+  \textnote{\small\it Lentement}
+  \begin{verse}
+  Ô les gens bienheureux ! Tout à coup dans l'espace
+  Si haut qu'ils semblent aller lentement, un grand vol
+  En forme de triangle arrive, plane et passe.
+  Où vont-ils ? Qui sont-ils ? \brk Comme ils sont loin du sol !
+  \end{verse}
+  \textnote{\small\it Reprise}
+  \begin{verse}
+  Regardez les passer, eux, ce sont les sauvages
+  Ils vont où leur désir le veut: par dessus monts
+  Et bois, et mers, et vents, et loin des esclavages
+  L'air qu'ils boivent ferait éclater vos poumons.
+  \end{verse}
+
+  \begin{verse}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+  \end{verse}
+
+  \begin{verse}
+  Pour choyer cette femme et nourrir cette mère,
+  Ils pouvaient devenir volailles comme vous
+  Mais ils sont avant tout des fils de la chimère,
+  Des assoiffés d'azur, des poètes, des fous.
+  \end{verse}
+
+  \begin{verse*}
+  \begin{bis}
+    Regardez-les, vieux coq, jeune oie édifiante !
+    Rien de vous ne pourra monter aussi haut qu'eux.
+    Et tout ce qui viendra d'eux à vous c'est leur fiente.
+    Les bourgeois sont troublés de voir passer les gueux.
+  \end{bis}
+  \end{verse*}
+
+  
+\endsong
