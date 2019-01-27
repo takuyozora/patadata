@@ -1,0 +1,47 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Écoutez Le Guitariste}
+  [by={Jean Naty-Boyer}, date={1992}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  
+\begin{verse}
+Même s'il vient sur la terre
+Le dernier jour des combats
+Vous, les langues de vipères,
+Vous ne désarmerez pas.
+\end{verse}
+
+\begin{chorus}
+Votre cœur est triste
+De nous voir heureux
+Écoutez le guitariste
+Et fermez les yeux \textit{... la la la la la ...}
+Et fermez les yeux
+\end{chorus}
+
+\begin{verse}
+Laissez donc les autres faire
+Leur moisson de soleil
+Vous, les langues de vipères,
+Mettez-vous en sommeil.
+\end{verse}
+
+\begin{verse}
+Si vous voulez une guerre
+Faites-la dans vos cœurs
+Vous, les langues de vipères,
+Laissez-nous notre bonheur.
+\end{verse}
+
+\begin{chorus}
+Ne soyez pas triste
+De nous voir heureux
+Écoutez le guitariste
+Et fermez les yeux \textit{... la la la la la ...}
+Et fermez les yeux
+\end{chorus}
+
+  
+\endsong

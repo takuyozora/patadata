@@ -1,0 +1,59 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les Cerises De Monsieur Clément}
+  [by={Michel Fugain}, date={1972}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse*}
+  {\ifchorded
+  \musicnote{Intro}\vspace{-0.7cm}
+  \nolyrics
+  {\hspace{1cm}  \[G] \[C] \[G] \[C] } 
+  \vspace{0.2cm}
+  \fi
+  }
+  \end{verse*}
+  
+  \begin{verse}
+  Un certain \[C]Clément \[G]Jean-\[C]Baptiste
+  Qui habitait \[G]rue Sai\[C]nt-Vincent
+  Voulant é\[Em]crire un \[Em]comp\[Em]limen\[A]t
+  Trempa \[Dm]sa p\[A7]lume da\[Dm]ns le sang
+  Qu'elles étaient \[G]rouges les \[C]ceri\[F]ses
+  Que nou\[C]s chant\[C]ait Mon\[C]sieur Clément\newline
+
+  C'était plus beau qu'un Evangile
+  C'était des mots de maintenant
+  Mais il faudrait que nos enfants
+  N'attendent pas comme on attend
+  Qu'elles mûrissent les cerises
+  Que nous chantait Monsieur Clément
+  \end{verse}
+  
+  \begin{chorus}
+  Bien \[A7]sûr c'est dif\[G]fici\[A7]-le~\[Dm]~
+  De mourir qu\[G]and on \[C]a vingt ans !
+  Mais \[A7]pour quelques \[G]cer\[A7]-ises
+  \[Dm]Que ne ferai\[G]t-on \[C]au printemps ?
+  \end{chorus}
+  
+  \begin{verse}
+  De République en République
+  Toujours cocu toujours content
+  On applaudit les bons truands
+  Au ventre rond au ventre blanc
+  Qui nous revendent les cerises
+  Qu'avait rêvé Monsieur Clément \newline
+  
+  Tous ces pontifes des Églises
+  Tous ces suiveurs de régiments
+  Voudront nous manger tout vivant
+  Mais ils se casseront les dents
+  Sur les noyaux de ces cerises
+  Du verger de Monsieur Clément
+  \end{verse}
+  
+  \textnote{Refrain}
+
+\endsong

@@ -1,0 +1,57 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{L'Hymne Des Femmes}
+  [by={Écriture collective}, date={1971}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{Sur l'air du chant des marais}
+  
+\begin{verse}
+No\[Am]us qui sommes \[F]sans \[Am]passé, les femmes
+\[Am]Nous qu\[C]i n'av\[E7]ons pas d'\[Am]histoire\[G7]~
+\[C]Depuis la n\[C]uit des temps, les femmes
+\[Dm]Nous s\[C]ommes le \[E7]conti\[Am]nent noir.
+\end{verse}
+
+\begin{chorus}
+\[G7]Levons-\[C]nous femmes escl\[G]aves
+\[E7]Et br\[Am]isons nos \[B7]entr\[E7]aves
+De\[Am]-bou\[E7]t, de\[Am]-bou\[Am]t, de\[E7]-bou\[Am]t !
+\end{chorus}
+
+\begin{verse}
+Asservies, humiliées, les femmes
+Achetées, vendues, violées
+Dans toutes les maisons, les femmes
+Hors du monde reléguées.
+\end{verse}
+
+\begin{verse}
+Seules dans notre malheur, les femmes
+L'une de l'autre ignorée
+Ils nous ont divisées, les femmes
+Et de nos soeurs séparées.
+\end{verse}
+
+\begin{verse}
+Le temps de la colère, les femmes
+Notre temps, est arrivé
+Connaissons notre force, les femmes
+Découvrons-nous des milliers !
+\end{verse}
+
+\begin{verse}
+Reconnaissons-nous, les femmes
+Parlons-nous, regardons-nous,
+Ensemble, on nous opprime, les femmes
+Ensemble, Révoltons-nous !
+\end{verse}
+
+\begin{chorus}
+Levons-nous femmes esclaves
+Et jouissons sans entraves
+Debout, debout, debout !
+\end{chorus}
+
+\endsong

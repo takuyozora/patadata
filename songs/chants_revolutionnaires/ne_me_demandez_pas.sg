@@ -1,0 +1,80 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Ne me demandez pas}
+  [by={Chorale~Bande~à~Rosa (Amiens)},date={2018}]
+  
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse*}
+    \textnote{\nolyrics Reprise des Archers du Roi par la chorale révolutionnaire d'Amiens.\newline Tonalité de départ : Voix aïgue : \[F] voix graves : \[D] }
+  \end{verse*}
+
+
+\begin{verse}
+Ils ont construit des prisons
+Des centres de rétention
+Pour y enfermer les sans-papiers
+Des lois contre l’immigration,
+Ils en votent à foison ;
+Ils en sortent une par saison.
+J’ai vu des contrôles abusifs,
+Des reconduites à la frontière,
+Un étau administratif
+Aux ordres de leur ministère.
+\end{verse}
+
+
+\begin{chorus}
+Non, ne me demandez pas
+De cautionner ces lois de l’État!
+Non, ne me demandez pas
+De cautionner cette politique-là!
+\end{chorus}
+
+\begin{verse}
+Tout près de nous, juste à côté,
+La force est déployée
+Pour traquer, menotter, expulser
+Des dissidents politiques,
+Des minorités ethniques,
+Réfugiés économiques ;
+Ceux qui n’ont commis d’autre crime
+Que de fuir l’enfer qu’ils vivaient ;
+Risquant déjà d’être victimes
+À chaque étape de leur trajet
+\end{verse}
+
+
+\begin{chorus}
+Non, ne me demandez pas 
+D’être indifférent à ces vies-là!
+Non, ne me demandez pas
+De l'ignorer, cette oppression-là!
+\end{chorus}
+
+
+
+\begin{verse}
+Derrière chez moi, il y avait
+Un enfant, un écolier ;
+Ses parents demandaient des papiers
+Mais un jour vingt-deux policiers
+Sont venus arrêter
+Son père qui allait  l’chercher
+J’ai vu s’envoler un charter
+J’ai entendu le gosse hurler
+Ils doivent êt’ fiers au ministère
+C’est une affaire rondement menée
+\end{verse}
+
+
+
+\begin{chorus}
+Non, ne me demandez pas 
+De ne rien dire si j’assiste à ça !
+Non, ne me demandez pas
+De n' pas agir si j'assiste à ça!
+\end{chorus}
+
+\endsong

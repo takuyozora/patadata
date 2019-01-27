@@ -1,0 +1,64 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Putain de toi}
+  [by={Georges Brassens},date={1953}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+ \begin{verse}
+  \[G]En ce temps-\[D7]là, je viv\[G]ais dans la l\[D7]une,
+  \[G]Les bonheurs d'ici-b\[D]as m'ét\[m]aient tous défend\[D7]us,
+  \[G]Je semais des viol\[D7]ettes et chant\[G]ais pour des pr\[D7]unes
+  Et tend\[Em]ais la p\[D7]atte aux ch\[G]ats perdus.
+ \end{verse}
+  
+  \begin{chorus}
+  \[G]Ah ah ah a\[B7]h putain de toi
+  \[C]Ah \[D7]ah ah ah ah a\[G]h pauvre de moi
+  \end{chorus}
+  
+  \begin{verse}
+  Un soir de pluie, v'là qu'on gratte à ma porte,
+  Je m'empresse d'ouvrir (sans doute un nouveau chat !)
+  Nom de dieu ! l' beau félin que l'orage m'apporte,
+  C'était toi, c'était toi, c'était toi...
+  \end{verse}
+  
+  \begin{verse}
+  Les yeux fendus et couleur pistache,
+  T'as posé sur mon cœur ta patte de velours...
+  Fort heureus'ment pour moi, t'avais pas de moustache
+  Et ta vertu ne pesait pas trop lourd...
+  \end{verse}
+  
+  \begin{verse}
+  Au quatre coins de ma vie de bohème,
+  T'as prom'né, t'as prom'né le feu de tes vingt ans,
+  Et pour moi, pour mes chats, pour mes fleurs, mes poèmes
+  C'était toi la pluie et le beau temps...
+  \end{verse}
+  
+  \begin{verse}
+  Mais le temps passe et fauche à l'aveuglette,
+  Notre amour mûrissait à peine que, déjà,
+  Tu brûlais mes chansons, crachais sur mes violettes,
+  Et faisais des misères à mes chats...
+  \end{verse}
+  
+ \begin{verse}
+  Le comble enfin, misérable salope.
+  Comme il n' restait plus rien dans le garde-manger,
+  T'as couru sans vergogne, et pour une escalope,
+  Te jeter dans le lit du boucher !
+ \end{verse}
+  
+  \begin{verse}
+  C'était fini, t'avais passé les bornes,
+  Et, r'nonçant aux amours frivoles d'ici-bas,
+  J' suis r'monté dans la lune en emportant mes cornes,
+  Mes chansons, et mes fleurs, et mes chats... 
+  \end{verse}
+  
+  \textnote{Refrain \rep{2}}
+  
+\endsong

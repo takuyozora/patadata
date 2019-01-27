@@ -1,0 +1,51 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Chiffon Rouge}
+  [by={Michel Fugain, paroles de Maurice Vidalin},date={1977}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{C'est, en 1977, lors d'une grande fête populaire au Havre, qu'est née la chanson «Le chiffon rouge». Interprétée par Michel Fugain, elle sera adoptée par les mineurs lorrains en lutte contre les licenciements massifs dans la sidérurgie et deviendra vite célèbre dans le milieu ouvrier.
+  }
+ 
+ \begin{verse}
+ \[G]Accroche à ton cœur un morceau de chiffon rouge
+ \[D7]Une fleur couleur \[G]de sang
+ \[G]Si tu veux vraiment que ça change et que ça bouge
+ Lève-to\[D7]i car il est \[G]temps\newline
+ 
+ All\[C]ons droit devant vers la lumière~~~~\[G]
+ \[Am]En levant le \[D]poing et en serra\[G]nt le\[G7]s dents
+ Nous ré\[Cm]veillerons la terr\[G]e entière
+ Et dema\[Am7]in, nos matins chan\[D]teront~\[D7]\newline
+ 
+ \[G]Compagnon de colère, compagnon de combat
+ \[G]Toi qu\[G7]e l'on faisai\[Am7]t taire, toi qui ne comptais pas
+ \[Am7]Tu vas pouvoi\[D]r enfin le porter
+ Le chif\[D7]fon rouge de \[G]la liberté
+ Car le \[G]monde sera ce que tu le feras
+ Plein d'amou\[D7]r de justice et de joie
+ \end{verse}
+ 
+ \begin{verse}
+ Accroche à ton cœur un morceau de chiffon rouge
+ Une fleur couleur de sang
+ Si tu veux vraiment que ça change et que ça bouge
+ Lève-toi car il est temps\newline
+ 
+ Tu crevais de faim dans ta misère
+ Tu vendais tes bras pour un morceau de pain
+ Mais ne crains plus rien, le jour se lève
+ Il fera bon vivre demain\newline
+ 
+ Compagnon de colère, compagnon de combat
+ Toi que l'on faisait taire, toi qui ne comptais pas
+ Tu vas pouvoir enfin le porter
+ Le chiffon rouge de la liberté
+ Car le monde sera ce que tu le feras
+ Plein d'amour de justice et de joie
+ \end{verse}
+  
+  
+  
+\endsong

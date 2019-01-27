@@ -1,0 +1,50 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Madame La Misère}
+  [by={Léo Ferré},date={1967}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\begin{verse}
+Madame la misère écoutez le vacarme
+Que font vos gens le dos voûté la langue au pas
+Quand ils sont assoiffés il ne soûlent de larmes
+Quand ils ne pleurent plus il crèvent sous le charme
+De la nature et des gravats
+\end{verse}
+
+\begin{verse}
+Ce sont des suppliciés au ventre translucide
+Qui vont sans foi ni loi comme on le dit parfois
+Régler son compte à Monseigneur Ephéméride
+Qui a pris leur jeunesse et l'a mise en ses rides
+Quand il ne leur restait que ça
+\end{verse}
+
+\begin{verse}
+Madame la misère écoutez le tumulte
+Qui monte des bas-fonds comme un dernier convoi
+Traînant des mots d'amour avalant les insultes
+Et prenant par la main leurs colères adultes
+Afin de ne les perdre pas
+\end{verse}
+
+\begin{verse}
+Ce sont des enragés qui dérangent l'histoire
+Et qui mettent du sang sur les chiffres parfois
+Comme si l'on devait toucher du doigt pour croire
+Qu'un peuple heureux rotant tout seul dans sa mangeoire
+Vaut bien une tête de roi
+\end{verse}
+
+\begin{verse}
+Madame la misère écoutez le silence
+Qui entoure le lit défait des magistrats
+Le code de la peur se rime avec potence
+Il suffit de trouver quelques pendus d'avance
+Et mon Dieu ça ne manque pas 
+\end{verse}
+  
+  
+\endsong
+

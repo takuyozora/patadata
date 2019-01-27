@@ -1,0 +1,82 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Lega}
+  [by={}, date={XIX$^e$}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{A la fin du XIX$^e$, les \textit{mondine}, repiqueuses de riz de la plaine du Po, s’associent en ligues (La lega = la ligue) au côté des ouvriers et chantent leur révolte contre les patrons en réclamant la liberté: «Bien que nous soyons des femmes, nous n'avons pas peur… Nous avons de belles et bonnes langues et nous nous défendons bien … Et vous autres beaux messieurs, qui avez tant d'orgueil, rabaissez votre superbe et ouvrez votre portefeuille !» Selon les versions, il est question, dans le refrain, de «socialisti» ou de «lavoratori» (travailleurs)}
+  
+  \newpage
+  
+  \begin{verse}
+  \[A]Sebben che siamo donne 
+  Paura non abbia\[E]mo 
+%  Per amor dei nostri figli
+%  Per amor dei nostri fi\[A]gli
+  \lbis{Per amor dei nostri fi\[A]gli}
+  Sebben che siamo donne
+  Paura non abbia\[E]mo
+  Per amor dei nostri figli
+  In lega ci mettia\[A]mo 
+  \end{verse}
+  
+  
+  \begin{chorus}
+  \[A]Oil\`i oil\`i oilà
+  E la lega cresce\[E]rà
+  E noi altri socialisti
+  E noi altri sociali\[A]sti
+%  \lbis{E noi altri sociali\[A]sti}
+  \[A]Oil\`i oil\`i oilà
+  E la lega cresce\[E]rà
+  E noi altri socialisti
+  Vogliamo la libertà
+  \end{chorus}
+  
+\begin{verse}
+  E la libertà non viene 
+  Perché non c'è l'unione 
+  \lbis{Crumiri col padrone}
+  E la libertà non viene 
+  Perché non c'è l'unione 
+  Crumiri col padrone
+  Son tutti da ammazzar
+\end{verse}
+  
+  
+  \begin{verse}
+  Sebben che siamo donne 
+  Paura non abbiamo 
+  \lbis{Abbiam delle belle buone lingue}
+  Sebben che siamo donne 
+  Paura non abbiamo 
+  Abbiam delle belle buone lingue
+  E ben ci difendiamo 
+  \end{verse}
+  
+  
+ \begin{verse}
+  E voi altri signoroni 
+  Che ci avete tanto orgoglio 
+  \lbis{Abbassate la superbia}
+  E voi altri signoroni 
+  Che ci avete tanto orgoglio 
+  Abbassate la superbia
+  E aprite il portafoglio 
+ \end{verse}
+ 
+ \begin{chorus}
+ Oil\`i oil\`i oilà
+ E la lega crescerà
+% \lbis{E noi altri socialisti}
+ E noi altri socialisti
+ E noi altri socialisti
+ Oil\`i oil\`i oilà
+ E la lega crescerà
+ E noi altri socialisti
+ I vuruma vèss pagà 
+ \end{chorus}
+  
+
+\endsong

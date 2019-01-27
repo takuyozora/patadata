@@ -1,0 +1,60 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Pauvre Martin}
+  [by={Georges Brassens},date={1953}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+	\begin{verse}
+	Avec une bêche à l'épaule
+	Avec, à la lèvre, un doux chant
+	Avec, à la lèvre, un doux chant
+	Avec, à l'âme, un grand courage
+	Il s'en allait trimer aux champs
+	\end{verse}
+	
+	\begin{chorus}
+	Pauvre Martin, pauvre misère
+	Creuse la terre, creuse le temps
+	\end{chorus}
+	
+	\begin{verse}
+	Pour gagner le pain de sa vie
+	De l'aurore jusqu'au couchant
+	De l'aurore jusqu'au couchant
+	Il s'en allait bêcher la terre
+	En tous les lieux, par tous les temps
+	\end{verse}
+	
+	\begin{verse}
+	Sans laisser voir, sur son visage
+	Ni l'air jaloux ni l'air méchant
+	Ni l'air jaloux ni l'air méchant
+	Il retournait le champ des autres
+	Toujours bêchant, toujours bêchant
+	\end{verse}
+	
+	\begin{verse}
+	Et quand la mort lui a fait signe
+	De labourer son dernier champ
+	De labourer son dernier champ
+	Il creusa lui-même sa tombe
+	En faisant vite, en se cachant
+	\end{verse}
+	
+	\begin{verse}
+	Il creusa lui-même sa tombe
+	En faisant vite, en se cachant
+	En faisant vite, en se cachant
+	Et s'y étendit sans rien dire
+	Pour ne pas déranger les gens
+	\end{verse}
+	
+	\begin{chorus}
+	Pauvre Martin, pauvre misère
+	Dort sous la terre, dort sous le temps
+	\end{chorus}
+  
+  
+\endsong
+

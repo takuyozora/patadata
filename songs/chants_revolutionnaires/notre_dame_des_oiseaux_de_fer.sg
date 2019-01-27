@@ -1,0 +1,50 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Notre-Dame des Oiseaux de Fer}
+  [by={}]
+
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+ \begin{verse}
+ 	\begin{bis}
+ 		On veut du silence et du temps
+ 		On veut sortir à la lumière
+ 		On veut cultiver nos enfants
+ 		Et on veut cultiver nos terres
+ 	\end{bis}
+	 \begin{bis}
+	 	Notre-Dame des Landes de terre
+	 	Notre-Dame des chemins de long
+	 	Notre-Dame des oiseaux de terre
+	 	Notre-Dame des livres et des sons
+	 \end{bis}
+ \end{verse}
+
+	\begin{chorus}
+		On ne veut pas / de tant de tant
+		On ne veut pas de temps de fer
+		Pour les avions / il n’est plus temps
+		On ne veut pas de votre enfer
+		
+		Notre-Dame / des fils de fer
+		Notre-Dame des routes et des ponts
+		Notre-Dame des / oiseaux de fer	
+		Notre-Dame des bêtes à béton
+	\end{chorus}
+
+	\begin{verse}
+		\begin{bis}
+			Du ciel est descendu le vent
+			Du ciel est descendu le vert
+			On ne veut pas qu’du ciel descendent
+			Des cendres de mort et de fer
+		\end{bis}
+		\begin{bis}
+			Pas de pistes aux oiseaux de fer
+			Pas de fer en place des oiseaux
+			Que c’est triste un monde sans chair
+			Que c’est cher un monde de sots
+		\end{bis}
+	\end{verse}
+
+\endsong

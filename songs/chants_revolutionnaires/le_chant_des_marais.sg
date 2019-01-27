@@ -1,0 +1,49 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Chant Des Marais}
+  [by={J. Esser, W. Langhoff, R. Goguel}, date={1933}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse}
+  Lo\[Am]in vers l’\[F]inf\[Am]ini s’étendent
+  \[Dm]Des grand\[C]s prés m\[E7]aréca\[Am]geux.\[G7]~
+  \[C]Pas un seul oi\[C]seau ne chante
+  \[Dm]Dans le\[C]s arbr\[E7]es secs \[Am]et creux.
+  \end{verse}
+  
+  
+\begin{chorus}
+  \[G7]Ô, te\[C]rre de détre\[G]sse
+  \[E7]Où no\[Am]us devons s\[B7]ans c\[E7]esse
+  Pio\[Am]-che\[E7]r, pio\[Am]-che\[Am]r, pio\[E7]-che\[Am]r.
+\end{chorus}
+  
+  \begin{verse}
+  Dans ce camp morne et sauvage
+  Entouré de murs de fer
+  Il nous semble vivre en cage
+  Au milieu d’un grand désert
+  \end{verse}
+  
+  \begin{verse}
+  Bruit des pas et bruit des armes,
+  Sentinelles jours et nuits,
+  Et du sang, des cris, des larmes,
+  La mort pour celui qui fuit.
+  \end{verse}
+  
+  \begin{verse}
+  Mais un jour dans notre vie,
+  Le printemps refleurira.
+  Liberté, liberté chérie
+  Je dirai « tu es à moi ».
+  \end{verse}
+  
+  \begin{chorus}
+  Ô, terre d'allégresse
+  Où nous pourrons sans cesse
+  Aimer, aimer, aimer.
+  \end{chorus}
+  
+\endsong

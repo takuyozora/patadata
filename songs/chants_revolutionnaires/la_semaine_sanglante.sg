@@ -1,0 +1,98 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Semaine Sanglante}
+  [by={Jean-Baptiste Clément}, date={1871}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{\it
+  Cette chanson a été écrite en juin 1871 en pleine période de répression.
+  Après que les Communards aient tenu la capitale pendant deux mois, les cent mille hommes de Thiers reconquièrent Paris rue par rue, maison par maison, du 20 au 27 mai, au cours de la Semaine sanglante. La répression est impitoyable. Elle fait au moins trente mille morts.
+  }
+  
+\begin{verse}
+ Sauf des mouchards et des gendarmes,
+ On ne voit plus par les chemins,
+ Que des vieillards tristes en larmes,
+ Des veuves et des orphelins.
+ Paris suinte la misère,
+ Les heureux mêmes sont tremblant.
+ La mode est aux conseils de guerre,
+ Et les pavés sont tous sanglants.
+\end{verse}
+ 
+\begin{chorus}
+ Oui mais !
+ Ça branle dans le manche,
+ Les mauvais jours finiront.
+ Et gare ! à la revanche,
+ Quand tous les pauvres s’y mettront.
+ Quand tous les pauvres s’y mettront.
+\end{chorus}
+ 
+ \begin{verse}
+ Les journaux de l’ex-préfecture,
+ Les flibustiers, les gens tarés,
+ Les parvenus par l’aventure,
+ Les complaisants, les décorés
+ Gens de Bourse et de coin de rues,
+ Amants de filles au rebut,
+ Grouillent comme un tas de verrues,
+ Sur les cadavres des vaincus.
+ \end{verse}
+ 
+\begin{verse}
+ On traque, on enchaîne, on fusille
+ Tout ceux qu’on ramasse au hasard.
+ La mère à côté de sa fille,
+ L’enfant dans les bras du vieillard.
+ Les châtiments du drapeau rouge
+ Sont remplacés par la terreur
+ De tous les chenapans de bouges,
+ Valets de rois et d’empereurs.
+\end{verse}
+ 
+ \begin{verse}
+ Nous voilà rendus aux jésuites
+ Aux Mac-Mahon, aux Dupanloup.
+ Il va pleuvoir des eaux bénites,
+ Les troncs vont faire un argent fou.
+ Dès demain, en réjouissance
+ Et Saint Eustache et l’Opéra
+ Vont se refaire concurrence,
+ Et le bagne se peuplera.
+ \end{verse}
+ 
+ \begin{verse}
+ Demain les manons, les lorettes
+ Et les dames des beaux faubourgs
+ Porteront sur leurs collerettes
+ Des chassepots et des tampbours
+ On mettra tout au tricolore,
+ Les plats du jour et les rubans,
+ Pendant que le héros Pandore
+ Fera fusiller nos enfants.
+ \end{verse}
+ 
+ \begin{verse}
+ Demain les gens de la police
+ Refleuriront sur le trottoir,
+ Fiers de leurs états de service,
+ Et le pistolet en sautoir.
+ Sans pain, sans travail et sans armes,
+ Nous allons être gouvernés
+ Par des mouchards et des gendarmes,
+ Des sabre-peuple et des curés.
+ \end{verse}
+ 
+ \begin{verse}
+ Le peuple au collier de misère
+ Sera-t-il donc toujours rivé ?
+ Jusques à quand les gens de guerre
+ Tiendront-ils le haut du pavé ?
+ Jusques à quand la Sainte Clique
+ Nous croira-t-elle un vil bétail ?
+ À quand enfin la République
+ De la Justice et \textit{sans} Travail ?
+ \end{verse}
+\endsong

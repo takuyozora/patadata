@@ -1,0 +1,67 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Katiouchka}
+  [by={Mikhaïl Issakovskin}, date={1938}]
+  
+  %\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+
+\begin{verse*}
+{\ifchorded
+\musicnote{Intro}
+
+\nolyrics
+{\[Am] \[Em] \[F] \[Am] } 
+{\[Dm] \[Am] \[E] \[Am] } 
+
+\fi
+}
+\end{verse*}
+
+
+  \begin{verse}
+\[Am]Les pommiers fleurissent la clai\[E]rière
+\[E]Colorant le brouillard sur les \[Am]eaux
+  \begin{bis}
+{\[Am]Kati\[C]ouchka \[F]dominait la ri\[Am]vière		}
+{\[Dm]Et son \[Am]chant \[E]planait sur les ro\[Am]seaux }
+  \end{bis}
+  \end{verse}
+
+ 
+\begin{verse}
+	 C’est le chant de l’aigle bleu des steppes
+ Le soleil vers lui te guidera
+\begin{bis}
+	 Vers celui dont elle garde les lettres	
+ Doux trésor précieux de Katiouchka	
+\end{bis}
+\end{verse}
+ 
+\begin{verse}
+	 Vole au vent vole chanson légère
+ Vers celui qui au loin s’en alla
+\begin{bis}
+	 Vers celui qui garde la frontière	
+ Porte le salut de Katiouchka 		
+\end{bis}
+\end{verse}	
+
+\begin{verse}
+Des pommiers tombaient les feuilles mortes
+Et la neige recouvrait les monts
+\begin{bis}
+Quand un jour arriva au village
+La réponse ardente du soldat		
+\end{bis}
+\end{verse}	
+ 
+ 
+ \textnote{Reprendre le chant en accélérant le rythme}
+ 
+\begin{verse*}
+	 Les pommiers fleurissent la clairière
+ Colorant le brouillard sur les eaux ..
+\end{verse*}
+ 
+\endsong

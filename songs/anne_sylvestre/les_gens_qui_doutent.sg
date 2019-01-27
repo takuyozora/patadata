@@ -1,0 +1,99 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les Gens Qui Doutent}
+  [by={Anne Sylvestre}, date={1977}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+   \begin{verse*}
+  {\ifchorded
+  \musicnote{Mesures à 3 temps}
+  
+  \musicnote{Intro}
+  
+  \nolyrics
+  { \[Am] \[Am] \[Am / E] \[F] \[F#] \[F~~(Tacet)] } 
+  \fi
+  }
+  \end{verse*}
+  
+  \begin{verse}
+  J'aime les gens qui d\[Am]outent
+  Les gens qui trop éc\[Dm]outent
+  Leur cœur se balanc\[G]er
+  \[G7]J'aime les gens qui \[C]disent
+  Et qui se contred\[E]isent
+  Et sans se dénonc\[Am]er~\newline
+
+  \[Am7]J'aime les gens qui \[Dm]tremblent
+  Que parfois ils nous s\[G]emblent
+  Capables de jug\[C]er
+  \[CMaj7]J'aime les gens qui \[Dm]passent
+  Moitié dans leurs god\[D#7]asses
+  Et moitié à côt\[E4]é~\[E7]
+\end{verse}
+
+\musicnote{Mesures à 4 temps pour les refrains}
+  
+  
+ \begin{chorus}
+  \[E7]~J'aime leur petite chan\[Am]son ~\[Am/G]
+  \[B/F#]Même s'ils \[B7]passent pour des \[E4]cons~\[E7~~Am]
+ \end{chorus}
+ 
+ 
+  \begin{verse}
+  J'aime ceux qui paniquent
+  Ceux qui sont pas logiques
+  Enfin, pas "comme il faut"
+  Ceux qui, avec leurs chaînes
+  Pour pas que ça nous gêne
+  Font un bruit de grelot~\newline
+  
+  Ceux qui n'auront pas honte
+  De n'être au bout du compte
+  Que des ratés du cœur
+  Pour n'avoir pas su dire :
+  "Délivrez-nous du pire
+  Et gardez le meilleur"
+  \end{verse}
+  
+
+  
+  \begin{verse}
+  J'aime les gens qui n'osent
+  S'approprier les choses
+  Encore moins les gens
+  Ceux qui veulent bien n'être
+  Qu'une simple fenêtre
+  Pour les yeux des enfants~\newline
+  
+  Ceux qui sans oriflamme
+  Et daltoniens de l'âme
+  Ignorent les couleurs
+  Ceux qui sont assez poires
+  Pour que jamais l'histoire
+  Leur rende les honneurs
+  \end{verse}
+  
+  
+ \begin{verse}
+  J'aime les gens qui doutent
+  Mais voudraient qu'on leur foute
+  La paix de temps en temps
+  Et qu'on ne les malmène
+  Jamais quand ils promènent
+  Leurs automnes au printemps~\newline
+  
+  Qu'on leur dise que l'âme
+  Fait de plus belles flammes
+  Que tous ces tristes culs
+  Et qu'on les remercie
+  Qu'on leur dise, on leur crie :
+  "Merci d'avoir vécu  
+  Merci pour \[Am]la tendresse
+  \[F]Et tant pis pour \[E]vos fesses
+  Qui ont fait \[Am]ce qu'elles ont pu"
+   \end{verse}
+  
+\endsong

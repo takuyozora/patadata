@@ -1,0 +1,54 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les Miroirs Dans La Boue}
+  [by={William Sheller},date={1986}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+\begin{verse}
+Dans l'orage d'une forêt sans âge
+Aux abords du Poitou
+A l'automne où je vivais chez vous
+J'ai vu le visage d'une enfant sauvage
+Qui portait un bijou
+Les yeux verts noyés de cheveux roux
+A l'automne où je vivais chez vous
+\end{verse}
+
+\begin{chorus}
+Dieu fait des images avec les nuages
+La pluie fait des miroirs dans la boue
+Je t'ai cherchée partout
+Je garde un mirage dans une drôle de cage
+Comme savent construire les fous
+Je t'ai cherchée partout
+\end{chorus}
+
+\begin{verse}
+Elle avait l'âge des vagabondages
+Pieds nus sur les cailloux
+Dans les rivières où viennent boire les loups
+A mon passage elle a pris mon bagage
+Elle m'a suivi partout
+Jusqu'à l'étage où j'avais mon verrou
+Les yeux verts noyés de cheveux roux
+\end{verse}
+
+\begin{verse}
+Au lend’main de l’orage
+Il restait un message :
+Vous me plaisez beaucoup
+Mais je n’pense pas avoir besoin de vous
+Les yeux verts noyés de cheveux roux
+\end{verse}
+
+\begin{chorus}
+Dieu fait des images avec les nuages
+La pluie fait des miroirs dans la boue
+Je t'ai cherchée partout
+Je garde un mirage dans une drôle de cage
+Comme savent construire les fous
+\lbis{Je t'ai cherchée partout}
+\end{chorus}
+  
+\endsong

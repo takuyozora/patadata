@@ -1,0 +1,83 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Les Oiseaux De Passage}
+  [by={Georges Brassens}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+ 
+ \begin{verse}
+  \begin{bis}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  Mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+ \end{bis}
+  Bla bla Bla
+  \begin{bis}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  Mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+ \end{bis}
+ \begin{bis}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  Mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+ \end{bis}
+ \begin{bis}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  Mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+ \end{bis}
+  \end{verse}
+  
+   \begin{verse}
+   Ô les gens bienheureux ! Tout à coup dans l'espace
+  Si haut qu'ils semblent aller lentement, un grand vol
+  En forme de triangle arrive, plane et passe.
+  Où vont-ils ? Qui sont-ils ?  Comme ils sont loin 
+  \begin{bis}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  Mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+ \end{bis}
+ Ô les gens bienheureux ! Tout à coup dans l'espace
+  Si haut qu'ils semblent aller lentement, un grand vol
+  En forme de triangle arrive, plane et passe.
+  Où vont-ils ? Qui sont-ils ?  Comme ils sont loin 
+  \end{verse}
+  
+  \begin{verse}
+  Bi lbo shdf
+  \begin{bis}
+  Regardez-les ! Avant d'atteindre sa chimère,
+  Plus d'un, l'aile rompue et du sang plein les yeux,
+  Mourra ! Ces pauvres gens ont aussi femme et mère
+  Et savent les aimer aussi bien que vous, mieux.
+ \end{bis}
+  \end{verse}
+  
+  
+  
+  
+  
+  \begin{verse}
+  \begin{mbis}[4]{f}
+\bline{Regardez-les ! Avant d'atteindre sa chimère,}
+\bline{Plus d'un, l'aile rompue et du sang plein les yeux,}
+\bline{Mourra ! Ces pauvres gens ont aussi femme et mère}
+\bline{Et savent les aimer aussi bien que vous, mieux.}
+ \end{mbis}
+  \end{verse}
+
+  
+
+ 
+
+
+  
+\endsong

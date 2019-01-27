@@ -1,0 +1,62 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Mon Amant De Saint-Jean}
+  [by={Édith Piaf, Léon Agel, Émile Carrara},date={1942}]
+
+  \cover
+  \gtab{Em}{022000}
+  \gtab{Am}{X02210}
+  \gtab{B7}{X21202}
+  \gtab{D}{XX0232}
+  \gtab{G}{320003}
+  
+  \textnote{Il y a plusieurs versions de cette chanson, ci-dessous celle interprétée par Édith Piaf} 
+
+  \begin{verse}
+    Je ne \[Em]sais pourquoi j'allais danser
+    À Saint-\[Am]Jean, au mus\[Em]ette
+    Mais quand un gars m'a pris un bai\[Am]ser
+    J'ai frisson\[B7]é, j'étais chi\[Em]pée
+  \end{verse}
+
+  \begin{chorus}
+    Com\[Em]ment ne pas perdre la tête
+    Serrée \[Am]par des bras auda\[Em]cieux ?
+    Car \[Am]{l'on} croit toujours
+    Aux \[Em]doux mots d'amour
+    Quand \[Am]ils sont dits avec les \[B7]yeux\newline 
+    
+    \[Em]Moi qui l'aimais tant
+    Je le trou\[Am]vais le plus \[D]beau de Saint-\[G]Jean
+    \[Am]Je restais gri\[Em]sée
+    Sans volon\[B7]té, sous ses bai\[Em]sers
+  \end{chorus}
+
+  \begin{verse}
+    Sans plus réfléchir, je lui donnais
+    Le meilleur de mon être
+    Beau parleur chaque fois qu'il mentait
+    Je le savais, mais je l'aimais
+  \end{verse}
+
+  \begin{verse}
+    Mais hélas, à Saint-Jean comme ailleurs
+    Un serment n'est qu'un leurre
+    J'étais folle de croire au bonheur
+    Et de vouloir garder son cœur
+  \end{verse}
+
+  \begin{chorus}
+    Comment ne pas perdre la tête
+    Serrée par des bras audacieux
+    Car l'on croit toujours
+    Aux doux mots d'amour
+    Quand ils sont dits avec les yeux\newline
+    
+    Moi qui l'aimais tant
+    \textbf{Mon bel amour, mon amant de Saint-Jean
+    Il ne m'aime plus
+    C'est du passé, n'en parlons plus}
+  \end{chorus}
+
+\endsong

@@ -1,0 +1,98 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Serre-moi}
+  [by={Tryo},album={Grain de sable},date={2003}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+   \begin{verse*}
+  {\ifchorded
+  
+  \musicnote{Intro}
+  
+  \nolyrics
+  { \[Bm] \[G] \[D] \[A] } 
+  { \[Bm] \[G] \[D] \[A] } 
+  \fi
+  }
+  \end{verse*}
+  ~\newline
+  \begin{verse}
+   \[Bm]Embrasse moi dess\[G]us bord
+   Vie\[D2]ns mon ange, retra\[A]cer le ciel
+   \[Bm]J'irai crucifier t\[G]on corps,
+   Po\[D]urrais-je dépunai\[A]ser tes ailes ?
+   
+   Embr\[Bm]asser, te mordre \[G]en même temps
+   Enf\[D]oncer mes ongles dans ton \[A]dos brûlant
+   \[Bm]Te supplier de me r\[G]evenir et tout faire
+   Ô \[D]tout pour te v\[A]oir partir\newline
+
+ Viens ! Emmène-moi là-bas
+ Donne-moi la main que je ne la prenne pas
+ Écorche mes ailes, envole moi
+ Et laisse-toi tranquille à la fois 
+ Mille fois entrelaçons-nous
+ Et lassons-nous même en dessous
+ Serre-moi encore serre-moi jusqu'à étouffer de toi
+  \end{verse}
+  
+ \begin{chorus}
+  Il y a des salauds qui pillent le cœur des femmes
+  Et des femmes qui n'savent plus trop
+  D'où l'amour tire son charme
+  Papillon de fleur en fleur
+  D'amour en amour de cœur
+  Ceux qui n'ont qu'une étoile
+  Ou ceux qui brûlent leur voile
+ \end{chorus}
+  
+  \begin{verse}
+  J'aime tes larmes quand tu aimes
+  Ta sueur le sang,Rendons-nous amants
+  Qui se passionnent, qui se saignent
+  J'aime quand mon écorché est vivant
+  Je ne donne pas long feu
+  A nos tragédies, à nos adieux
+  Reviens-moi, reviens-moi
+  Tu partiras mieux comme ça\newline
+ 
+  
+  A force de se tordre
+  On en finirait par se mordre
+  A quoi bon se reconstruire
+  Quand on est adeptes du pire
+  Malgré nous, malgré nous
+  A quoi bon se sentir,plus grands,que nous
+  Deux grains de folie dans le vent
+  Deux âmes brûlantes,
+  Deux enfants...
+   \end{verse}
+  
+ \begin{verse}
+  Embrasse-moi dessus bord
+  Viens mon ange, retracer le ciel
+  J'irai crucifier ton corps
+  Pourrais-je dépunaiser tes ailes
+  Embrasser, te mordre en même temps
+  Enfoncer mes ongles dans ton dos brûlant
+  Te supplier de me revenir
+  Et tout faire, pour te voir partir\newline
+  
+  Viens,emmène-moi là-bas
+  Donne-moi la main
+  Que je ne la prenne pas
+  Écorche mes ailes, envole-moi
+  Et laisse toi tranquille à la fois
+  Mille fois entrelaçons-nous
+  Et lassons-nous même en-dessous\newline
+  
+  Serre-moi encore serre-moi
+  Jusqu'à étouffer de toi
+  Serre-moi encore serre-moi
+  Jusqu'à étouffer de toi...
+ \end{verse}
+  
+  
+  
+\endsong
