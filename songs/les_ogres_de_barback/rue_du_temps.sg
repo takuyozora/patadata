@@ -1,8 +1,8 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Rue du temps}
-  [by={Les Ogres\ de\ Barback},cover={croc-noces},album={Croc noces},%
-  url={http://www.lesogres.com}]
+  [by={Les~Ogres~de~Barback},cover={croc-noces},album={Croc noces},%
+  url={http://www.lesogres.com},date={2001}]
 
   \cover
   \gtab{Dm}{5:X02210}

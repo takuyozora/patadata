@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{Le tourbillon de la vie}
-  [by={Jeanne Moreau},cover={bof-jules-et-jim},album={BOF Jules et Jim}]
+\beginsong{Le Tourbillon De La Vie}
+  [by={Jeanne Moreau, paroles par Serge Rezvani},cover={bof-jules-et-jim},album={BOF Jules et Jim},date={1957}]
 
   \cover
   \gtab{A}{X02220}
@@ -18,7 +18,7 @@
     Elle \[A]avait des yeux, des yeux d'opale
     Qui m'fascinaient, qui \[E]{m'fascinaient}
     Y'\[A]avait l'opale de son visage pâle
-    \[E]De femme fatale qui m'\[A]fut fatal \rep{2}
+    \lbis{\[E]De femme fatale qui m'\[A]fut fatal }
   \end{verse*}
 
   \begin{verse}
@@ -32,7 +32,7 @@
     Chacun pour soi est reparti
     Dans l'tourbillon de la vie
     Je l'ai revue un soir, aïe aïe aïe
-    Ça fait déjà un fameux bail \rep{2}
+    \lbis{Ça fait déjà un fameux bail}
   \end{verse*}
 
   \begin{verse}
@@ -46,7 +46,7 @@
     Je m'suis soûlé en l'écoutant
     L'alcool fait oublier le temps
     Je m'suis réveillé en sentant
-    Des baisers sur mon front brûlant \rep{2}
+    \lbis{Des baisers sur mon front brûlant}
   \end{verse*}
 
   \begin{verse}
@@ -60,7 +60,7 @@
     Chacun pour soi est reparti
     Dans l'tourbillon de la vie
     Je l'ai revue un soir, ah la la
-    Elle est retombée dans mes bras \rep{2}
+    \lbis{Elle est retombée dans mes bras}
   \end{verse*}
 
   \begin{verse}
@@ -74,7 +74,7 @@
     Alors tous deux, on est r'partis
     Dans le tourbillon de la vie
     On a continué à tourner
-    Tous les deux enlacés \rep{2}
+    \lbis{Tous les deux enlacés}
   \end{verse*}
 
 \endsong

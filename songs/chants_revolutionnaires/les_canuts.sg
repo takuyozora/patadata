@@ -1,15 +1,15 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Les Canuts}
-  [by={Aristide Bruant}]
+  [by={Aristide Bruant}, date={1894}]
   
   \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
 
   \begin{verse}  
-    \begin{mbis}[2]{f}
-      \line{Pour chan\[Dm]ter Veni Cre\[C]ator}
-      \line{Il faut avoir \[Bb]chasuble d’\[A]or}
-    \end{mbis}
+    \begin{bis}
+      Pour chan\[Dm]ter Veni Cre\[C]ator
+      Il faut avoir \[Bb]chasuble d’\[A]or
+    \end{bis}
     \[Dm]Nous en tissons pour vous, \[C]gens de \[F]l’église   
     \[A7]Mais nous \[Dm]pauvres canuts, \[A]n’avons pas de ch\[Dm]emise.
   \end{verse}
@@ -19,25 +19,26 @@
   \end{chorus}
 
   \begin{verse}
-    \begin{mbis}[2]{f}
-      \line{Pour gouverner il faut avoir}
-      \line{Manteaux et rubans en sautoir}
-    \end{mbis}
+    \begin{bis}
+      Pour gouverner il faut avoir
+      Manteaux et rubans en sautoir
+    \end{bis}
     Nous en tissons pour vous grands de la terre
     Mais nous pauvres canuts sans drap on nous enterre
   \end{verse}
 
   \begin{verse}
-    \begin{mbis}[2]{f}
-      \line{Mais notre règne arrivera}
-      \line{Quand votre règne finira}
-    \end{mbis}
+    \begin{bis}
+      Mais notre règne arrivera
+      Quand votre règne finira
+    \end{bis}
     Nous tisserons le linceul du vieux monde
     Car on entend déjà la révolte qui gronde
   \end{verse}
   
+  
   \begin{chorus}
-    \linerep{C’est nous les canuts, Nous n'irons plus nus.}{2}
+    \lbis{C’est nous les canuts, Nous n'irons plus nus.}
   \end{chorus}
     
   

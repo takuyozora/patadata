@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Plus rien}
-  [by={Les\ Cowboys\ Fringants},cover={la-grand-messe},album={La grand messe}]
+  [by={Les\ Cowboys\ Fringants},cover={la-grand-messe},album={La grand messe},date={2004}]
 
   \cover
   \gtab{Dm}{XX0231}
@@ -44,7 +44,7 @@
     \musicnote{\Pattern 3 : \nolyrics{\[Dm B{\flt} F C]}}
   \end{verse*}
 
-  \begin{verse*}
+  \begin{verse*}\bf
     Mais \[Dm]moi je n'ai vu qu'une planète désolante
     \[B&]Paysages lunaires et chaleur suffocante
     Et tous \[F]mes amis mourir par la soif ou la faim
@@ -96,26 +96,31 @@
     \musicnote{\Pattern 3 : \nolyrics{\[Dm B{\flt} F C]}}
   \end{verse*}
 
-  \begin{verse*}
+  \begin{verse*}\bf
     C'est des années plus tard qu'ils ont vu le non-sens
     Dans la panique ont déclaré l'état d'urgence
     Quand tous les océans ont englouti les îles
     Et que les inondations ont frappé les grandes villes
   \end{verse*}
 
-  \begin{verse*}
+  \begin{verse*}\bf
     Et par la suite pendant toute une décennie
     Ce fut les ouragans et puis les incendies
     Les tremblements de terre et la grande sécheresse
     Partout sur les visages on lisait la détresse
   \end{verse*}
 
-  \begin{verse*}
+  \begin{verse*}\bf
     Les gens ont dû se battre contre les pandémies
     Décimés par millions par d'atroces maladies
     Puis les autres sont morts par la soif ou la faim
     Comme tombent les mouches
   \end{verse*}
+  
+  \begin{chorus}
+  Jusqu'à c'qu'il n'y ait plus \[Dm]rien
+  Plus \[Gm]rien, plus \[C]rien \[B& C]
+  \end{chorus}
 
   \begin{verse*}
     \musicnote{\Pattern 2 : \nolyrics{\[Dm Gm C B{\flt} A7]}}

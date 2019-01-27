@@ -1,7 +1,7 @@
 \selectlanguage{english}
 \songcolumns{2}
 \beginsong{Let it be}
-  [by={The Beatles},cover={let-it-be},album={Let it be}]
+  [by={The~Beatles},cover={let-it-be},album={Let it be},date={1970}]
 
   \cover
   \gtab{Am}{X02210}

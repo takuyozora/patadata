@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Les Oiseaux De Passage}
-  [by={Georges Brassens}]
+  [by={Georges Brassens, poème de Jean Richepin}, date={1969 — 1881}]
   
   \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
 
@@ -71,9 +71,9 @@
 
   \begin{verse*}
   \begin{bis}
-    Regardez-les, vieux coq, jeune oie édifiante !
+    Regardez-les vieux coq, jeune oie édifiante !
     Rien de vous ne pourra monter aussi haut qu'eux.
-    Et tout ce qui viendra d'eux à vous c'est leur fiente.
+    Et le peu qui viendra d'eux à vous c'est leur fiente.
     Les bourgeois sont troublés de voir passer les gueux.
   \end{bis}
   \end{verse*}

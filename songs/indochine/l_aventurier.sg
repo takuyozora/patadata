@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{L'aventurier}
-  [by={Indochine},cover={generation-indochine},album={Génération Indochine}]
+\beginsong{L'Aventurier}
+  [by={Indochine},cover={generation-indochine},album={Génération Indochine},date={1982}]
 
   \cover
   \gtab{Am}{X02210}

@@ -1,49 +1,71 @@
 \selectlanguage{french}
 \songcolumns{1}
-\beginsong{Les filles des forges}
-  [by={Tri Yann},cover={le-meilleur-de-tri-yann},album={Le meilleur de Tri Yann}]
+\beginsong{Les Filles Des Forges}
+  [by={Tri~Yann},date={1976 — XVIII$^e$}]
 
   \cover
   \gtab{Am}{X02210}
   \gtab{G}{320003}
 
-  Alternatif: Em/D \\[8pt]
+	\begin{verse*}
+	\musicnote {Alternatif: Em / D }
+	\end{verse*}
+ 
 
   \begin{verse}
     \[Am]Digue, ding don, don, ce sont les filles \[G]des forges
     \[Am]Digue, ding don, don, ce sont les filles \[G]des forges
+    \begin{bis}
     \[Am]Des forges de Paim\[G]pont, digue ding \[Am]dondaine
     \[Am]Des forges de Paim\[G]pont, dingue ding \[Am]dondon
+    \end{bis}
   \end{verse}
 
   \begin{verse}
-    Digue, ding don, don, elles s'en vont ' confesse (x2)
-    Au cur' du canton, ...
+    \lbis{Digue, ding don, don, elles s'en vont ' confesse}
+	\begin{bis}
+	    Au curé du canton, digue ding dondaine
+	    Au curé du canton, digue ding dondon
+	\end{bis}
   \end{verse}
 
   \begin{verse}
-    Digue, ding don, don, qu'avions-vous fait les filles (x2)
-    Pour demander pardon, ...
+    \lbis{Digue, ding don, don, qu'avions-vous fait les filles}
+    \begin{bis}
+    Pour demander pardon, digue ding dondaine
+    Pour demander pardon, digue ding dondon
+    \end{bis}
   \end{verse}
 
   \begin{verse}
-    Digue, ding don, don, j'avions couru les bals (x2)
-    Et les jolis gar'ons, ... (x2)
+    \lbis{Digue, ding don, don, j'avions couru les bals}
+    \begin{bis}
+    Et les jolis garçons, digue ding dondaine
+    Et les jolis garçons, digue ding dondon
+    \end{bis}
   \end{verse}
 
   \begin{verse}
-    Digue, ding don, don, ma fille pour p'nitence (x2)
-    Nous nous embrasserons, ...
+    \lbis{Digue, ding don, don, ma fille pour pénitence}
+    \begin{bis}
+    Nous nous embrasserons, digue ding dondaine
+    Nous nous embrasserons, digue ding dondon
+    \end{bis}
   \end{verse}
 
   \begin{verse}
-    Digue, ding don, don, je n'embrasse point les pr'tres (x2)
-    Mais les jolis gar'ons, digue ding dondaine
-    Qu'ont du poil au menton, dingue ding dondon
+    \lbis{Digue, ding don, don, je n'embrasse point les prêtres}
+    \begin{bis}
+    Mais les jolis garçons, digue ding dondaine
+    Qu'ont du poil au menton, digue ding dondon
+    \end{bis}
   \end{verse}
 
   \begin{verse}
-    Digue, ding don, don, ce sont les filles des forges (x2)
-    Des forges de Paimpont, ...
+    \lbis{Digue, ding don, don, ce sont les filles des forges}
+    \begin{bis}
+    Des forges de Paimpont, digue ding dondaine
+    Des forges de Paimpont, digue ding dondon
+    \end{bis}
   \end{verse}
 \endsong

@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Je Suis Fils}
-  [by={Corrigan Fest}]
+  [by={Corrigan~Fest}, date={2007}]
   
   \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
   
@@ -10,14 +10,13 @@
       \musicnote{Intro}
 
         \nolyrics
-        \begin{mbis}[4]
-        
-          \line{{\[Am] \[G] \[Am] \[Am] } }
-          \line{{\[Am] \[G] \[C] \[C] } }
-          \line{{\[C] \[G] \[Dm] \[Am] } }
-          \line{{\[F] \[Em] \[Am] \[Am] } } 
-          \vspace {1 mm}
-        \end{mbis}
+        \begin{bis}
+          {\[Am] \[G] \[Am] \[Am] } 
+          {\[Am] \[G] \[C] \[C] } 
+          {\[C] \[G] \[Dm] \[Am] } 
+          {\[F] \[Em] \[Am] \[Am] }  
+        \end{bis}
+        \vspace {1 mm}
         {\[F] \[Em] \[Am] \[Am] } 
       \fi
     }
@@ -50,7 +49,8 @@
   \begin{chorus}
     \[Am]Laï la \[G]la la la \[Am]laï~~~\[Am]Laï la \[G]la la la \[C]laï
     La la \[C]la la la la \[G]la~~~La la \[Dm]la la la la \[Am]la
-    \[F]Laï la \[Em]la la la \[Am]laï \hspace{20pt} \rep{2}
+    \lbis{\[F]Laï la \[Em]la la la \[Am]laï }
+%    \[F]Laï la \[Em]la la la \[Am]laï \hspace{20pt} \rep{2}
     %\[F]Laï la \[Em]la la la \[Am]laï
   \end{chorus}
 
@@ -58,7 +58,7 @@
     Je suis fils d'Irlandais, poussé par la famine
     Je suis fils d'Écossais venu crever en usine
     Dès l'âge de huit ans, seize heures sur les machines
-    Mais \textit{tu} sait que jamais je n'ai courbé l'échine
+    Mais \textit{tu} sais que jamais je n'ai courbé l'échine
     Non, je suis resté droit, là devant les patrons
     Même le jour où ils ont passé la conscription
     Je suis fils de paysan, et fils d'ouvrier
@@ -87,35 +87,33 @@
   \begin{chorus}
     Laï la la la la laï~~~Laï la la la la laï
     La la la la la la la~~~La la la la la la la
-    Laï la la la la laï \hspace{20pt} \rep{2}
+    \lbis{Laï la la la la laï }
+%    Laï la la la la laï \hspace{20pt} \rep{2}
     %Laï la la la la laï
   \end{chorus}
 
   \begin{verse}
-    %\begin{mbis}[5]{f}
       Je n'aime pas le lys, je n'aime pas la croix
       Une est pour les curés, et l'autre est pour les rois
       Si j'aime mon pays, la terre qui m'a vu naître
       Je ne veux pas de dieu, je ne veux pas de maître
       Je ne veux pas de dieu, je ne veux pas de maître
-    %\end{mbis}
   \end{verse}
   
   \begin{chorus}
     Laï la la la la laï~~~Laï la la la la laï
     La la la la la la la~~~La la la la la la la
-    Laï la la la la laï \hspace{20pt} \rep{2}
+    \lbis{Laï la la la la laï }
+%    Laï la la la la laï \hspace{20pt} \rep{2}
     %Laï la la la la laï
   \end{chorus}
   
   \begin{verse}
-    %\begin{mbis}[5]{f}
       Je n'aime pas le lys, je n'aime pas la croix
       Une est pour les curés, et l'autre est pour les rois
       Si j'aime mon pays, la terre qui m'a vu naître
       \textbf{Je ne veux pas de dieu, je ne veux pas de maître}
       \textbf{Je ne veux pas de dieu, je ne veux pas de maître}
-    %\end{mbis}
   \end{verse}
   
   

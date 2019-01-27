@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{Siffler sur la colline}
-  [by={Joe Dassin},cover={le-meilleur-de-joe-dassin},album={Le meilleur de Joe Dassin}]
+  [by={Joe Dassin},cover={le-meilleur-de-joe-dassin},album={Le meilleur de Joe Dassin},date={1969}]
 
 
   \cover
@@ -18,8 +18,8 @@
     De l'attendre avec un petit \[C]bouquet d'églantines
     J'ai cueilli les fleurs et j'ai sif\[G7]flé tant que j'ai pu
     J'ai attendu, attendu, elle n'\[C]est jamais venue
-    Zaï zaï zaï \[E7]zaï, zaï zaï zaï \[Am]zaï \rep{2}
-    Oh \[G]oh oh \[Am]oh \rep{2}
+    \lbis{Zaï zaï zaï \[E7]zaï, zaï zaï zaï \[Am]zaï}
+    \lbis{Oh \[G]oh oh \[Am]oh }
   \end{chorus}
 
   \begin{verse}

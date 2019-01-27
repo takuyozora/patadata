@@ -34,6 +34,8 @@ schema:
         - type: //str
           value: "one_more"
         - type: //str
+          value: "two"
+        - type: //str
           value: "none"
 default:
   en:
@@ -111,6 +113,9 @@ description:
 \def\songcolumns#1{%
 (* if template_var.column_adjustment=="only_one" *)
     \OldSongColumns{1}
+(* elif template_var.column_adjustment=="two" *)
+    \count0=1\relax\advance\count0 by 1\relax%
+    \OldSongColumns{\count0}
 (* elif template_var.column_adjustment=="one_more" *)
     \count0=#1\relax\advance\count0 by 1\relax%
     \OldSongColumns{\count0}

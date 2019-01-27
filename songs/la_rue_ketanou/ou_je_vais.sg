@@ -1,8 +1,8 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{Où je vais}
-  [by={La Rue\ Kétanou},cover={en-attendant-les-caravanes},album={En attendant les caravanes},%
-  url={http://www.larueketanou.com}]
+\beginsong{Où Je Vais}
+  [by={La~Rue~Kétanou},cover={en-attendant-les-caravanes},album={En attendant les caravanes},%
+  url={http://www.larueketanou.com}, date={2000}]
 
   \cover
   \gtab{Dm}{XX0231}

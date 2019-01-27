@@ -1,8 +1,8 @@
 \selectlanguage{french}
 \songcolumns{3}
 \beginsong{Grand-mère}
-  [by={Les Ogres\ de\ Barback},cover={la-fanfare-du-belgistan},album={La fanfare du Belgistan},%
-  url={http://www.lesogres.com}]
+  [by={Les~Ogres~de~Barback},cover={irfan-le-heros},album={Irfan, le Héros},%
+  url={http://www.lesogres.com},date={1999}]
 
   \cover
   \gtab{D}{5:X02220}

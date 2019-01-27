@@ -1,8 +1,8 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{3 -- 0}
-  [by={Les Ogres\ de\ Barback},cover={terrain-vague},album={Terrain vague},%
-  url={http://www.lesogres.com}]
+\beginsong{3 — 0}
+  [by={Les~Ogres~de~Barback},cover={terrain-vague},album={Terrain vague},%
+  url={http://www.lesogres.com},date={2004}]
 
   \cover
   \gtab{C}{3:X02220}

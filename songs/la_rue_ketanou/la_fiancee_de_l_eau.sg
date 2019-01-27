@@ -1,8 +1,8 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{La fiancée de l'eau}
-  [by={La Rue\ Kétanou},cover={ouvert-a-double-tour},album={Ouvert à double tour},%
-  url={http://www.larueketanou.com}]
+  [by={La~Rue~Kétanou},cover={en-attendant-les-caravanes},album={En attendant les caravanes},%
+  url={http://www.larueketanou.com}, date={2000}]
 
   \cover
   \gtab{Dm}{5:X02210}

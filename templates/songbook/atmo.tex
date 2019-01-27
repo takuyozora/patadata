@@ -26,7 +26,10 @@ schema:
     chordsize: //str
     versefont: //str
     chorusfont: //str
+    lyricsize: //str
     geometry: //str
+    indexauthor: //str
+    indexsize: //str
     column_adjustment:
       type: //any
       of:
@@ -45,7 +48,10 @@ default:
     chordsize: "n"
     versefont: ""
     chorusfont: "i"
+    lyricsize: "normal"
     geometry: "a4paper"
+    indexauthor: "normal"
+    indexsize: "normal"
     column_adjustment: none
 description:
   en:
@@ -54,7 +60,10 @@ description:
     chordsize: "Chord font size"
     versefont: "Verse font (i, b, n)"
     chorusfont: "Chorus font (i, b, n)"
+    lyricsize: "Lyrics font size (small, normal, large, Large, LARGE)"
     geometry: "Paper geometry (size, margin, orientation...), as options of the LaTeX geometry package."
+    indexauthor: "Change the author display in index (normal, simple)"
+    indexsize: "Size of each index line (small, normal, large, big)"
     column_adjustment: "Column adjsutment."
   fr:
     chordfont: "Police des accords"
@@ -62,7 +71,10 @@ description:
     chordsize: "Taille de la police pour les accords"
     versefont: "Police des couplets"
     chorusfont: "Police des refrains"
+    lyricsize: "Taille de la police pour les paroles (small, normal, large, Large, LARGE)"
     geometry: "Format du papier (taille, marges, orientation...), avec le même format que les options du paquet LaTeX geometry."
+    indexauthor: "change l'affiche des auteurs dans l'index (normal, simple)"
+    indexsize: "Taille de chaque ligne de l'index (small, normal, large, big)"
     column_adjustment: "Ajustement des colonnes."
 
 
@@ -111,7 +123,9 @@ description:
 	\copy1
 	\setlength{\setbispadtoplen}{\bispadtop\ht1\relax}}
 %%
-\renewcommand{\line}[1]{\small{\bf{#1}}}%		% Style of bis line
+%\renewcommand{\line}[1]{\lyricsize{\bf{#1}}}%		% Style of bis line
+\renewcommand{\line}[1]{\lyricsize\fontsize{\f@size pt}{\f@size pt}\selectfont{\bf{#1}}}%		% Style of bis line
+%\renewcommand{\line}[1]{\small{\bf{#1}}}%		% Style of bis line
 %% BIS ENVIRONMENT
 \newenvironment{bis}{\def\tabcolsep{0pt}%				% To correctly align from the left
 	\setlength\arrayrulewidth{0.5pt}%					% Width of the bis vbar
@@ -196,6 +210,42 @@ description:
 \definecolor{ChordColor}{HTML}{(( template_var.chordcolor ))}
 \renewcommand{\printchord}[1]{\@chordfont\textcolor{ChordColor}{#1}}
 
+(* if template_var.indexauthor=="simple" *)
+\renewcommand{\indexauthor}[2]{\def\temp{#1}\ifx\temp\empty%
+#2%
+\else%
+#1 #2
+\fi}
+(* endif *)
+
+\usepackage{mfirstuc}
+
+\renewcommand{\indextitle}[2]{\def\temp{#1}\ifx\temp\empty%
+\capitalisewords{#2}%
+\else%
+\capitalisewords{#1 #2}%
+\fi}
+
+\newcommand{\lyricsize}{%
+   (* if template_var.lyricsize=="small" *) \small %
+   (* elif template_var.lyricsize=="normal" *) \normalsize %
+   (* elif template_var.lyricsize=="larger" *) \fontsize{11pt}{13pt} \selectfont %
+   (* elif template_var.lyricsize=="large" *) \large %
+   (* elif template_var.lyricsize=="Large" *) \large %
+   (* elif template_var.lyricsize=="LARGE" *) \LARGE %
+   (* endif *)%
+}
+
+\renewcommand{\indexsize}{%
+   (* if template_var.indexsize=="small" *) \small %
+   (* elif template_var.indexsize=="normal" *) \normalsize %
+   (* elif template_var.indexsize=="large" *) \fontsize{11pt}{13pt} \selectfont %
+   (* elif template_var.indexsize=="big" *) \fontsize{13pt}{12pt} \selectfont %
+   (* endif *)%
+}
+
+
+
 \renewcommand{\lyricfont}{%
    (* for letter in template_var.versefont *)
    (* if letter=="i" *)   \it %
@@ -203,6 +253,7 @@ description:
    (* elif letter=='n' *)   \normalfont %
    (* endif *)
    (* endfor *)
+   \lyricsize
 }
 \makeatother
 %! End of font management
@@ -211,24 +262,41 @@ description:
  ((template_var.geometry))
 }
 
+\newcounter{inchordblock}
 %! Temporary hack for columns management
 \let\OldSongColumns=\songcolumns
 \def\songcolumns#1{%
-(* if template_var.column_adjustment=="only_one" *)
-    \OldSongColumns{1}
-(* elif template_var.column_adjustment=="two" *)
-    \count0=1\relax\advance\count0 by 1\relax%
-    \OldSongColumns{\count0}
-(* elif template_var.column_adjustment=="one_more" *)
-    \count0=#1\relax\advance\count0 by 1\relax%
-    \OldSongColumns{\count0}
-(* else *)
-    \OldSongColumns{#1}
-(* endif *)
+	(* if template_var.column_adjustment=="only_one" *)
+	\OldSongColumns{1}
+	(* elif template_var.column_adjustment=="two" *)
+		\ifnum\value{inchordblock}>0
+			\count0=#1\relax\advance\count0 by 1\relax%
+			\OldSongColumns{2}
+		\else
+			\OldSongColumns{1}
+		\fi
+	(* elif template_var.column_adjustment=="one_more" *)
+	\count0=#1\relax\advance\count0 by 1\relax%
+	\OldSongColumns{\count0}
+	(* else *)
+	\OldSongColumns{#1}
+	(* endif *)
 }
 %! End of columns management
+
 (* endblock *)
 
 (* block preface *)
+(* endblock *)
+
+(* block chords *)
+%\OldSongColumns{1}
+%(( super() ))
+(* endblock *)
+
+(* block songs *)
+\setcounter{inchordblock}{1}
+%\let\inchordblock
+(( super() ))
 (* endblock *)
 % end document
