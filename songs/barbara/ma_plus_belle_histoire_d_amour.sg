@@ -1,0 +1,120 @@
+%%% EN TÊTE DU CHANT %%%
+
+\beginsong%
+% Titre du chant
+{Ma plus belle histoire d'amour}%
+% Chanteur(s) ou chanteuse(s)
+[by={Barbara},
+% Date (c'est normal si ça ne s'affiche pas)
+date={1966},
+album={Ma plus belle histoire d'amour}]
+\MultiwordChords 
+
+%%% PAROLES DU CHANT %%%
+
+% Début d'un couplet
+\begin{verse} 
+\[A&]Du plus loin que me rev\[A&7]ienne,
+L\[Fm]'ombre de mes amours anc\[Bbm]iennes,
+Du plus loin, du \[E&7]premier rendez-vous,
+Du temps des premières \[A&7]peines;
+\[Fm]Lors, j'avais quinze ans à \[Bbm]peine,
+\[Bbm]Cœur tout blanc, et \[E&7]griffes aux gen\[A&]oux,
+\[D&]Que ce furent, j'étais préc\[Bbm]oce,
+\[E&7]De tendres amours de \[A&]gosse,\[C7]
+\[Fm]Ou les mor\[B&7]sures d'un amour \[E&7]fou;
+\[Fm]Du plus loin qu'il m'en souv\[E&]ienne,
+\[E&]Si depuis, j'ai dit "je t'\[A&]aime",\[Fm]
+\[Bbm]Ma plus belle histoire d'am\[E&7]our, c'est \[A&]vous.\[E7]
+\end{verse}
+
+\begin{verse}
+\[A]C'est vrai, je ne fus pas \[A7]sage,
+\[F#m]Et j'ai tourné bien des \[Bm]pages,
+Sans les lire, blanches, \[E7]et puis rien dess\[A]us.
+C'est vrai, je ne fus \[A7]pas sage,
+Et mes guerriers de pass\[Bm]age,
+A peine vus, \[E7]déjà dispar\[A]us. \[A7] \[G] \[A7]
+\[D]Mais à travers leur vis\[Bm]age,
+C'ét\[E7]ait déjà votre im\[A]age, \[C#]
+\[Fm]C'était vous \[B7]déjà et le cœur \[E7]nu, \[F#m] \[E7]
+\[F#m]Je refaisais mes bagages,
+\[E7]Et poursuivais mon m\[A]irage, \[F#m]
+\[Bm]Ma plus belle histoire d'am\[E7]our, c'est \[A]vous,
+\end{verse}
+
+\begin{verse}
+\[B&]Sur la longue \[F]route,
+\[C7]Qui menait vers \[F]vous,
+\[B&]Sur la longue \[F]route,
+J'allais \[C7]le cœur \[F]fou,
+\[B&]Le vent de \[F]décembre,
+\[C7]Me gelait au \[F]cou,
+\[B&]Qu'importait \[F]décembre,
+\[E7]Si c'était pour \[A]vous,
+\end{verse}
+
+\begin{chorus}
+\[A&]Elle fut longue la \[A&7]route,
+\[Fm]Mais je l'ai faite, la \[B&m]route.
+Celle-là, qui \[E&7]menait jusqu'à vous,
+Et je ne suis pas par\[A&7]jure,
+\[Fm]Si ce soir, je vous \[B&7]jure,
+\[B&m]Que, pour vous, je l\[E&7]'eus faite à gen\[A&]oux,
+\[D&]Il en eût fallu bien d\[B&m]'autres,
+\[E&7]Que quelques mauvais a\[A&]pôtres,\[C7]
+\[Fm]Que l'hiver ou la \[B&7]neige à mon \[E&7]cou,
+\[Fm]Pour que je perde pat\[Eb]ience,
+\[Eb]Et j'ai calmé ma viol\[A&]ence, \[Fm]
+\[B&m]Ma plus belle histoire d'am\[E&7]our, c'est \[A&]vous,\[E7]
+\end{chorus}
+
+\begin{verse}
+Mais tant d'hiver et d'automne
+De nuit, de jour, et personne,
+Vous n'étiez jamais au rendez-vous,
+Et de vous, perdant courage,
+Soudain, me prenait la rage,
+Mon Dieu, que j'avais besoin de vous,
+Que le Diable vous emporte,
+D'autres m'ont ouvert leur porte,
+Heureuse, je m'en allais loin de vous,
+Oui, je vous fus infidèle,
+Mais vous revenais quand même,
+Ma plus belle histoire d'amour, c'est vous,
+\end{verse}
+
+\begin{verse}
+J'ai pleuré mes larmes,
+Mais qu'il me fut doux,
+Oh, qu'il me fut doux,
+Ce premier sourire de vous,
+Et pour une larme,
+Qui venait de vous,
+J'ai pleuré d'amour,
+Vous souvenez-vous?
+\end{verse}
+
+\begin{chorus}
+Ce fut, un soir, en septembre,
+Vous étiez venus m'attendre,
+Ici même, vous en souvenez-vous?
+A vous regarder sourire,
+A vous aimer, sans rien dire,
+C'est là que j'ai compris, tout à coup,
+J'avais fini mon voyage,
+Et j'ai posé mes bagages,
+Vous étiez venus au rendez-vous,
+Qu'importe ce qu'on peut en dire,
+Je tenais à vous le dire,
+Ce soir je vous remercie de vous,
+Qu'importe ce qu'on peut en dire,
+Je suis venue pour vous dire,
+Ma plus belle histoire d'amour, c'est vous...
+\end{chorus}
+
+%%%%%%%%%%%
+%%% FIN %%%
+%%%%%%%%%%%
+
+\endsong

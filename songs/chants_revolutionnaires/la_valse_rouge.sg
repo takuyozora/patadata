@@ -1,0 +1,88 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Valse Rouge}
+  [by={Bernard Allain, Chorale~des~Lendemains},date={2002}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+
+ \begin{verse}
+  Jean le prolétaire
+  S'en va au turbin
+  Dans le froid du petit matin
+  Il pense à son frère
+  A quarante ans d'âge
+  Qui s'en va pointer au chômage
+  Mais en arrivant à l'usine
+  Devant il voit un brasero
+  Autour les copains les copines
+  La déléguée prend le micro
+ \end{verse}
+
+ \begin{chorus}
+  C'est la valse rouge
+  Qui fait le monde bouge
+  Trois temps qui bouleversent
+  Qui mettent le monde à la renverse
+  Elle est noire et rouge
+  La couleur des révolutions
+  Quand les exploités mènent la danse
+  C’est plus la vieille chanson
+  Qu’on nous répète dès l’enfance
+  La rengaine des patrons
+ \end{chorus}
+ 
+ \begin{verse}
+  Il y a bien longtemps
+  Quand les militaires
+  Nous préparaient la der des der
+  Prolos paysans
+  Partaient tous au front
+  Pour mourir au son du clairon
+  Mais un Noël dans la bouillasse
+  Blottis au fond de la tranchée
+  Un paquet d’tabac on ramasse
+  Que les allemands ont envoyé
+ \end{verse}
+ 
+ \begin{chorus}
+  C’est la valse rouge
+  Qui fait que le monde bouge
+  Trois temps qui bouleversent
+  Qui mettent le monde à la renverse
+  Elle est noire et rouge
+  La couleur des révolutions
+  Quand les hommes du rang mènent la danse
+  C’est plus la vieille chanson
+  Que nous répètent dès l’enfance
+  Les généraux, les patrons
+ \end{chorus}
+ 
+ \begin{verse}
+  Mille neuf cent trente six
+  La grève générale
+  Fout les chocottes au capital
+  De Boulogne à Nice
+  Les occupations
+  Drapeaux rouges et accordéons
+  Ils n’ont pas ménagé leur peine
+  Les Jules, les Lucie, les Dédé
+  Pédalant sur leur petite reine
+  A la mer ils sont arrivés
+ \end{verse}
+ 
+ \begin{verse}
+Julie et Karim
+Travaillent au Mac Do
+Petites vies, petits boulots
+Chômage interim
+Un triste destin
+Mais tous les deux ils s’aiment bien
+Et quand le manager menace
+Ils savent qu’il ne les aura pas
+Ses petites combines dégueulasses
+Le syndicat les dénoncera
+ \end{verse}
+
+
+\endsong

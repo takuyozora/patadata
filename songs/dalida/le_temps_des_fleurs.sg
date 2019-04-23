@@ -1,0 +1,65 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Temps Des Fleurs}
+  [by={Dalida},date={1967}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+ \begin{verse}
+ \[Em]Dans une taverne du vieux Londres
+ \[E7]Où se retrouvaient des étran\[Am]gers
+ Nos voix criblées de joie montaient de \[Em]l'ombre
+ \[F#7]Et nous écoutions nos cœurs chan\[B7]ter
+ \end{verse}
+ 
+\begin{chorus}
+ C'était le \[Em]temps des fleurs
+ On \[E7]ignor\[Am]ait la peur
+ Les lende\[D7]mains avaient un goût de \[G]miel
+ Ton bras pre\[Am]nait mon bras
+ Ta voix sui\[Em]vait ma voix
+ On était \[B7]jeune et l'on croyait au \textit{s\[Em]el}
+ \textit{\[Em]La, \[Am]la, \[B7]la, \[Em]la, la la ...}
+% On était jeune et l'on croyait au \textit{sel}
+\end{chorus}
+ 
+\begin{verse}
+ Et puis sont venus les jours de brume
+ Avec des bruits étranges et des pleurs
+ Combien j'ai passé de nuits sans lune
+ À chercher la taverne dans mon cœur
+\end{verse}
+ 
+\begin{chorus}
+ Tout comme au temps des fleurs
+ Où l'on vivait sans peur
+ Où chaque jour avait un goût de miel
+ Ton bras prenait mon bras
+ Ta voix suivait ma voix
+ On était jeune et l'on croyait au \textit{sel}
+ \textit{La la la la la la la}
+% On était jeune et l'on croyait au \textit{sel}
+\end{chorus}
+
+\begin{verse}
+	Je m'imaginais chassant la brume
+	Je croyais pouvoir remonter le temps
+	Et je m'inventais des clairs de lune
+	Où tous deux nous chantions comme avant
+\end{verse}
+
+\textnote{Au premier refrain}
+ 
+\begin{verse}
+ Et ce soir je suis devant la porte
+ De la taverne où tu ne viendras plus
+ Et la chanson que la nuit m'apporte
+ Mon cœur déjà ne la connaît plus
+\end{verse}
+ 
+\textnote{Au premier refrain}
+
+
+
+
+\endsong

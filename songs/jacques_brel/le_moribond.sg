@@ -1,0 +1,84 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Moribond}
+  [by={Jacques Brel},date={1961}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse}
+  \[C]Adieu l'Émile je t'aimais bien
+  Adieu l'Émile je t'aimais \[Dm]bien tu sais
+  On a chanté les mêmes v\[C]ins
+  On a chanté les même f\[Dm]illes
+  \[G]On a chanté les même c\[C]hagrins
+  \end{verse}
+  
+  \begin{verse*}
+  Adieu l'Émile je vais m\[C]ourir
+  C'est dur de mourir au pr\[Dm]intemps tu sais
+  Mais je pars aux fleurs la paix dans \[C]l'âme
+  Car vu que tu es bon comme du pain \[Dm]blanc
+  \[G]Je sais que prendras soin de ma \[C]femme
+  \end{verse*}
+  
+  \begin{chorus}
+  Et je veux qu'on \[C]rie
+  Je veux qu'on \[C]danse
+  Je veux qu'on s'\[Dm]amuse comme des fous
+  Je veux qu'on r\[G]ie
+  Je veux qu'on da\[G]nse
+  Quand c'est \[G]qu'on me mettra dans le t\[C]rou
+  \end{chorus}
+  
+  \begin{verse}
+  Adieu Curé je t'aimais bien
+  Adieu Curé je t'aimais bien tu sais
+  On n'était pas du même bord
+  On n'était pas du même chemin
+  Mais on cherchait le même port
+  \end{verse}
+  
+  \begin{verse*}
+  Adieu Curé je vais mourir
+  C'est dur de mourir au printemps tu sais
+  Mais je pars aux fleurs la paix dans l'âme
+  Car vu que tu étais son confident
+  Je sais que prendras soin de ma femme
+  \end{verse*}
+  
+  
+  \begin{verse}
+  Adieu l'Antoine je t'aimais pas bien
+  Adieu l'Antoine je t'aimais pas bien tu sais
+  J'en crève de crever aujourd'hui
+  Alors que toi tu es bien vivant
+  Et même plus solide que l'ennui
+  \end{verse}
+  
+\begin{verse*}
+  Adieu l'Antoine je vais mourir
+  C'est dur de mourir au printemps tu sais
+  Mais je pars aux fleurs la paix dans l'âme
+  Car vu que tu étais son amant
+  Je sais que prendras soin de ma femme
+\end{verse*}
+  
+  
+  \begin{verse}
+  Adieu ma femme je t'aimais bien
+  Adieu ma femme je t'aimais bien tu sais
+  Mais je prends le train pour le Bon Dieu
+  Je prends le train qui est avant le tien
+  Mais on prend tous le train qu'on peut
+  \end{verse}
+  
+  \begin{verse*}
+  Adieu ma femme je vais mourir
+  C'est dur de mourir au printemps tu sais
+  Mais je pars aux fleurs les yeux fermées ma femme
+  Car vu que je laisser fermées souvent
+  Je sais que prendras soin mon âme
+  \end{verse*}
+
+  
+\endsong

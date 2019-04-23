@@ -1,0 +1,89 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Chanson de Craone}
+  [by={Annonyme, musique de Adelmar Sablon},date={1918}]
+  
+  \textnote{\textit{La Chanson de Craonne (du nom du village de Craonne) est une chanson contestataire, chantée par des soldats français durant la Première Guerre mondiale. Elle est interdite par le commandement militaire qui la censure en raison de ses paroles antimilitaristes, subversives et incitant à la mutinerie.
+  	}}
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  
+  \begin{verse}
+  \[A]Quand au bout de huit jours,
+  Le \[E]r'pos terminé,
+  On v\[D]a reprendre les tran\[E]chées,
+  Notre pl\[D]ace, est si \[F#m]utile,~\[E]
+  Que sans n\[D]ous, \[E]on prend la pile.
+  Mais c’\[A]est bien fini, on \[E]en a assez,
+  Person\[D]ne ne veut plus march\[E]er,
+  \[Bm]Et le cœur bien gros, comme \[F#m]dans un san\[E]glot,
+  On d\[Bm]it adieu \[D]aux civ’\[E]lots.
+  \[A]Même sans tam\[Bm]bour, \[D]même sans tromp\[E]ette,
+  On s’en va là-h\[Am]aut, en \[F]baissant la \[E7]tête..
+  \end{verse}
+  
+  
+ \begin{chorus}
+  \[A]Adieu la \[E]vie, adieu l’\[A]amour,
+  Adieu tout\[F#]es les \[Bm]femmes,
+  C’est bien fin\[F#]i, c’\[D]est pour t\[E7]oujours,
+  De cette guerre inf\[D]âme,~\[E7]
+  \[A]C’est à Cra\[E7]onne, sur le pl\[A]ateau,
+  Qu’on doit laiss\[F#]er sa p\[Bm]eau,
+  Car n\[Bm]ous sommes t\[E7]ous condam\[A]nés,
+  Nous sommes les s\[D]acr\[E7]ifiés.~\[A]
+ \end{chorus}
+  
+  \begin{verse}
+  Huit jours de tranchées,
+  Huit jours de souffrance,
+  Pourtant on a l’espérance,
+  Que ce soir, viendra la relève,
+  Que nous a-ttendons sans trêve,
+  Soudain dans la nuit, et dans le silence,
+  On voit quelqu’un qui s’avance :
+  C’est un officier, de chasseurs à pied,
+  Qui vient pour nous remplacer.
+  Doucement, dans l’ombre, sous la pluie qui tombe,
+  Les petits chasseurs, vont chercher leur tombe.
+  \end{verse}
+  
+  \begin{verse}
+  C’est malheureux d’voir,
+  Sur les grands boulevards,
+  Tous ces gros qui font la foire,
+  Si pour eux, la vie est rose,
+  Pour nous c’est, pas la même chose,
+  Au lieu d’se cacher, tous ces embusqués,
+  Feraient mieux d'monter aux tranchées,
+  Pour défendre leurs biens, car nous n’avons rien,
+  Nous autres, les pauvres purotins.
+  Tous les camarades, sont enterrés là,
+  Pour défendre les biens, de ces messieurs-là..
+  \end{verse}
+  
+  
+  \begin{chorus}
+  Ceux qui ont l’pognon,
+  Ceux-là r'viendront,
+  Car c’est pour eux qu’on crève,
+  Mais c’est fini, car les troufions,
+  Vont tous se mettre en grève,
+  Ce sera vot’tour, messieurs les gros,
+  De monter sur l’plateau,
+%\begin{bis}
+  Car si vous voulez la guerre
+  Payez-la de votre peau !
+  Car si vous voulez la guerre
+  Payez-la de votre peau !
+%\end{bis}
+  \end{chorus}
+  
+  \textnote{Reprise .. }
+  
+  \begin{chorus}
+  Ce sera vot’tour, messieurs les gros ...
+  \end{chorus}
+  
+\endsong

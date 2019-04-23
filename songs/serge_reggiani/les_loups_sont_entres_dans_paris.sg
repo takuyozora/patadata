@@ -1,0 +1,153 @@
+
+\beginsong%
+% Titre du chant
+{Les loups sont entrés dans Paris}%
+% Chanteur(s) ou chanteuse(s)
+[by={Albert Vidalie, Serge Reggiani},
+% Date (c'est normal si ça ne s'affiche pas)
+date={1967}]
+\MultiwordChords 
+
+%%% PAROLES DU CHANT %%%
+
+% Commentaire sur la chanson
+% \textnote{Sur l'air du chant des marais}
+
+% Début d'un couplet
+\begin{verse*} 
+\textnote{\textit{Parlé}}
+\[G#]Et si c'\[C#m]était une nuit
+\[G#]Comme on n'\[C#m]en connut pas depuis,
+\[G#]Depuis cent \[C#m]mille nuits.
+\[G#]Une nuit de \[C#m]fer, une nuit de sang,
+\[G#]Une nu\[C#m]it...
+\[G#]Un chien h\[C#m]urle.
+\[G#]Regardez-b\[C#m]ien, gens de Denfert, regardez-le :
+\[G#]Sous son ma\[C#m]nteau de bronze vert,
+\[G#]Le lion tr\[C#m]emble.
+
+\end{verse*}
+% Fin d'un couplet
+
+\begin{verse}
+\[C#m]Les hommes avaient perdu le \[E]goût
+De vivre, et se foutaient de \[G#m]tout.
+Leur mère, leurs frangins, leur na\[Fdim7]na,
+Pour eux c'était que du ciném\[F#m]a.
+Le ciel redevenait sauv\[C#m]age,
+\[G#7]Le béton bouffait le pays\[C#m]age... \[G#] Al\[C#m]ors !
+\end{verse}
+
+\begin{chorus}
+Les l\[C#m]oups, ouh ! \[G#] Ouou\[C#m]ououh !
+Les l\[E]oups étaient lo\[B]in de Paris.\[E]
+En Croatie, en G\[F#]erman\[E]ie,
+Les l\[A]oups étaient loin de Paris.\[B]
+J'aimais ton r\[G#7]ire, char\[C#7]mante Elvire,\[F#m]
+Les l\[C#m]oups éta\[G#7]ient loin de P\[C#m]aris. \[G#] \[C#m]
+\end{chorus}
+
+\begin{verse}
+ Mais ça fait cinquante lieues
+Dans une nuit à queue leu leu
+Dès que ça flaire une ripaille
+De morts sur un champ de bataille
+Dès que la peur hante les rues
+Les loups s'en viennent la nuit venue... Alors
+\end{verse}
+
+\begin{chorus}
+Les loups, ououh ! ououououh !
+Les loups ont regardé vers Paris
+De Croatie, de Germanie
+Les loups ont regardé vers Paris
+Tu peux sourire, charmante Elvire
+Les loups regardent vers Paris.
+\end{chorus}
+
+\begin{verse}
+Et v'là qu'il fit un rude hiver
+Cent congestions en fait divers
+Volets clos, on claquait des dents
+Même dans les beaux arrondissements
+Et personne n'osait plus le soir
+Affronter la neige des boulevards... Alors
+\end{verse}
+
+\begin{chorus}
+Deux loups ououh ! ououououh !
+Deux loups sont entrés dans Paris
+L'un par Issy, l'autre par Ivry
+Deux loups sont entrés dans Paris
+Ah tu peux rire, charmante Elvire
+Deux loups sont entrés dans Paris.
+\end{chorus}
+
+\begin{verse}
+Le premier n'avait plus qu'un oeil
+C'était un vieux mâle de Grimsel
+Il installa ses dix femelles
+Dans le maigre square de Grenelle
+Et nourrit ses deux cent petits
+Avec les enfants de Passy... alors
+\end{verse}
+
+\begin{chorus}
+Cent loups, ououh ! ououououh !
+Cent loups sont entrés dans Paris
+Soit par Issy, soit par Ivry
+Cent loups sont entrés dans Paris
+Cessez de rire, charmante Elvire
+Cent loups sont entrés dans Paris.
+\end{chorus}
+
+\begin{verse}
+Le deuxième n'avait que trois pattes
+C'était un loup gris des Carpathes
+Qu'on appelait Carême-Prenant
+Il fit faire gras à ses enfants
+Il leur offrit six ministères
+Et tous les gardiens des fourrières... alors
+\end{verse}
+
+\begin{chorus}
+Les loups ououh ! ououououh !
+Les loups ont envahi Paris
+Soit par Issy, soit par Ivry
+Les loups ont envahi Paris
+Cessez de rire, charmante Elvire
+Les loups ont envahi Paris.
+\end{chorus}
+
+\begin{verse}
+Attirés par l'odeur du sang
+Il en vint des mille et des cents
+Faire carousse, liesse et bombance
+Dans ce foutu pays de France
+Jusqu'à ce que les hommes aient retrouvé
+L'amour et la fraternité... Et alors
+\end{verse}
+
+\begin{chorus}
+Les loups ououh ! ououououh !
+Les loups sont sortis de Paris
+Soit par Issy, soit par Ivry
+Les loups sont sortis de Paris
+Tu peux sourire, charmante Elvire
+Les loups sont sortis de Paris
+J'aime ton rire, charmante Elvire
+Les loups sont sortis de Paris...
+Les loups...
+Les loups...
+Les loups...
+Les loups...
+Les loups, les loups. les loups...
+Les loups...
+Les loups...
+\end{chorus}
+
+%%%%%%%%%%%
+%%% FIN %%%
+%%%%%%%%%%%
+
+\endsong

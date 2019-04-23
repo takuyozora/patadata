@@ -1,0 +1,70 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{La Rue Des Lilas}
+[by={Sylvain Girault}, date={2015}]
+\MultiwordChords 
+
+\textnote{\it La Rue des Lilas est une chanson récente du groupe Katé-Mé. Elle parle de la guerre en général, mais on sent le contexte syrien à travers quelques mots, darbeh$^1$ et arak$^2$. Les derniers vers sont de Paul Valery.}
+
+\begin{verse}
+Ce soir je meurs à la guerre
+Aujourd’hui pour moi sonne le glas
+Mon visage est blanc et mon sang coule à flot
+Sur le trottoir de la rue des Lilas\newline
+
+Ce soir je meurs sous vos bombes
+Pourtant je n’ai rien fait pour ça
+Je ne suis qu’un simple flâneur dans la ville
+Sur le trottoir de la rue des Lilas
+\end{verse}
+
+\begin{chorus}
+Je vous le dis, je vous le dis, je vous le dis
+Que maudite soit la guerre
+Maudits les chars, les fusils, les combats
+Je m’éteins dans la rue des Lilas
+\end{chorus}
+
+\begin{verse}
+Plus jamais revoir la dune
+Au matin quand s’effacent mes pas
+Jamais plus les cimes et la neige éternelle
+Et l’oiseau bleu brillant de mille éclats\newline
+
+Plus jamais revoir la lune
+Dans la nuit qui éclaire mes pas
+Jamais plus la mer, les étoiles, les forêts
+Et ce lac bleu perdu au fond des bois
+\end{verse}
+
+\begin{verse}
+J’aim’rais tant revoir mes frères
+Mes enfants, mes parents, mes amis
+Danser le dabkeh$^1$ pour repousser la mort
+Trinquer l’arak$^2$ jusqu’au bout de la vie\newline
+
+Je voudrais une dernière
+Chanson pour apaiser la nuit
+Pour bercer mon départ jusqu’à l’autre bord
+Dire aux faiseurs de mort que l’on survit
+\end{verse}
+
+\textnote{Le dernier couplet se chante en canon}
+
+\begin{verse}
+\begin{bis}
+Car la guerre c’est un massacre
+De gens qui ne se connaissent pas
+Au profit de gens qui toujours se connaissent
+Mais qui ne se massacrent pas
+\end{bis}
+\end{verse}
+
+{\small
+\vspace{10pt}
+$^1$ Danse folklorique pratiquée au Proche-Orient : Syrie, Palestine, Liban, Jordanie, Irak.\\
+$^2$ Une eau-de-vie de vin traditionnellement consommée et produite uniquement dans le Croissant fertile.
+}
+
+\endsong
+

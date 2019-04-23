@@ -1,7 +1,10 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{La Jeune Fille Du Métro}
-  [by={Renaud}]
+  [by={Renaud},date={1981}]
+  
+  \textnote{\textit{La jeune fille du métro est en réalité une chanson nommée Idylle souterraine (paroles : Louis Hennevé/ musique: Gaston Gabaroche). Créée par le chanteur Jean-Loup (alias Jean Rousselière) elle a été enregistrée en mars 1933, puis reprise ensuite par Renaud.
+  }}
   
   \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
 

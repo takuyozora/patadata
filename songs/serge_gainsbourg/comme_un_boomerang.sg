@@ -1,0 +1,98 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Comme un boomerang}
+[by={Serge Gainsbourg}, date={1975}]
+\MultiwordChords 
+
+%%% PAROLES DU CHANT %%%
+\begin{verse*}
+	\musicnote{Intro \nolyrics{\[Gm B\flt ~C D\shrp Gm D7 Gm]}}
+	\end{verse*}
+	
+	% Début d'un couplet
+	\begin{verse} 
+	\[Gm]Je sens des boums et des bangs 
+	\[B&]Agiter mon coeur blessé 
+	\[C]L'amour comme un boomerang 
+	\[D#]Me revient des jours passés 
+	\[Gm]A pleurer les larmes dingues 
+	\[D7]D'un corps que je t'avais donné \[Gm]
+	\end{verse}
+	
+	\begin{verse} 
+	J'ai sur le bout de la langue
+	Ton prénom presque effacé
+	Tordu comme un boomerang
+	Mon esprit l'a rejeté
+	De ma mémoire, car la bringue
+	Et ton amour m'ont épuisé
+	\end{verse}
+	
+	\begin{verse} 
+	Je sens des boums et des bangs
+	Agiter mon coeur blessé
+	L'amour comme un boomerang
+	Me revient des jours passés
+	A s'aimer comme des dingues
+	Comme deux fous à lier.
+	\end{verse}
+	
+	\begin{verse} 
+	Sache que ce coeur exsangue
+	Pourrait un jour s'arrêter
+	Si, comme un boomerang
+	Tu ne reviens pas me chercher
+	Peu à peu je me déglingue
+	Victime de ta cruauté
+	\end{verse}
+	
+	\begin{verse} 
+	Je sens des boums et des bangs
+	Agiter mon coeur blessé
+	L'amour comme un boomerang
+	Me revient des jours passés
+	A t'aimer comme une dingue
+	Prête pour toi à me damner
+	\end{verse}
+	
+	\begin{verse} 
+	Toi qui fait partie du gang
+	De mes séducteurs passés
+	Prends garde à ce boomerang
+	Il pourrait te faire payer
+	Toutes ces tortures de cinglés
+	Que tu m'as fait endurer.
+	\end{verse}
+	
+	\begin{verse} 
+	Je sens des boums et des bangs
+	Agiter mon coeur blessé
+	L'amour comme un boomerang
+	Me revient des jours passés
+	C'est une histoire de dingue
+	Une histoire bête à pleurer
+	\end{verse}
+	
+	\begin{verse} 
+	Ma raison vacille et tangue
+	Elle est prête à chavirer
+	Sous les coups de boomerangs
+	De flash-back enchaînés
+	Et si un jour je me flingue
+	C'est à toi que je le devrais
+	\end{verse}
+	
+	\begin{verse} 
+	Je sens des boums et des bangs
+	Agiter mon coeur blessé
+	L'amour comme un boomerang
+	Me revient des jours passés
+	A pleurer les larmes dingues
+	D'un corps que je t'avais donné
+	\end{verse}
+	
+	%%%%%%%%%%%
+	%%% FIN %%%
+	%%%%%%%%%%%
+	
+\endsong

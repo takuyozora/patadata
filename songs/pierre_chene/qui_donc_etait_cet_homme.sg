@@ -1,0 +1,66 @@
+
+%%% EN TÊTE DU CHANT %%%
+
+\beginsong%
+% Titre du chant
+{Qui donc était cet homme ?}%
+% Chanteur(s) ou chanteuse(s)
+[by={Pierre Chêne},
+% Date (c'est normal si ça ne s'affiche pas)
+date={1973}]
+\MultiwordChords 
+
+%%% PAROLES DU CHANT %%%
+
+% Commentaire sur la chanson
+\textnote{Cette chanson rend hommage à Victor Jara, musicien et activiste communiste chilien qui fut torturé et assassiné en public dans un stage lors du coup d'état de 1973}
+
+% Début d'un couplet
+\begin{verse} 
+\[C]À la vue des fu\[G7]sils, p\[Am]ointés sur les mais\[Em]ons
+\[F]À celle des ég\[C]outs, où creva\[D7]ient les chans\[G7]ons
+\[C]Il s'est mis à cr\[G7]ier, quand \[Am]passait le troup\[Em]eau
+\[F]Des ses frères pr\[C]omis à la m\[D7]ain du bourr\[G7]eau \[C]
+\end{verse}
+
+% Cette fois le refrain change alors !
+\begin{chorus}
+\[F]Qui donc était cet \[Em]homme,
+Égar\[F]é parmi n\[Em]ous ?
+\[F]Qu'on entendait chant\[C]er
+Lorsque gr\[D7]ondaient les l\[G7]oups?
+\end{chorus}
+
+\begin{verse}
+ Il a pris sa guitare quand ils l'ont vu passer
+Les soldats en furie sont venus l'arrêter
+Au milieu de la ville il y avait un stade
+Au milieu de ce stade on a mis une table.
+\end{verse}
+
+\begin{verse}
+Devant tous ses amis en prison sur le stade
+On a tenu les mains du chanteur sur la table
+Puis avec une hache sans la moindre pitié
+On a tranché les doigts de l'homme révolté.
+\end{verse}
+
+\begin{verse}
+Maintenant chante encore mugit un officier
+En levant ses mains rouges il s'est mis à crier
+Puis la foule a repris le chant du supplicié
+Alors pour qu'ils se taisent les soldats ont tiré.
+\end{verse}
+
+\begin{verse}
+Sur les routes sans fin il paraît qu'il chemine
+Pour chanter à jamais dans son pays en ruine
+Ce grand oiseau tout blanc aux deux pattes coupées
+Et qui chante en saignant s'appelle liberté.
+\end{verse}
+
+%%%%%%%%%%%
+%%% FIN %%%
+%%%%%%%%%%%
+
+\endsong

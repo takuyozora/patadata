@@ -1,0 +1,49 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Pétrouchka}
+  [by={Traditionnel~Russe, Igor~Stravinsky},date={1910}]
+  
+  %\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse}
+  Pétrouch\[Am]ka ne pleure \[Am]pas
+  Entre \[Dm]vite dans la \[Am]ronde
+  Fais dan\[Dm]ser tes nattes \[Am]blondes
+  Ton pe\[E7]tit chat revien\[Am]dra
+  Il s'est \[Dm]fait polichi\[Am]nelle
+  Dans les \[Dm]chemises en den\[Am]telle
+  De ton \[E7]grand pa\[Am]pa
+  \end{verse}
+  
+\begin{chorus}
+  \begin{bis}
+  Tant que \[F]chante la co\[G]lombe 
+  Par-des\[C]sus \[E7]le \[Am]toit
+  Danse a\[Dm]vant que la nuit \[E7]tombe 
+  Jolie \[Am]Pé-\[G]trou-\[C]chka
+  \end{bis}
+\end{chorus}
+  
+\begin{verse}
+  Pétrouchka ne pleure pas
+  Mets ton grand fichu de laine
+  Viens avec nous dans la plaine
+  Ton petit chat reviendra
+  Il fait quatre galipettes
+  Se déguise en marionnette
+  Dès que tu t'en vas
+\end{verse}
+  
+  
+  \begin{verse}
+  Pétrouchka ne pleure pas
+  Puisqu'il aime la musique
+  Chante lui cet air magique
+  Ton petit chat reviendra
+  Il nous dansera peut-être
+  Sur le bord de la fenêtre
+  Une mazurka
+  \end{verse}
+
+  
+\endsong

@@ -1,0 +1,77 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Le Pieu — {\Large(\textit{L'Estaca})}}
+  [by={Marc Robine, Lu\`is Llach},date={1968}]
+  
+  \textnote{\textit{
+  	Cette chanson a été composée par Lu\`is Llach durant la dictature du général Franco en Espagne, c'est un cri à l'unité d'action pour se libérer de l'oppression, pour atteindre la liberté. Il en existe de nombreuses traductions dans plusieurs langues, celle-ci est la traduction française de Marc Robine.
+  	}}
+  \textnote{\textit{
+  	Le grand-père Siset, personnage principal de la chanson, est inspiré d'un personnage réel, Narcís Llansa i Tubau, surnommé avi Llansa. Ne cachant pas ses opinions, il était connu pour être républicain, catalaniste et anticlérical. Le jeune Lluís Llach, fils du médecin et maire — franquiste — du village, le rencontra en jouant au jeu de la botifarra. \newline
+  	Le vieil homme et l’adolescent passent du temps ensemble, en particulier à pêcher. C'est lors de ces parties de pêche près du Ter que le grand-père Siset ouvre les yeux de Lluís Llach sur les fondements et la réalité du régime franquiste. \newline
+  	En 1968, Lluís Llach écrivit les paroles de la chanson, s'inspirant des conversations qu'il avait eues avec Siset1. Il dit par ailleurs de lui : « Siset me parlait toujours avec le regard droit et les yeux lumineux d'un homme bon ».
+  }}
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+\begin{verse}
+ \[Bm]Du temps où je n'étais qu'un gosse\[F#7~~Bm]
+ Mon grand-\[Bm]père me disait souvent,~~\[F#7]
+ \[Em]Assis à l'ombre de son p\[F#]orche~~\[Bm]
+\[G]En regardant passer le v\[F#]ent~~\[Bm]
+ \[Bm]Petit, vois-tu ce pieu de bois\[F#7~~Bm]
+ Auquel nous sommes tous enchaînés,~~\[F#7]
+ \[Em]Tant qu'il sera planté c\[F#]omme ça~~\[Bm]
+ \[Bm]Nous n'aurons pas la liberté\[F#7~~Bm]
+\end{verse}
+ 
+\begin{chorus}
+ \[Bm]Mais si nous tirons tou\[F#7]s, il tombera~~\[Bm]
+ Ca ne peut pas durer c\[F#7]omme ça~~\[Bm]
+ Il faut qu'il tombe, tom\[Em]be, tombe.~~\[Bm]
+ Vois-tu, comme il pen\[Em]che dé\[F#7]jà.~~\[Bm]
+ \[Bm]Si je tire for\[F#7]t, il doit bouger~~\[Bm]
+ Et si tu tires à mes c\[F#7]ôtés~~\[Bm]
+ C'est sûr qu'il tombe, tom\[Em]be, tombe~~\[Bm]
+ Et nous aurons la \[Em]liber\[F#7]té.~~\[Bm]
+\end{chorus}
+ 
+ 
+\begin{verse}
+ Petit, ça fait déjà longtemps
+ Que je m'y écorche les mains
+ Et je me dis de temps en temps
+ Que je me suis battu pour rien
+ Il est toujours si grand, si lourd,
+ La force vient à me manquer
+ Je me demande si un jour
+ Nous aurons la liberté.
+\end{verse}
+ 
+ 
+ \begin{verse}
+ Puis mon grand-père s'en est allé
+ Un vent mauvais l'a emporté
+ Et je reste seul sous le porche
+ A regarder jouer d'autres gosses
+ Dansant autour du vieux pieu noir
+ Où tant de mains se sont usées
+ Je chante des chansons d'espoir
+ Qui parlent de liberté.
+ \end{verse}
+ 
+ \begin{chorus}
+ Oh si nous tirons tous il tombera ... 
+ \end{chorus}
+ 
+ \textnote{On reprend le refrain en fredonnant puis avec les paroles}
+ 
+ \begin{chorus}
+ Laï, laï, laï ...
+ Si je tire fort, il doit bouger ... 
+ \end{chorus}
+ 
+
+
+  
+\endsong

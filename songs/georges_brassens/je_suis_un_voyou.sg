@@ -1,0 +1,79 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Je Suis Un Voyou}
+  [by={Georges Brassens},date={1954}]
+ 
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse*}
+  \[A]Ci-gît \[A7]au fond de mon \[D]cœur une hist\[E7]oire anc\[A]ienne,
+  Un fant\[A7]ôme, un souven\[D]ir d'une \[E7]que j'aim\[A]ais.
+  Le temps, \[A7]à grands coups de \[D]faux, peut fa\[E7]ire des \[A]siennes,
+  Mon bel \[A7]amour dure enc\[D]ore, \[E7]et c'est à jam\[A]ais...
+  \end{verse*}
+  
+  \begin{verse}
+  \[A]J'ai perdu la tram\[Bm]ontane, en trouv\[E7]ant Margo\[A]t,
+  Princes\[F#m]se vêtue de l\[Bm]aine, \[E7]déesse en sab\[A]ots
+  Si les f\[F#m]leurs, le long des r\[Bm]outes, se metta\[E7]ient à march\[A]er,
+  C'est à \[F#m]la Margot, sans do\[Bm]ute, qu'ell\[E7]es feraient son\[A]ger...
+  \end{verse}
+  
+  \begin{chorus} 
+  Je lui ai \[F#m]dit: «D\[Bm]e la Mad\[C#m]one, tu \[F#m]es le p\[Bm]ortr\[C#m]ait !»
+  Le Bon \[F#m]Dieu me \[Bm]le par\[C#m]donne, c'éta\[F#m]it un p\[B7]eu vr\[E]ai...
+ 
+  Qu'il me \[A]le par\[F#m]donne ou \[Bm]non, d'ailleurs, \[E7]je m'en \[A]fous,
+  J'ai déjà mon \[F#m]âme en \[Bm]peine: \[E7]je suis un v\[A]oyou.
+  \end{chorus}
+  
+  \begin{verse}
+  La mignonne allait aux vêpres, se mettre à genoux,
+  Alors j'ai mordu ses lèvres, pour savoir leur goût.
+
+  Elle m'a dit, d'un ton sévère: «Qu'est-ce que tu fais là ?»
+  Mais elle m'a laissé faire, les filles, c'est comme ça...
+  \end{verse}
+  
+  \begin{chorus}
+    Je lui ai dit: «Par la Madone, reste auprès de moi!»
+  Le Bon Dieu me le pardonne, mais chacun pour soi...
+  Qu'il me le pardonne ou non, d'ailleurs, je m'en fous,
+  J'ai déjà mon âme en peine: je suis un voyou.
+  \end{chorus}
+  
+  
+  \begin{verse}
+  C'était une fille sage, a «bouche, que veux-tu?»
+  J'ai croqué dans son corsage, les fruits défendus...
+
+  Elle m'a dit d'un ton sévère: «Qu'est-ce que tu fais là?»
+  Mais elle m'a laissé faire, les filles, c'est comme ça...
+ \end{verse}
+ 
+  
+   \begin{chorus}
+ Puis, j'ai déchiré sa robe, sans l'avoir voulu...
+ Le Bon Dieu me le pardonne, je n'y tenais plus!
+  Qu'il me le pardonne ou non, d'ailleurs, je m'en fous,
+  J'ai déjà mon âme en peine: je suis un voyou.
+  \end{chorus}
+  
+\begin{verse}
+  J'ai perdu la tramontane, en perdant Margot,
+  Qui épousa, contre son âme, un triste bigot...
+  Elle doit avoir à l'heure, à l'heure qu'il est,
+  Deux ou trois marmots qui pleurent, pour avoir leur lait...
+\end{verse}
+  
+  
+  \begin{chorus}
+    Et, moi, j'ai tété leur mère, longtemps avant eux...
+  Le Bon Dieu me le pardonne, j'étais amoureux!
+  Qu'il me le pardonne ou non, d'ailleurs, je m'en fous,
+  J'ai déjà mon âme en peine: je suis un voyou.
+  \end{chorus}
+  
+
+\endsong
