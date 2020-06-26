@@ -1,0 +1,17 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Terre rouge, terre de feu}
+  [by={},date={}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+	\begin{verse*}
+	Terre rouge, terre de feu~~~(x\textit{2})
+	Terre, terre, terre de lumière
+	Terre rouge sous un ciel bleu
+	\end{verse*}
+  
+  
+\endsong
+

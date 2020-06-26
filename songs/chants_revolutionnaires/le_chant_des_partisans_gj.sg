@@ -2,8 +2,6 @@
 [by={G.J.~de~Commercy}, date={2018}]
 \MultiwordChords 
 
-\textnote{Sur l'air du chant des partisants}
-
 \begin{verse}
 Ami entends-tu le vol noir de la finance sur nos payes ?
 Ami entends-tu la souffrance populaire sans pareille ?
@@ -17,7 +15,9 @@ Sortez des usines, des bureaux et des cuisines, gilets jaunes
 Sortez les palettes, braseros, les barricades, gilets jaunes
 Ohé travailleurs, les chômeuses, les étudiantes, venez vite
 Ohé les sans-dents, les fainéants, les illettrés, tout de suite
-\end{verse}  
+\end{verse} 
+
+\textnote{Motivé. Il faut rester, il faut se, soyons, motivé motivé}
 
 \begin{verse}
 C'est nous qui trimons jour et nuit pour une paie de misère

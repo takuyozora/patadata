@@ -1,0 +1,83 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Hegoak}
+[by={Joxean Artze, musique de Mikel Laboa},date={1965}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\textnote{\textit{
+Hegoak, originalement appelé Txoria Txori, est un poème basque de Josean Artze. En 1968, il avait était écrit par celui-ci sur des serviettes dans un restaurant de Saint-Sébastien, forme de résistance envers le régime franquiste qui interdisait de parler basque.\newline
+C’est dans ce lieu qu’est allé manger un jour le compositeur Mikel Laboa avec sa femme et qu’il y a découvert ces vers. En rentrant chez lui, la poésie adoptée, il créé l’air de cette chanson.
+L’oiseau y est le symbole de la liberté et le poème évoque le dilemme du souhait de posséder l'être aimé.Le contexte politique en a involontairement fait une chanson de protestation.
+}}
+
+\textnote{Il existe de nombreuses version de ce chant, notamment au niveau de sa structure}
+
+
+\begin{verse*}
+\lbis{Ou ou-ou-ou ou-ou-ou ou-ou-ou}
+\end{verse*}
+
+\begin{verse*}
+%\begin{verse*}
+\begin{bis}
+Hegoak ebaki banizkio 
+Neuria izango zen 
+\end{bis}
+Ez zuen alde egingo 
+%\end{verse*}
+
+%\begin{verse*}
+\begin{bis}
+Bainan horrela 
+Ez zen gehiaqo xoria izanqo
+\end{bis}
+%\end{verse*}
+
+%\begin{verse*}
+%\vspace{7pt}
+Eta nik, xoria nuen maite 
+Eta nik, \textit{eta nik}, xoria nuen maite
+%\end{verse*}
+
+%\begin{verse*}
+\lbis{Lala lalala la lala lala, lala lalala la lala}
+Oh, oh. Oh, oh.
+%\end{verse*}
+
+\end{verse*}
+
+\textnote{Une seconde fois, puis en français}
+
+\begin{verse*}
+\begin{bis}
+Si je lui avais coupé les ailes
+Il aurait été à moi
+\end{bis}
+Il ne serait pas parti
+
+\begin{bis}
+Oui mais voilà,
+Il n'aurait plus été un oiseau
+\end{bis}
+
+\begin{bis}
+Oui mais moi,
+C'était l'oiseau que j'aimais 
+\end{bis}
+\end{verse*}
+
+\begin{verse*}
+\lbis{Lala lalala la lala lala, lala lalala la lala}
+\end{verse*}
+
+\begin{verse*}
+\lbis{Ou ou-ou-ou ou-ou-ou ou-ou-ou}
+\end{verse*}
+
+
+
+
+
+
+\endsong

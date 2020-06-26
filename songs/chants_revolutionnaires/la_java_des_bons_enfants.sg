@@ -1,0 +1,78 @@
+\selectlanguage{french}
+%\songcolumns{2}
+\OldSongColumns{3}
+\beginsong{La Java Des Bons Enfants}
+[by={Guy Debord},date={1974}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\textnote{\textit{Il est ici fait référence à la journée du 8 novembre 1892, durant laquelle l'anarchiste Émile Henry, âgé de 19 ans, dépose une bombe dite "à renversement" au siège des mines de Carmaux à Paris. Après sa découverte, l'engin est emmené au commissariat de police de la rue des \newline Bons-Enfants où il explose faisant 5 morts.\newline
+Émile Henry est arrêté après l'attentat du Café Terminus le 12 février 1894, et guillotiné trois mois plus tard.}}
+
+\begin{verse}
+\[Cm]Dans la rue des bons enfants,
+On vend tout au plus of\[Fm]frant.
+Y'avait un commissariat,
+Et mainte\[G7]nant il n'est plus \[Cm]{là.~~~}\newline
+
+Une explosion fantastique
+N'en a pas laissé une brique.
+On crut qu'c'était Fantômas,
+Mais c'était la lutte des classes. 
+\end{verse}
+
+\begin{bridge}
+Un p\[C7]oulet zélé vint v\[Fm]ite
+Y \[Bb7]porter une marmi\[Eb]te
+Qu'ét\[Ab]ait à renverseme\[Db7]nt
+E\[G7]t la retourne, imprudemm\[C]ent. 
+\end{bridge}
+
+\begin{verse}
+L'brigadier et l'commissaire,
+Mêlés aux poulets vulgaires,
+Partent en fragments épars
+Qu'on ramasse sur un buvard.\newline
+
+Contrair'ment à c'qu'on croyait,
+Y'en avait qui en avaient.
+L'étonnement est profond.
+On peut les voir jusqu'au plafond. 
+\end{verse}
+
+\begin{bridge}
+Voilà bien ce qu'il fallait
+Pour faire la guerre au palais
+Sache que ta meilleure amie,
+Prolétaire, c'est la chimie. 
+\end{bridge}
+
+\begin{verse}
+Les socialos n'ont rien fait,
+Pour abréger les forfaits
+D'l'iinfamie capitaliste
+Mais heureusement vint l'anarchiste.\newline
+
+Il n'a pas de préjugés.
+Les curés seront mangés.
+Plus d'patrie, plus d'colonies
+Et tout pouvoir, il le nie. 
+\end{verse}
+
+\begin{bridge}
+Encore quelques beaux efforts
+Et disons qu'on se fait fort
+De régler radicalement
+L'problème social en suspens. 
+\end{bridge}
+
+\begin{verse}
+Dans la rue des bons enfants
+Viande à vendre au plus offrant.
+L'avenir radieux prend place,
+Et le vieux monde est à la casse ! 
+\end{verse}
+
+
+
+\endsong

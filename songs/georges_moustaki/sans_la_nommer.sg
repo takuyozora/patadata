@@ -1,0 +1,57 @@
+\selectlanguage{french}
+\OldSongColumns{3}
+\beginsong{Sans La Nommer}
+[by={Georges Moustaki},date={1969}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+% \textnote{\textbit{Originalement écrite par l'anarchiste Sebastien Faure, cette version inclue les modifications ajoutées par le groupe René Binamé}}
+
+\begin{verse}
+Je voudrais, sans la nommer,
+Vous parler d’elle
+Comme d’une bien-aimée,
+D’une infidèle,
+Une fille bien vivante
+Qui se réveille
+A des lendemains qui chantent
+Sous le soleil.
+\end{verse}
+
+\begin{chorus}
+	C’est elle que l’on matraque,
+Que l’on poursuit que l’on traque.
+C’est elle qui se soulève,
+Qui souffre et se met en grève.
+C’est elle qu’on emprisonne,
+Qu’on trahit qu’on abandonne,
+Qui nous donne envie de vivre,
+Qui donne envie de la suivre
+Jusqu’au bout, jusqu’au bout.
+\end{chorus}
+
+\begin{verse}
+	Je voudrais, sans la nommer,
+Lui rendre hommage,
+Jolie fleur du mois de mai
+Ou fruit sauvage,
+Une plante bien plantée
+Sur ses deux jambes
+Et qui trame en liberté
+Ou bon lui semble.
+\end{verse}
+
+
+
+\begin{verse}
+Je voudrais, sans la nommer,
+Vous parler d’elle.
+Bien-aimée ou mal aimée,
+Elle est fidèle
+Et si vous voulez
+Que je vous la présente,
+On l’appelle
+Révolution Permanente!
+\end{verse}
+
+\endsong

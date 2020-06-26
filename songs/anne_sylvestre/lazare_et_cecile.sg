@@ -1,0 +1,107 @@
+\selectlanguage{french}
+\OldSongColumns{3}
+\beginsong{Lazare et Cécile}
+[by={Anne Sylvestre},date={1965}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+%\ccpenalty=-99999
+%\cvpenalty=10000
+%\vcpenalty=10000
+%\vvpenalty=10000
+%\brkpenalty=-9990000
+%\interlinepenalty=100
+
+\begin{verse}
+On \[Am]dit que Lazare \[Am6]et Cécile
+Se so\[G]nt enfuis ce\[B7]tte nuit
+Et qu\[Em]e la lune \[Am]docile
+Jusqu'\[D7]au matin n'a \[G]pas luit
+On dit \[G]qu'un foula\[G]rd de brume
+Fit pou\[Am]r elle un voil\[Em]e blanc
+Fit à \[Am6]Lazare un c\[Em]ostume
+Tis\[B7]sé de nacre et \[Em]d'argent
+\end{verse}
+
+\begin{verse*}
+On le savait \[Am]au village
+Que \[Em]Cécile allait \[Am]souvent
+Rêv\[D7]asser dans l\[G]es herbages
+Et \[C]danser avec \[B7]le vent
+On r\[Em]iait de ce L\[Am6]azare
+Sans \[Em]amie, sans \[Am6]fiancée
+Qui \[E7]rôdait près de \[G]la mare
+Et n'al\[G]lait ja\[Am]mais dan\[B7]ser.
+\end{verse*}
+
+\begin{verse}
+On dit que Lazare et Cécile
+Ont un soir changé d'avis
+C'était pourtant pas facile
+De se cacher près d'ici
+Ils ont joint leur solitude
+Ils ont partagé le vent
+Prenant la douce habitude
+De s'aimer secrètement
+\end{verse}
+
+\begin{verse*}
+Au bout de quelques semaines
+Il parut aux indiscrets
+Que dans sa jupe de laine
+Cécile s'alourdissait
+Lors il fallut les entendre
+Tous crier au déshonneur
+Mais Cécile qui est tendre
+A préféré le bonheur
+\end{verse*}
+
+\begin{verse}
+On dit que Lazare et Cécile
+Se sont enfuis cette nuit
+Il y a bien des imbéciles
+Pour en sourire aujourd'hui
+Pourtant jusqu'au bout des saules
+Ils se sont tenus la main
+Puis épaule contre épaule
+Ils ont suivi leur chemin
+\end{verse}
+
+\begin{verse*}
+On aurait voulu peut-être
+Voir Cécile dans l'étang
+Et sur la branche d'un hêtre
+Trouver Lazare pendant
+Sans gêne on aurait pu suivre
+Leur cortège en soupirant
+Mais ceux que l'amour délivre
+Préfèrent s'aimer vivants
+\end{verse*}
+
+\begin{verse}
+On dit que Lazare et Cécile
+Se sont mariés cette nuit
+Dans la lumière fragile
+Des heures d'après minuit
+On dit qu'au creux de la mare
+La lune en deux se brisa
+Formant deux anneaux bizarres
+Qu'ils se glissèrent au doigt
+\end{verse}
+
+\begin{verse*}
+Quand ils ont couru ensemble
+Le vent leur fit un manteau
+Moi qui ne dormais pas j'en tremble
+De les avoir vus si beaux
+Toi, Cé\[Em]cile, toi, La\[Am6]zare
+Appr\[Em]enez à votre \[Am6]enfant
+Que \[D]jamais on \[G]ne sépare
+Ceux q\[C]ui s'aiment \[B7]simplement\newline
+
+Que \[Em]jamais on \[G]ne sépare
+Ceux q\[B7]ui s'aiment \[Em]simpl\[A]eme\[Em]nt.
+\end{verse*}
+
+\endsong

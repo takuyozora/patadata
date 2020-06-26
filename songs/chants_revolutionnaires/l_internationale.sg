@@ -1,0 +1,92 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{L'Internationale}
+  [by={Eugène Pottier, musique de Pierre Degeyter},date={1871}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{
+\textit{  Les paroles de L'Internationale furent écrites lors de la répression de la Commune de Paris, sous forme d'un poème à la gloire de la première Internationale ouvrière crée quelques années plus tôt en 1864.  Il ne fut publié qu’en 1887 et chanté pour la première fois le 23 juillet 1888 à Lille par la Lyre des Travailleurs. À partir de 1904, L’Internationale, après avoir été utilisée pour le congrès d’Amsterdam de la II$^e$ Internationale, devient l’hymne des révolutionnaires. Il est alors complètement illégal durant des années dans de nombreux pays d’Europe.}}
+  \textnote{
+\textit{  Ce sera également l’hymne national de l’URSS jusqu’en 1944, mais dans une version expurgée de son très antimilitariste cinquième couplet. Il fut même l’hymne de ralliement de la révolte des étudiants et des travailleurs chinois sur la place Tian’anmen en 1989.\newline Aujourd'hui, L'Internationale a été traduite dans de très nombreuses langues et reste le chant le plus connu du mouvement ouvrier international.}
+  }
+
+\begin{verse}
+\[A]Debout ! \[A/C#]les damnés d\[D]e la \[D/C#]terre !\[~~Bm7~~Bm7/A]
+Deb\[E7]out ! les forçats de la f\[A]aim \[E7]!
+La r\[A]aison ton\[A/C#]ne en son c\[D]ratè\[D/C#~~~Bm7~~Bm7/A]re~:
+C’est l’ér\[E7]uption de la \[A]fin.
+Du pas\[E]sé \[B7]faisons table \[E]rase,
+Foule escl\[B7]ave, debout ! de\[E]bout !\[B7]
+Le m\[E]onde \[E7]va changer de b\[A]ase :
+Nous ne somm\[E]es rien, s\[B7]oyons t\[E]out !\[E7]
+\end{verse}
+
+\begin{chorus}
+C’est la \[A]lutte fin\[A/C#~~~D~~D/C#~~Bm7]ale
+\[Bm7/A]Groupons \[E7]nous et d\[A]emain\[E7]
+L’In{\[A]ter}~-~{\[E7]natio}~-~{\[F#m7]na}\[C#7/F]le
+Se\[D]ra le \[B7]genre h\[E]umain\[E7]\newline
+C’est la \[A]lutte fin\[A/C#~~~D~~D/C#~~Bm7]ale
+\[Bm7/A]Groupons \[E7]nous et d\[A]emain\[A7]
+L’In{\[F#7]ter}natio~-~{\[Bm7]na}le
+Se\[E]ra le \[E7/4]genre hum\[A]ain
+\end{chorus}
+
+\begin{verse}
+Il n’est pas de sauveurs suprêmes :
+Ni dieu, ni césar, ni tribun,
+Producteurs, sauvons-nous nous-mêmes !
+Décrétons le salut commun !
+Pour que le voleur rende gorge,
+Pour tirer l’esprit du cachot
+Soufflons nous-mêmes notre forge,
+Battons le fer quand il est chaud !
+\end{verse}
+
+\begin{verse}
+L’Etat opprime et la loi triche ;
+L’Impôt saigne le malheureux ;
+Nul devoir ne s’impose au riche ;
+Le droit du pauvre est un mot creux.
+C’est assez languir en tutelle,
+L’égalité veut d’autres lois ;
+« Pas de droits sans devoirs, dit-elle,
+« Egaux, pas de devoirs sans droits ! »
+\end{verse}
+
+\begin{verse}
+Hideux dans leur apothéose,
+Les rois de la mine et du rail
+Ont-ils jamais fait autre chose
+Que dévaliser le travail ?
+Dans les coffres-forts de la bande
+Ce qu’il a créé s’est fondu.
+En décrétant qu’on le lui rende
+Le peuple ne veut que son dû.
+\end{verse}
+
+\begin{verse}
+Les Rois nous saoulaient de fumées.
+Paix entre nous, guerre aux tyrans !
+Appliquons la grève aux armées,
+Crosse en l’air et rompons les rangs !
+S’ils s’obstinent, ces cannibales,
+A faire de nous des héros,
+Ils sauront bientôt que nos balles
+Sont pour nos propres généraux.
+\end{verse}
+
+\begin{verse}
+Ouvriers, paysans, nous sommes
+Le grand parti des travailleurs ;
+La terre n’appartient qu’aux hommes,
+L’oisif ira loger ailleurs.
+Combien de nos chairs se repaissent !
+Mais, si les corbeaux, les vautours,
+Un de ces matins, disparaissent,
+Le soleil brillera toujours !
+\end{verse}
+  
+\endsong
+

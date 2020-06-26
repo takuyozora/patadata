@@ -1,7 +1,8 @@
 \selectlanguage{french}
-\songcolumns{2}
+%\songcolumns{2}
+\OldSongColumns{3}
 \beginsong{Pétrouchka}
-  [by={Traditionnel~Russe, Igor~Stravinsky},date={1910}]
+  [by={Trad.~Russe, Igor~Stravinsky},date={1910}]
   
   %\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
   
@@ -14,14 +15,15 @@
   Dans les \[Dm]chemises en den\[Am]telle
   De ton \[E7]grand pa\[Am]pa
   \end{verse}
-  
+
+\textnote{Refrain x2}  
 \begin{chorus}
-  \begin{bis}
-  Tant que \[F]chante la co\[G]lombe 
+%  \begin{bis}
+\textbf{Tant que \[F]chante la co\[G]lombe 
   Par-des\[C]sus \[E7]le \[Am]toit
   Danse a\[Dm]vant que la nuit \[E7]tombe 
-  Jolie \[Am]Pé-\[G]trou-\[C]chka
-  \end{bis}
+  Jolie \[Am]Pé-\[G]trou-\[C]chka}
+%  \end{bis}
 \end{chorus}
   
 \begin{verse}

@@ -4,7 +4,7 @@
   [by={Louise\ Attaque},cover={louise-attaque},album={Louise Attaque},date={1997}]
 
   \cover
-  \capo{4}
+  %\capo{4}
   \gtab{Em}{022000}
   \gtab{G}{320003}
   \gtab{Am}{X02210}
@@ -40,7 +40,10 @@
     Allez, viens, j't'emmène au-dessus des gens
     Et je voudrais que tu te rappelles
     Notre amourette éternelle
-    Artificielle
+    Artificielle\\~\\
+    
+    \textnote{Instru puis reprise du 2nd couplet 4 fois.}
   \end{verse}
+  
 
 \endsong

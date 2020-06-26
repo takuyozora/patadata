@@ -85,9 +85,11 @@ description:
 
 (* block preambule *)
 (*- set template_var = _template["atmo.tex"] -*)
+%\spenalty=80
 \songpos{0}
 %% CUSTOM
 \renewcommand{\songmark}{\markboth{\thesongnum}{\thesongnum}}
+\usepackage{multicol}
 %\usepackage{tikz}
 %\usetikzlibrary{decorations.pathreplacing}
 %\usepackage{tabularx}
@@ -129,9 +131,9 @@ description:
 \renewcommand{\line}[1]{\lyricsize\fontsize{\f@size pt}{\f@size pt}\selectfont{\bf{#1}}}%		% Style of bis line
 %\renewcommand{\line}[1]{\small{\bf{#1}}}%		% Style of bis line
 %% BIS ENVIRONMENT
-\newenvironment{bis}{\def\tabcolsep{0pt}%				% To correctly align from the left
+\newenvironment{bis}[1][bis]{\def\tabcolsep{0pt}%				% To correctly align from the left
 	\setlength\arrayrulewidth{0.5pt}%					% Width of the bis vbar
-	\setbox0=\hbox{\footnotesize({\it\bfseries bis})}	% bis as it will be displayed
+	\setbox0=\hbox{\footnotesize({\it\bfseries #1})}	% bis as it will be displayed
 	\setbislyrics										% compute bis lyrics len
 	\setbispadtop										% compute top padding
 	\vspace{\setbispadtoplen}							% apply top padding
@@ -176,6 +178,20 @@ description:
 %%
 % END
 %%
+
+%%% Pour avoir des note de texte en mode inline
+%
+\makeatletter
+\newcommand{\inlinetextnote}[1]{\begingroup%
+\everypar{}%
+\ifchorded\chordedfalse\SB@setbaselineskip\chordedtrue\fi%
+%\placenote{%
+\SB@colorbox\notebgcolor{\SB@boxup{#1}}%
+%}%
+\endgroup}
+\makeatother
+%
+%%%
 
 
 \newcommand{\linerep}[2]{\small\textbf{#1}\hfill{\footnotesize(x#2)}}
@@ -286,6 +302,17 @@ description:
 }
 %! End of columns management
 
+%% HOT FIX to make image comme back
+% Probleme with griffle and luatex
+% - https://tex.stackexchange.com/questions/514927/texlive-2019-mactex-lualatex-cant-find-any-image-with-includegraphics
+% - https://github.com/ho-tex/grffile/issues/1
+% - (fix) : https://github.com/ho-tex/grffile/issues/1#issuecomment-543101052
+\makeatletter
+\let\quote@name\unquote@name
+\makeatother
+%
+%
+
 (* endblock *)
 
 (* block preface *)
@@ -300,5 +327,6 @@ description:
 \setcounter{inchordblock}{1}
 %\let\inchordblock
 (( super() ))
+\let\songcolumns=\OldSongColumns
 (* endblock *)
 % end document

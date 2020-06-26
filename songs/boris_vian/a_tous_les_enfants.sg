@@ -1,0 +1,53 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{À tous les enfants}
+[by={Poème de Boris Vian, chanson Claude Vence},date={1954}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\begin{verse*}
+À tous les enfants qui sont partis le sac au dos
+Par un brumeux matin d’avril
+Je voudrais faire un monument
+\end{verse*}
+
+\begin{verse*}
+À tous les enfants qui ont pleuré le sac au dos
+Les yeux baissés sur leurs chagrins
+Je voudrais faire un monument
+\end{verse*}
+
+\begin{verse*}
+Pas de pierre, pas de béton
+Ni de bronze qui devient vert
+Sous la morsure aiguë du temps
+Un monument de leur souffrance
+Un monument de leur terreur
+Aussi de leur étonnement
+\end{verse*}
+
+\begin{verse*}
+Voilà le monde parfumé,
+Plein de rires, plein d’oiseaux bleus
+Soudain griffé d’un coup de feu
+Un monde neuf où sur un corps qui va tomber
+Grandit une tâche de sang
+\end{verse*}
+
+\begin{verse*}
+Mais à tous ceux qui sont restés
+Les pieds au chaud sous leur bureau
+{ \spaceskip  0.7 \fontdimen2 \font En calculant le rendement de la guerre qu’ils ont voulue}
+{ \spaceskip  0.65 \fontdimen2 \font À tous les gras tous les cocus qui ventripotent dans la vie}
+Et comptent et comptent leurs écus
+\end{verse*}
+
+\begin{verse*}
+À tous ceux-là je dresserai
+Le monument qui leur convient
+{ \spaceskip  1 \fontdimen2 \font Avec la schlague avec le fouet avec mes pieds \brk avec mes poings}
+Avec des mots qui colleront sur leurs faux-plis,
+Sur leurs bajoues, des marques de honte, et de boue
+\end{verse*}
+
+\endsong

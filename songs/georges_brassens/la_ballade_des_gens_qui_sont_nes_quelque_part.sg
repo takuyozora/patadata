@@ -1,0 +1,72 @@
+\selectlanguage{french}
+%\OldSongColumns{3}
+\songcolumns{2}
+\beginsong{La Ballade Des Gens Qui Sont Nés Quelque Part}
+[by={Georges Brassens},date={1972}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+%\textnote{\textit{ }}
+
+%\brkpenalty=9990000
+\spenalty=-999999999
+
+\begin{verse}
+{ \spaceskip  0.60 \fontdimen2 \font \[D]C'est vrai qu'ils sont plaisants, tous \[A]ces petits \[D]vill\[F#7~B&]ages}
+Tous ces bourgs, ces hameaux, ces lieux-d\[G]its, ces cit\[A]és,
+\[D]Avec leurs châteaux forts, leurs ég\[A]lises, l\[D]eurs \[F#7]plage\[B&]s,
+Ils n'ont qu'un seul point faible et c'es\[F#]t d'être habit\[B&]és,
+\[G]Et c'est d'être habités par d\[A]es ge\[D]ns qui \[B&]regardent
+Le reste avec mépris du haut de leurs r\[E]emparts.\[C7]~~
+\[F]La race des chauvins, \[B&]des port\[A7]eurs de \[B&]cocardes,
+Les imbéc\[F]iles heur\[C]eux qui so\[A7]nt nés quelque part
+\[B&]Les imbéciles heur\[F]eux qui sont \[C]nés quelqu\[F]e pa\[A7]rt
+\end{verse}
+
+\begin{verse}
+Maudits soient ces enfants de leur mère patrie
+Empalés une fois pour tout's sur leur clocher ,
+{ \spaceskip  0.75 \fontdimen2 \font Qui vous montrent leurs tours, leurs musé's leur mairie}
+Vous font voir du pays natal jusqu'à loucher.
+Qu'ils sortent de Paris, ou de Rome, ou de Sète,
+Ou du diable vauvert ou bien de Zanzibar.
+Ou même de Montcuq, il s'en flattent, mazette,
+{ \spaceskip  0.41 \fontdimen2 \font \lbis{Les imbéciles heureux qui sont nés quelque part}}
+\end{verse}
+
+\begin{verse}
+Le sable dans lequel, douillettes, leurs autruches
+Enfouissent la tête, on trouve pas plus fin ,
+Quand à l'air qu'ils emploient pour gonfler leurs baudruches
+Leurs bulles de savon, c'est du souffle divin .
+Et, petit à petit, les voilà qui se montent
+Le cou jusqu'à penser que le crottin fait par.
+{ \spaceskip  0.71 \fontdimen2 \font Leurs chevaux, même en bois, rend jaloux tout le monde}
+{ \spaceskip  0.41 \fontdimen2 \font \lbis{Les imbéciles heureux qui sont nés quelque part}}
+\end{verse}
+
+\begin{verse}
+C'est pas un lieu commun celui de leur naissance,
+Ils plaignent de tout cœur les pauvres malchanceux,
+Les petits maladroits qui n'eurent pas la présence,
+La présence d'esprit de voir le jour chez eux.
+Quand sonne le tocsin sur leur bonheur précaire,
+Contre les étrangers tous plus ou moins barbares.
+Ils sortent de leur trou pour mourir à la guerre,
+{ \spaceskip  0.41 \fontdimen2 \font \lbis{Les imbéciles heureux qui sont nés quelque part}}
+\end{verse}
+
+\begin{verse}
+Mon dieu, qu'il ferait bon sur la terre des hommes
+Si on n'y rencontrait cette race incongrue',
+Cette race importune et qui partout foisonne :
+La race des gens du terroir, des gens du cru.
+Que la vi' serait belle en toutes circonstances
+Si vous n'aviez tiré du néant ces jobards,
+Preuve, peut-être bien, de votre inexistence :
+{ \spaceskip  0.41 \fontdimen2 \font \lbis{Les imbéciles heureux qui sont nés quelque part}}
+\end{verse}
+
+
+\endsong

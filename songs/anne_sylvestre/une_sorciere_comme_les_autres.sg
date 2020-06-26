@@ -1,0 +1,219 @@
+\selectlanguage{french}
+\OldSongColumns{3}
+\beginsong{Une Sorcière Comme Les Autres}
+[by={Anne Sylvestre},date={1975}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+%\textnote{\textit{Alors que la décennie 70 voyait la montée en puissance des mouvements féministes, l'ONU déclara l'année 1975 comme étant «l'année de la femme». Anne Sylvestre en profita pour publier cette même année Une sorcière comme les autres, qui fut dès sa sortie unanimement saluée et décrite par le monde de la chanson française comme un chef-d'œuvre. }}
+
+\textnote{\textit{Alors que la décennie 70 voyait la montée en puissance des mouvements féministes, 1975 fut déclarée par l'ONU comme étant «l'année de la femme». Anne Sylvestre en profita pour publier cette même année — Une sorcière comme les autres — qui fut dès sa sortie unanimement saluée et décrite par le monde de la chanson française comme un chef-d'œuvre. }}
+
+%\ccpenalty=-99999
+%\cvpenalty=10000
+%\vcpenalty=10000
+%\vvpenalty=10000
+\brkpenalty=-9990000
+%\interlinepenalty=100
+
+\begin{verse}
+\[Am]S'il vous \[F]plaît
+Soy\[Am]ez comme le duvet
+Soyez \[F6]comme la \[C]plume d'oie
+Des \[Dm6]oreillers d'au\[E7]trefois
+J'ai\[Am]merais
+Ne \[F]pas êt\[Am]re portefaix
+S'il vous pl\[F6]aît
+Faîtes-\[C]vous léger
+Moi \[Dm6]je ne pe\[E7]ux plus \[Am]bouger
+\end{verse}
+
+\begin{verse*}
+Je vo\[Dm6]us ai p\[E7]orté \[Am]vivant
+Je vo\[Dm6]us ai p\[E7]orté \[Am]enfant
+Die\[F6]u comme vo\[C]us étiez lourd
+Pes\[Dm]ant votre poi\[E]ds d'amour
+Je vo\[E7]us ai por\[Am]té encore
+À l'\[F6]heure \[G7]de vot\[C]re mort
+Je vo\[F]us ai \[G7]porté \[C]des fleurs
+Vous \[F]ai m\[Dm6]orcelé \[E]mon cœur
+\end{verse*}
+
+\begin{verse*}
+Quand \[E7]vous joui\[Am]ez à la guerre
+Moi je gardais \[Dm]la maison
+J'ai \[Dm7]usé de mes \[G]prières
+Les b\[G7]arreaux de \[C]vos prisons
+Quand v\[Cmaj7]ous mourriez \[F]sous les bombes
+Je vo\[Fmaj7]us cherchais \[Ddim]en hurlant
+Me voilà co\[E]mme une tombe
+Et to\[E7]ut le malh\[Am]eur dedans
+\end{verse*}
+
+\begin{chorus}
+Ce n'est \[Am]que moi
+C'es\[C]t elle ou moi
+\[C6]Celle qu\[Dm7]i parle
+Ou qu\[G7]i se tait
+Celle \[C]qui pl\[Cmaj7]eure
+Ou qui \[F]est gaie
+C'est Jea\[Dm]nne d'A\[Dm7]rc
+Ou b\[Dm6]ien Margot
+Fille d\[Am]e vague
+\[E7]Ou d\[Am]e ruisseau\newline
+%\end{chorus}
+
+%\begin{chorus}
+Et c'est \[Am]mon cœur
+Ou \[C]bien le leur
+\[C6]Et c'est la \[Dm7]sœur
+Ou l'i\[G7]nconnue
+Celle qu\[C]i n'e\[Cmaj7]st
+Jama\[F]is venue
+Celle \[Dm]qui est
+\[Dm7]Venue tr\[Dm6]op tard
+Fille d\[Am]e rêve
+\[E7]Ou de \[Am]hasard\newline
+%\end{chorus}
+
+%\begin{chorus}
+Et c'est \[Am]ma mère
+\[Fmaj7]Ou la v\[G]ôtre
+\[Am]Une so\[F]rci\[G]ère
+Com\[Am]me les autres
+\end{chorus}
+
+\begin{verse}
+Il vous faut
+Être comme le ruisseau
+Comme l'eau claire de l'étang
+Qui reflète et qui attend
+S'il vous plaît
+Regardez-moi je suis vraie
+Je vous prie
+Ne m'inventez pas
+Vous l'avez tant fait déjà
+\end{verse}
+
+\begin{verse*}
+Vous m'avez aimée servante
+M'avez voulue ignorante
+Forte vous me combattiez
+Faible vous me méprisiez
+Vous m'avez aimée putain
+Et couverte de satin
+Vous m'avez faite statue
+Et toujours je me suis tue
+\end{verse*}
+
+\begin{verse*}
+Quand j'étais vieille et trop laide
+Vous me jetiez au rebut
+Vous me refusiez votre aide
+Quand je ne vous servais plus
+Quand j'étais belle et soumise
+Vous m'adoriez à genoux
+Me voilà comme une église
+Toute la honte dessous
+\end{verse*}
+
+\begin{chorus}
+Ce n'est que moi
+C'est elle ou moi
+Celle qui aime
+Ou n'aime pas
+Celle qui règne
+Ou se débat
+C'est Joséphine
+Ou la Dupont
+Fille de nacre
+Ou de coton\newline
+
+Et c'est mon cœur
+Ou bien le leur
+Celle qui attend
+Sur le port
+Celle des monuments
+Aux morts
+Celle qui danse
+Et qui en meurt
+Fille bitume
+Ou fille fleur\newline
+
+Et c'est ma mère
+Ou la vôtre
+Une sorcière
+Comme les autres
+\end{chorus}
+
+\begin{verse}
+S'il vous plaît
+Soyez comme je vous ai
+Vous ai rêvé depuis longtemps
+Libre et fort comme le vent
+Libre aussi
+Regardez je suis ainsi
+Apprenez-moi n'ayez pas peur
+Pour moi je vous sais par cœur
+\end{verse}
+
+\begin{verse*}
+J'étais celle qui attend
+Mais je peux marcher devant
+J'étais la bûche et le feu
+L'incendie aussi je peux
+J'étais la déesse mère
+Mais je n'étais que poussière
+J'étais le sol sous vos pas
+Et je ne le savais pas
+\end{verse*}
+
+\begin{verse*}
+Mais un jour la terre s'ouvre
+Et le volcan n'en peut plus
+Le sol se rompant découvre
+Des richesses inconnues
+La mer à son tour divague
+De violence inemployée
+Me voilà comme une vague
+Vous ne serez pas noyé
+\end{verse*}
+
+\begin{chorus}
+Ce n'est que moi
+C'est elle ou moi
+Et c'est l'ancêtre
+Ou c'est l'enfant
+Celle qui cède
+Ou se défend
+C'est Gabrielle
+Ou bien Eva
+Fille d'amour
+Ou de combat\newline
+
+Et c'est mon cœur
+Ou bien le leur
+Celle qui est
+Dans son printemps
+Celle que personne
+N'attend
+Et c'est la moche
+Ou c'est la belle
+Fille de brume
+Ou de plein ciel\newline
+
+Et c'est ma mère
+Ou la vôtre
+Une sorcière
+Comme les autres
+\end{chorus}
+
+\begin{verse*}
+\[Am]S'il vous pla\[F]ît
+S'il vous pla\[F6]ît, faites-v\[C]ous léger
+Moi \[Dm]je ne pe\[E7]ux plus \[Am]bouger.
+\end{verse*}
+
+
+\endsong

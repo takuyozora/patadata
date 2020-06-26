@@ -1,6 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
-\beginsong{L'orage}
+%\OldSongColumns{3}
+\beginsong{L'Orage}
   [by={Georges Brassens},cover={le-pornographe},album={Le pornographe},date={1960}]
 
   \cover
@@ -14,8 +15,8 @@
   \begin{verse}
     Parlez-moi \[Em]{de la pluie} et non pas du beau temps
     Le beau temps \[A7]{me dégoûte} et m'fait grincer les dents
-    \textnote[french]{pont sur la corde de La --0--2--4 et on renchaîne}
-    \textnote[french]{direct sur la corde de D pour reprendre en accord}
+%    \textnote[french]{pont sur la corde de La --0--2--4 et on renchaîne}
+%    \textnote[french]{direct sur la corde de D pour reprendre en accord}
     Le \[D]{bel azur} me met en rage
     Car \[F#7]{le plus} grand amour qui m'fut donné sur terre
     Je l'dois \[Bm]{au mauvais temps}, je \[C#7]{l'dois} à Jupi\[F#7]{ter}\[Bm]

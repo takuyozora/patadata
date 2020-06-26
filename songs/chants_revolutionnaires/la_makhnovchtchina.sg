@@ -1,7 +1,7 @@
 \selectlanguage{french}
 \songcolumns{2}
 \beginsong{La Makhnovchtchina}
-  [by={Traditionnel~Russe, Étienne Roda-Gil},date={1918—1968}]
+  [by={Trad.~Russe, Étienne Roda-Gil},date={1918—1968}]
   
   \textnote{\textit{
   	La Makhnovchtchina est une chanson écrite en l’honneur du mouvement anarchiste du même nom mené par Neskor Makno en Ukraine entre 1918 et 1921. Elle combattit avec succès contre les forces de la république populaire ukrainienne de Petlioura ainsi que les armées blanches de Dénikine et Wrangel.\newline
@@ -36,7 +36,15 @@
   A l’automne la Makhnovchtchina
   Les avait jetés au vent 
 \end{verse*}
-  
+ 
+\begin{verse*}
+Makhnovchtchina, Makhnovchtchina,
+Armée noire de nos partisans,
+Qui combattaient en Ukraine,
+Contre les Rouges et les Blancs,
+Qui combattaient en Ukraine,
+Contre les Rouges et les Blancs.
+\end{verse*} 
   
  \begin{verse}
   L’armée blanche de Dénikine,
@@ -55,15 +63,5 @@
   Qui voulait chasser d’Ukraine,
   A jamais tous les tyrans!
 \end{verse*}
-  
-  
-\begin{verse}
-  Makhnovchtchina, Makhnovchtchina,
-  Armée noire de nos partisans,
-  Qui combattaient en Ukraine,
-  Contre les Rouges et les Blancs,
-  Qui combattaient en Ukraine,
-  Contre les Rouges et les Blancs.
-\end{verse}
   
 \endsong

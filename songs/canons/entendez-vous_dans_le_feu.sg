@@ -1,0 +1,18 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Entendez-vous dans le feu ?}
+  [by={},date={}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+	\begin{verse*}
+	Entendez-vous dans le feu,
+	Tous ces bruits mystérieux ?
+	Ce sont les tisons qui chantent.
+	Eclaireur, sois joyeux !
+	\end{verse*}
+  
+  
+\endsong
+

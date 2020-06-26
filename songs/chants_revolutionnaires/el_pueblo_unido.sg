@@ -1,0 +1,65 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{El Pueblo Unido Jamás Será Vencido}
+  [by={Sergio Ortega},date={1970}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{
+\textit{ Cette chanson, initialement composée en 1970 a été rendu célèbre suite au coup d'état du général Augusto Pinochet le 11 septembre 1973. Au fil du temps cette chanson est devenue un symbole d'unité et de solidarité populaire pour des citoyens opprimés de tous pays luttant pour la liberté et l'égalité, dépassant son rapport direct avec le Chili.
+ Dans certaines versions, la phrase \textit{El pueblo unido jamás será vencido} dans le dernier couplet est remplacée par \textit{El pueblo armado jamás será aplastado} «Le peuple armé ne sera jamais écrasé».}
+  }
+  
+  
+\begin{verse}
+ De \[Am]pie can\[C]tar, que \[Dm]vamos a \[E7]triunfar
+ Av\[Am]anzan \[C]ya bande\[Dm]ras de \[E7]unidad
+ Y \[Dm]tu v\[G7]endrás ma\[C]rchando j\[Am]unto a \[Dm]mi
+ \[E7]Y así verás tu ca\[Am]nto y tu ban\[A7]dera fl\[Dm]orecer
+ La \[G7]luz de un \[C]rojo amane\[Am]cer
+ Anun\[Dm]cia y\[E7]a la vi\[Am]da que \[E7]vendrá.
+\end{verse}
+ 
+\begin{verse*}
+ De pie luchar el pueblo va a triunfar
+ Será mejor la vida que vendrá
+ A conquistar nuestra felicidad
+ Y en un clamor mil voces de combate se alzarán
+ Dirán canción de libertad
+ Con \[Dm]deci\[E7]sión la patr\[E7]ia \[Am]vencerá.
+\end{verse*}
+ 
+\begin{chorus}
+ \[Dm]Y ahora el pueblo que se alza \[B7]en la lucha
+ Con v\[Am]oz de gigan\[E7]te gritan\[E7]do : adelante !
+ \[Am]El pueblo \[C]unido ja\[Dm]más será \[E7]vencido
+ \[Am]El pueblo \[C]unido ja\[Dm]xmás será \[E7]vencido !
+\end{chorus}
+ 
+ \begin{verse}
+ La patria está forjando la unidad
+ De norte a sur se movilizará
+ Desde el salar ardiente y mineral
+ Al bosque austral unidos en la lucha y el trabajo
+ Irán, la patria cubrirán
+ Su paso ya anuncia el porvenir.
+ \end{verse}
+ 
+ \begin{verse*}
+ De pie cantar el pueblo va a triunfar
+ Millones ya imponen la verdad
+ De acero son, ardiente batallón
+ Sus manos van llevando la justicia y la razón
+ Mujer con fuego y con valor
+ Ya estás aquí junto al trabajador.
+ \end{verse*}
+ 
+ \begin{chorus}
+ Y ahora el pueblo que se alza en la lucha
+ Con voz de gigante gritando : adelante !
+ El pueblo unido jamás será vencido
+ El pueblo unido jamás será vencido !
+ \end{chorus}
+  
+\endsong
+

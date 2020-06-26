@@ -5,8 +5,7 @@
   
   \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
   
-  \textnote{Il s’agit de la butte de Bapaume (et non pas de Montmartre), lieu-dit du Nord-Est de la France, situé sur la ligne de front, l’un des pires lieux de combats pendant l’été 1916. La Bataille de la Somme fera en quelques mois 1 200 000 victimes (morts, blessés et disparus), toutes armées confondues… 
-  }
+  \textnote{\textit{Il s’agit de la butte de Bapaume (et non pas de Montmartre), lieu-dit du Nord-Est de la France, situé sur la ligne de front, l’un des pires lieux de combats pendant l’été 1916. La Bataille de la Somme fera en quelques mois 1 200 000 victimes (morts, blessés et disparus), toutes armées confondues… }}
   
   \begin{verse*}
   {\ifchorded
@@ -40,7 +39,7 @@
   \begin{verse}
   Sur cette butte-là on n'y f’sait pas la noce
   Comme à Montmartre où l’champagne coule à flots;
-  mais les pauvr’s gars qu’avaient laissé les gosses
+  Mais les pauvr’s gars qu’avaient laissé les gosses
   Y f'saient entendre de terribles sanglots
   C’qu’elle en a bu des larmes, cette terre,
   Larmes d’ouvriers, larmes de paysans,
@@ -53,19 +52,19 @@
   La Butte \[F]Rouge, c’est son \[Am]nom, l’baptème s’\[Dm]fit un m\[Am]atin
   Où tous \[F]ceux qui grim\[Gm]paient, ro\[G7]ulaient dans le ra\[C7]vin
   Aujourd’\[F]hui y a des \[Am]vignes, il y \[Dm]pousse du ra\[Am]isin.
-  Qui boi\[D7]ra d’ce vin-\[Gm7]là, boit \[C7]les larmes des c\[F]opains.
+  Qui boi\[D7]t d’ce vin-\[Gm7]là, boit \[C7]les larmes des c\[F]opains.
   \end{chorus}
   \end{repeatedchords}
   
   \begin{verse}
   Sur cette butte-là, on y r’f’ait des vendanges
   On y entend des cris et des chansons
-  filles et gars doucement y échangent
+  Filles et gars doucement y échangent
   Des mots d'amour qui donnent le frisson
   Peuvent ils songer, dans leurs folles étreintes,
   Qu’à cet endroit où s’échangent leurs baisers,
   J’ai entendu, la nuit monter des plaintes
-  et j'y ai vu des gars au crâne brisé
+  Et j'y ai vu des gars au crâne brisé
   \end{verse}
   
   \begin{repeatedchords}

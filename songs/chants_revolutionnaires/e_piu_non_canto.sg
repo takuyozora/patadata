@@ -1,0 +1,49 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{E Più Non Canto}
+[by={Trad.~Italie},date={XIX$^e$}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\textnote{\textit{Ce chant populaire italien datant du XIX$^e$ siècle initialement appelé «La Prova» est un chant pacifiste où une femme cherche ardemment son jeune amoureux qui est parti à la guerre. Après avoir fait construire un pont pour traverser la mer elle trouve enfin un jeune homme l'ayant vu récemment : il était porté sur la place d'arme pour être enterré.\newline
+La chanson initiale parlait dans ses derniers couplets d'une mort feinte comme d'un test pour la sincérité de son amour. }}
+
+\textnote{\textbf{Tous les couplets sont bissés}}
+
+\begin{verse}
+E più non \textbf{canto}, e più non \textbf{ballo}
+Perche’l mio a\textbf{more l’è andà soldà}
+\end{verse}
+
+\begin{verse}
+L’à andà \textbf{soldato} l’è andà alla \textbf{guerra}
+E chi sa \textbf{quando ritornerà}
+\end{verse}
+
+\begin{verse}
+Faremo \textbf{fare} ponte di \textbf{ferro}
+Per travers\textbf{are di là dal mar}
+\end{verse}
+
+\begin{verse}
+Quando fu \textbf{stato} di là dal \textbf{mare}
+Ed un bel \textbf{giovane l’incontrò}
+\end{verse}
+
+\begin{verse}
+Gli ha detto: \textbf{Giovane}, caro bel \textbf{giovane}
+Avete \textbf{visto il mio primo amor ?}
+\end{verse}
+
+\begin{verse}
+Sì sì l’ho \textbf{visto} in piazza \textbf{d’armi}
+Che lo port\textbf{avano a seppellir !}
+\end{verse}
+
+\begin{verse}
+E più non \textbf{canto}, e più non \textbf{ballo}
+Perche ’l mio a\textbf{more l’è andà soldà}
+\end{verse}
+
+
+\endsong

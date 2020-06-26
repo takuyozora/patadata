@@ -1,0 +1,183 @@
+\selectlanguage{french}
+\OldSongColumns{3}
+\beginsong{Le Vieux Léon}
+  [by={Georges Brassens},date={1958}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \begin{verse*}
+  {\ifchorded
+  \musicnote{Intro}
+  
+  \nolyrics
+  {\[F#7] \[Bm] \[A7] \[D] } 
+  {\[B] \[B7] \[Em] } 
+  {\[A] \[D] \[G] \[C] } 
+  {\[F#7] \[Bm]}  
+  \fi
+  }
+  \end{verse*}
+  
+\begin{verse}
+\[Bm]Y a tout à l'heure
+Quinze ans d'mal\[G]heur
+\[A7]Mon vieux \[D]Léon
+
+\[Am]Que tu es part\[B7]i
+\[Em]Au para\[Bm]dis
+D'l'a\[G]ccord\[C#7~~F#]éon
+
+\[Bm]Parti bon \[Bm]train, 
+Voir si l'bas\[G]trin-
+gue \[A7]et la ja\[D]va
+
+\[Am]Avaient gar\[B7]dé
+\[Em]Droit de ci\[Bm]té
+\[F#7]Chez Jého\[Bm]vah
+\end{verse}
+
+
+
+\begin{verse}
+\[F#7]Quinze ans bien\[Bm]tôt
+\[A7]Qu'musique au \[D]dos
+\[B7]Tu t'en al\[Em]lais
+
+\[A7]Mener le \[D]bal
+\[G]À l'ami\[C]cale
+Des feux fo\[F#7]llets
+
+En cet a\[Bm]sile
+\[A7]Par saint' Cé\[D]cile
+\[B7]Pardonne-\[Em]nous
+
+\[A7]De n'avoir \[D]pas
+\[G]Su faire \[C]cas
+\[F#7]De ton bi\[Bm]niou
+\end{verse}
+
+
+
+\begin{verse}
+C'est une erreur
+Mais les joueurs
+D'accordéon
+
+Au grand jamais
+On ne les met
+Au Panthéon
+
+Mon vieux tu as dû
+T'contener du
+Champ de navets
+
+Sans grandes pom-
+pes et sans pompons
+Et sans ave
+\end{verse}
+
+
+
+\begin{verse}
+Mais les copains
+Suivaient l'sapin
+Le cœur serré
+
+En rigolant
+Pour fair' semblant
+De n'pas pleurer
+
+Et dans nos cœurs
+Pauvre joueur
+D'accordéon
+
+Il fait ma foi
+Beaucoup moins froid
+Qu'au Panthéon
+\end{verse}
+
+
+
+\begin{verse}
+Depuis mon vieux
+Qu'au fond des cieux
+Tu as fait ton trou
+
+Il a coulé
+De l'eau sous les
+Ponts de chez nous
+
+Les bons enfants
+D'la rue de Van-
+ves à la Gaîté
+
+L'un comme l'au-
+tre au gré des flots
+Fur'nt emportés
+\end{verse}
+
+
+
+\begin{verse}
+Mais aucun d'eux
+N'a fait fi de
+Son temps jadis
+
+Tous sont restés
+Du parti des
+Myosotis
+
+Tous ces pierrots
+Ont le cœur gros
+Mon vieux Léon
+
+En entendant
+Le moindre chant
+D'accordéon
+\end{verse}
+
+
+
+\begin{verse}
+Quel temps fait-il
+Chez les gentils
+De l'au-delà
+
+Les musiciens
+Ont-ils enfin
+Trouvé le la
+
+Et le p'tit bleu
+Est-c'que ça n'le
+Rend pas meilleur
+
+D'être servi
+Au sein des vi-
+gnes du Seigneur
+\end{verse}
+
+
+
+\begin{verse}
+Si d'temps en temps
+Un' dam' d'antan
+S'laisse embrasser
+
+Sûr'ment papa
+Que tu regrett's pas
+D'être passé
+
+Et si l'bon Dieu
+Aim' tant soit peu
+L'accordéon
+
+Au firmament
+Tu t'plais sûr'ment
+Mon vieux Léon
+\end{verse}
+
+	
+  
+  
+\endsong
+

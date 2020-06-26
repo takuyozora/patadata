@@ -1,0 +1,68 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Pourquoi ont-ils tué Jaurès}
+[by={Jacques Brel},date={1977}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\textnote{
+\textit{
+	Pacifiste convaincu bien que passionné par les stratégies de défense et la géopolitique, Jean Jaurès s'engagea fortement contre la venue de la première guerre mondiale.
+	Voyant celle-ci comme le résultat des tensions grandissantes entre les principales puissances occidentales, il exhorte les ouvriers de tous les pays de faire pression contre la guerre qui ne servirait en aucun cas leurs intérêts. \newline
+	Après l'attenta de Sarajevo le 28 juin 1914 et l'ultimatum autrichien à la Serbie le 23 juillet 1914, il tente le 31 du même mois de convaincre la chambre des députés puis le ministère des affaires étrangères de stopper le déclenchement des hostilités. Le soir même après avoir rédigé un article dans le journal qu'il dirige à l'époque, L'Humanité, il est assassiné par un étudiant nationaliste.\newline
+	3 jours après, la France rentre en guerre. Celle-ci fera 18 millions de morts dont 8 millions de civils ainsi que 21 millions de blessés sans compter que celle-ci participa fortement à la propagation de la grippe espagnole qui fut la pandémie la plus meurtrière de l'humanité avec 50 millions de morts.
+}
+}
+
+\begin{verse}
+\[C]Ils étaien\[G7]t usés à \[C]quinze ans
+Ils finis\[G7]saient en \[C]débutant
+Les douz\[F]e mois s'ap\[C]pelaient décembre
+\[C]Quelle vie \[G7]ont eu nos \[C]grand-parents
+Entre l'absin\[G7]the et les \[C]grand-messes
+Ils étaient v\[F]ieux avan\[C]t que d'être
+Quinze heu\[F]res par jour \[C]le corps en laisse
+Laissent au \[F]visage \[C]un teint de cendres
+Oui notre Mon\[Dm]sieur, oui \[C]notre bon Maître
+\end{verse}
+
+\begin{chorus}
+Pourquoi \[Dm]ont-ils \[C]tué Jaurès ?
+Pourquoi \[Dm]ont-ils \[C]tué Jaurès ?
+\end{chorus}
+
+\begin{verse}
+On n'peut pas dire qu'ils furent esclaves
+De là à dire qu'ils ont vécu
+Lorsque l'on part aussi vaincus
+C'est dur de sortir de l'enclave
+Et pourtant l'espoir fleurissait
+Dans les rêves qui montaient aux yeux
+Des quelques ceux qui refusaient
+De ramper jusqu'à la vieillesse
+Oui not'bon Maître, oui not'Monsieur
+\end{verse}
+
+\begin{verse}
+Si par malheur ils survivaient
+C'était pour partir à la guerre
+C'était pour finir à la guerre
+Aux ordres de quelque sabreur
+Qui exigeait du bout des lèvres
+Qu'ils aillent ouvrir au champ d'horreur
+Leurs vingt ans qui n'avaient pu naître
+Et ils mouraient à pleine peur
+Tout miséreux oui not'bon Maître
+Couverts de prèles oui not'Monsieur
+\end{verse}
+
+\begin{bridge}
+Demandez-vous belle jeunesse
+Le temps de l'ombre d'un souv'nir
+Le temps de souffle d'un soupir
+\end{bridge}
+
+\textnote{Au refrain}
+
+
+\endsong

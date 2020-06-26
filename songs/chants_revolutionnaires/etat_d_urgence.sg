@@ -1,0 +1,71 @@
+%\brk
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{État d'urgence}
+[by={Michèle Aunime, Chorale~des~Canulars},date={2015}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\begin{verse}
+Les bombes éclatent en longs sanglots
+Déchirent les nuits de Paris
+La France aiguise ses drapeaux
+En appelle à la sainte patrie
+\begin{bis}
+Mais j'chant'rais pas, ne vous déplaise
+Votre sanglante Marseillaise
+\end{bis}
+\end{verse}
+
+\begin{verse}
+Sur un marché au Nigéria
+Parait qu'y a eu un attentat
+Ou quand ça bombarde en Syrie
+C'est loin on n'entend pas les cris
+\begin{bis}
+On n'en n'a pas beaucoup parlé
+C'est normal y'avait pas d'français
+\end{bis}
+\end{verse}
+
+\begin{verse}
+La France fabrique et vend des armes
+Qui dit les armes dit la guerre
+Qui dit la guerre dit les larmes
+La mort la peur et la misère
+\begin{bis}
+Mais quand ça s'passe près d'la maison
+L'sang abreuve nos télévisions
+\end{bis}
+\end{verse}
+
+\begin{verse}
+On claironne l'état d'urgence
+Et on assigne à résidence
+Ouvre la chasse aux musulmans
+Ferme les frontières aux migrants
+\begin{bis}
+Et on en profite en passant
+Pour traquer quelques militants
+\end{bis}
+\end{verse}
+
+\textnote{Changement de mélodie}
+
+\begin{verse}
+Dans les replis, identitaires
+De vos drapeaux, de vos bannières
+Vous étouffez, c'est tout froissé
+Pour s'libérer, faudra r'passer !
+Sans dieu maître, et sans patrie
+On pourrait juste aimer la vie
+\end{verse}
+
+\textnote{Parlé au début, puis petit à petit chanté sur l'air du dernier couplet}
+
+\begin{verse}
+État d'urgence, on s'assigne à résistance.
+~~~~~~~\textit{(\small{2$\times$chuchoté, 2$\times$piano, 2$\times$forte, 1$\times$crié !})}
+\end{verse}
+
+\endsong

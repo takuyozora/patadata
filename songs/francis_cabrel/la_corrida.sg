@@ -2,6 +2,8 @@
 \songcolumns{2}
 \beginsong{La corrida}
   [by={Francis Cabrel},cover={samedi-soir-sur-la-terre},album={Samedi soir sur la Terre},date={1994}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
 
   \cover
   \gtab{Dm}{XX0231}

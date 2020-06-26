@@ -10,8 +10,7 @@
 
   \begin{verse}
     C'est pas l'\[Em]homme qui prend la mer
-    C'est la \[D]mer qui prend l'\[Em]homme
-    \echo{tatatin}
+    C'est la \[D]mer qui prend l'\[Em]homme \echo{tatatin}
     Moi la \[Em]mer, elle m'a \[D]pris
     J'me souviens un mar\[Em]di
     J'ai troqué mes santiags
@@ -45,6 +44,8 @@
     Ça m'a coûté des sous
     C'est de la plaisance, c'est l'pied
   \end{verse}
+  
+  \textnote{Ho ho ho ho ho hissez haut ho ho ho~~\textit{(à la fin d'un refrain sur deux)}}
 
   \begin{verse}
     C'est pas l'homme qui prend la mer

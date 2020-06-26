@@ -1,0 +1,48 @@
+%\filbreak
+%\par\nobreak\penalty0\bgroup
+
+%\vfil\penalty-999999999\vfilneg
+
+%\begin{songgroup}
+
+\bgroup
+
+%\spenalty=-1000
+
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Venga la nuièt}
+[by={Trad.~Occitan}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+\begin{verse*}
+\begin{bis}[$\times$4]
+\underline{Nòu} calelhs que mancan d'òli
+\underline{Nòu} calelhs vòli pas emplenar
+\end{bis} 
+\end{verse*}
+
+\begin{chorus}
+Venga la nuèit venga la nuèit
+Que lo solelh me tana
+Venga la nuèit venga la nuèit
+Per tombar dins ton lèit.
+\end{chorus}
+
+\textnote{Reprise de l'ensemble en changeant à chaque fois\newline {\textbf{\underline{Nòu}}\textit{(neuf)}} successivement par :\vspace{4pt}\newline
+\indent\textbf{Uèit} - \textbf{Sèt} - \textbf{Sièis} - \textbf{Cinc} - \textbf{Tres} - \textbf{Dos} - \textbf{Un}\vspace{4pt}\newline
+On omet volontairement le quatre lors du décompte}
+
+\textnote{Structure du bourdon : 1x8 - 2x4 - 4x2 - 4x1 + 8x$\frac{1}{2}$}
+
+\endsong
+
+\egroup
+
+%
+%\par\xdef\tpd{\the\prevdepth}\egroup\prevdepth=\tpd
+%
+
+%\end{songgroup}

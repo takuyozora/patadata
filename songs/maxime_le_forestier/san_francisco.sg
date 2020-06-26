@@ -3,6 +3,7 @@
 \beginsong{San Francisco}
   [by={Maxime Le\ Forestier},cover={mon-frere},album={Mon frère},date={1972}]
 
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
 
   \cover
   \capo{1}
@@ -15,8 +16,8 @@
 
 
   \begin{verse}
-    \[Em] C'est une maison \[G]bleue
-    \[Bm] Adossée à la co\[C]lline
+    \[Em]C'est une maison \[G]bleue
+    \[Bm]Adossée à la co\[C]lline
     On y vient à pied
     \[G]On ne frappe pas
     \[D]Ceux qui vivent là
@@ -24,8 +25,8 @@
   \end{verse}
 
   \begin{verse*}
-    \[Em] On se retrouve en\[G]semble
-    \[Bm] Après des années de \[C]route
+    \[Em]On se retrouve en\[G]semble
+    \[Bm]Après des années de \[C]route
     Et on vient s'assoir
     \[G]Autour d'un repas
     \[D]Tout le monde est là
@@ -37,7 +38,7 @@
     Quand \[A]San Franci\[C]sco s'a\[D]llu\[Em]me
     San Franci\[Bm]sco
     Où êtes-\[Em]vous
-    \[G]Luzon et \[A]Luc, \[C]Psylvia
+    \[G]Lizzard et \[A]Luc, \[C]Psylvia
     \[D]Attendez-\[Em]moi
   \end{chorus}
 

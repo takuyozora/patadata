@@ -1,0 +1,77 @@
+\selectlanguage{french}
+%\songcolumns{2}
+\OldSongColumns{3}
+\beginsong{Fernand}
+[by={Jacques Brel},date={1965}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+%\ccpenalty=-99999
+%\cvpenalty=10000
+%\vcpenalty=10000
+\vvpenalty=-1000
+\brkpenalty=-9990000
+%\interlinepenalty=100
+
+\begin{verse}
+\[Am7]Dire que Fer\[Em7]nand est mort
+\[Am7]Dire qu´il e\[Em7]st mort Fernand
+\[F]Dire que je \[C]suis seul derrière
+\[Dm]Dire qu'il e\[E7]st seul devant \hfill\inlinetextnote{\textit{{\small Riff}}}
+\[Am]Lui dans sa \[Em7]dernière bière
+\[Am]Moi dans mon \[Em7]brouillard
+\[F]Lui dans son \[C]corbillard
+\[Dm]Moi dans mon \[E7]désert \hfill\inlinetextnote{\textit{{\small Riff}}}
+\[Am]Devant y a \[Dm]qu´un cheval blanc
+\[B7]Derrière y a \[Em]que moi qui pleure
+\[Dm]Dire qu´a mê\[E7]me pas de ven\[Am]t
+\[B]Pour agiter \[E7]mes fleurs  \hfill\inlinetextnote{\textit{{\small Riff}}}
+\[Am]Moi si j´ét\[Dm]ais l´bon Dieu
+\[G7]Je crois qu´\[C]j´aurais des r´mords
+\[Dm]Dire que mai\[Am]ntenant il pleut
+\[B7]Dire que Fer\[E7]nand est mort \hfill\inlinetextnote{\textit{{\small Riff}}}
+\end{verse}
+
+
+\begin{verse}
+Dire qu´on traverse Paris
+Dans le tout p´tit matin
+Dire qu´on traverse Paris
+Et qu´on dirait Berlin \hfill\inlinetextnote{\textit{{\small Riff}}}
+Toi, toi, toi tu sais pas, tu dors
+Mais c´est triste à mourir
+D´être obligé d´partir
+Quand Paris dort encore  \hfill\inlinetextnote{\textit{{\small Riff}}}
+Moi je crève d´envie
+De réveiller des gens
+J´t´inventerai une famille
+Juste pour ton enterrement  \hfill\inlinetextnote{\textit{{\small Riff}}}
+Et puis si j´étais l´bon Dieu
+Je crois qu´je serais pas fier
+Je sais, on fait c´qu´on peut
+Mais y a la manière  \hfill\inlinetextnote{\textit{{\small Riff}}}
+\end{verse}
+
+
+\begin{verse}
+Tu sais, je reviendrai
+Je reviendrai souvent
+Dans ce putain de champ
+Où tu dois t´reposer  \hfill\inlinetextnote{\textit{{\small Riff}}}
+L´été, j´te f´rai de l´ombre
+On boira du silence
+A la santé d´Constance
+Qui s´en fout bien d´ton ombre
+Et puis les adultes sont tellement cons
+Qu´ils nous feront bien une guerre
+Alors je viendrai pour de bon
+Dormir dans ton cimetière  \hfill\inlinetextnote{\textit{{\small Riff}}}
+\end{verse}
+\begin{verse*}
+Et maintenant bon Dieu
+Tu vas bien rigoler
+Et maintenant bon Dieu
+Et maintenant j´vais pleurer
+\end{verse*}
+
+\endsong

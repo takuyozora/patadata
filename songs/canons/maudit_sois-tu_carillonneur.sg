@@ -1,0 +1,19 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Maudit sois-tu carillonneur}
+  [by={},date={}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+	\begin{verse*}
+	Maudit sois-tu carillonneur,
+	Toi qui naquis pour mon malheur !
+	Dès le point du jour à la cloche il s'accroche,
+	Et le soir encore carillonne plus fort.
+	Quand sonnera-t-on la mort du sonneur ?
+	\end{verse*}
+  
+  
+\endsong
+

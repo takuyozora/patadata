@@ -1,0 +1,49 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Oh ! Jé'aim'pas}
+  [by={Anonyme},date={}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+  
+  \textnote{Sur le rythme d'un andro, danse folk bretonne}
+
+	\begin{verse*}
+	Oh jé'aim'pas dénaturer ma planète
+	Oh jé'aim'pas déshonorer mon assiette
+	\end{verse*}
+	
+	\begin{chorus}
+	OGM c'est la loi des lobbies
+	Ou c'est la bourse ou c'est la vie
+	\end{chorus}
+	
+	\begin{verse*}
+	Oh jé'aim'pas m'alimenter malhonnête
+	Oh jé'aim'pas dioxiner ma dinette
+	\end{verse*}
+	
+	\begin{verse*}
+	Oh jé'aim'pas boulotter à l'aveuglette
+	Oh jé'aim'pas la saveur des oubliettes
+	\end{verse*}
+	
+	\begin{verse*}
+	Oh jé'aim'pas du venin dans l'omelette
+	Oh jé'aim'pas mon estomac qui regrette
+	\end{verse*}
+	
+	\begin{verse*}
+	Oh jé'aim'pas le round'up dans ma galette
+	Oh jé'aim'pas Monsanto qui nous brevète
+	\end{verse*}
+	
+	\begin{verse*}
+	Oh jé'aim'pas la vie dans une éprouvette
+	Oh jé'aim'pas les pesticides à perpète
+	\end{verse*}
+	
+	\textnote{\textit{Ad libitum ..}}
+  
+  
+\endsong
+

@@ -1,0 +1,70 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{El Payandé}
+  [by={Vicente Holguin, musique de Luis Albertini},date={1867}]
+  
+  \textnote{\textit{Ce chant écrit en 1867 parle de l'esclavage qui a été aboli une dizaine d'année plus tôt en Colombie et au Pérou. Il fait référence au \textit{payandé} qui est un grand arbre de la famille des acacias.}}
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+	\begin{verse}
+	\textbf{Nací en las playas} \textit{del Magda—lena}
+	Bajo la sombra \textbf{de un payandé}
+	Como mi madre \textbf{fue negra esclava}
+	También la marca \textbf{yo la llevé}
+	\end{verse}
+	
+	\begin{chorus}
+	\setlength\tabcolsep{2pt}
+	\begin{tabular}{l cl}
+	\textbf{B}:&\textbf{Oh-oh-oh}&\textbf{Suerte maldita, maldita}\\
+	&~~—~~&¡Ay!
+	\end{tabular}
+	\vspace{5pt}
+	%
+	\begin{tabular}{l llc}
+	\textbf{B}:&\textbf{Suerte maldita}&\textbf{llevar cadenas}&\textbf{llevar cadenas}\\
+	&Suerte maldita&llevar cadenas&
+	\end{tabular}
+	\vspace{5pt}
+	%
+	\begin{tabular}{l lc}
+	\textbf{B}:&\textbf{Y ser esclavo}&\textbf{y ser esclavo}\\
+	&Y ser esclavo&
+	\end{tabular}
+	\vspace{5pt}
+	%
+	\begin{tabular}{l clc}
+	\textbf{B}:&~~—~~&\textbf{de un vil señor}&\textbf{de un vil señor}\\
+	&Y ser esclavo&de un vil señor&
+	\end{tabular}
+	\end{chorus}
+	
+	\begin{verse}
+	\textbf{Por las mañanas} \textit{cuando—amanece}
+	Me voy al campo \textbf{con mi azadón}
+	Como a tajazos \textbf{plátano asado}
+	Riego la tierra \textbf{con mi sudor}
+	\end{verse}
+	
+	\begin{verse}
+	\textbf{Cuando a la sombra} \textit{de una pal—mera}
+	Quiero ampararme \textbf{del rudo sol}
+	Látigos fieros \textbf{cruzan mi espalda}
+	Y me recuerdan \textbf{que esclavo soy}
+	\end{verse}
+	
+	\begin{verse}
+	\textbf{Si yo pudiera} \textit{tener mi — lanza}
+	Vengarme airado \textbf{de mi señor}
+	Con gusto vería \textbf{arder su casa}
+	Y le arrancaría \textbf{el corazón}
+	\end{verse}
+  
+  
+\endsong
+
+
+%Suerte maldita, \textbf{Llevar cadenas}
+%\textbf{Y ser esclavo}

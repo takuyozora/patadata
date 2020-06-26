@@ -1,0 +1,69 @@
+\selectlanguage{french}
+%\OldSongColumns{3}
+\songcolumns{2}
+\beginsong{Du Fric À L'Aise}
+[by={Jean-Paul Hebert},date={2014}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+\textnote{\textit{Paroles de Jean-Paul Hebert de la Choral’ternative de Rouen sur l’air de la Piémontaise (1705, anonyme)} sur la dérégulation du travail, la mondialisation et l'accaparation des richesses par une minorité au détriment des conditions sociales du plus grand nombre.}	
+\textnote{Les parties soulignées sont reprisent en écho par les voix hautes}
+
+
+\begin{verse}
+	Ah que je gagne du fric à l'aise
+Quand y’a pas de règles \underline{pour l'emploi}
+\begin{bis}
+J'ouvre et je ferme les \textit{entreprises}
+Sans me soucier des \textit{salariés }
+\end{bis}
+\end{verse}
+
+\begin{verse}
+J'ai rétabli l'travail des gosses
+Dans les pays \underline{d'extrême-orient}
+\begin{bis}
+Leurs petites mains cousent des godasses
+Pour bien moins cher que leurs parents
+\end{bis}
+\end{verse}
+
+\begin{verse}
+La nuit, j'fais travailler les femmes
+Y'a pas d'raison \underline{qu'elles y échappent}
+\begin{bis}
+Comme ça elles sont près de leurs mômes
+C'est plus social et plus rentable
+\end{bis}
+\end{verse}
+
+\begin{verse}
+Aujourd’hui je suis mercenaire
+Pour le MEDEF \underline{et pour le fric}
+\begin{bis}
+J’ai un contrat en Normandie
+Je restructure l’industrie
+\end{bis}
+\end{verse}
+
+\begin{verse}
+Après, il y aura la Bretagne,
+La Lorraine et \underline{le Pas-de-Calais}
+\begin{bis}
+Chaque fois que je ferme une usine
+Y’a des millions qui tombent pour moi 
+\end{bis}
+\end{verse}
+
+\begin{verse}
+Ah que je gagne du fric à l'aise
+Quand y’a pas de règles \underline{pour l'emploi}
+J'ouvre et je ferme les usines
+Sans me soucier des \textbf{ouvriers}
+J'ouvre et je ferme les usines
+Sans me soucier des \textbf{ouvrières}
+\end{verse}
+
+
+\endsong

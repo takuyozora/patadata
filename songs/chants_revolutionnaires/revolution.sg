@@ -1,0 +1,61 @@
+\newcommand\aide[1]{%
+\textcolor{black!45}{\textit{{\small#1}}}%
+}
+
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Révolution}
+[by={C'est~qui~Paulette~?},date={2016}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+\begin{verse}
+Ils pourront \aide{/} pendre le poète
+Mais \aide{/} jamais la poésie
+Ils pourront ten\aide{/}ter d’arrêter la fête
+Mais n’entrav’ront \aide{/} jamais notre énergie
+Ils auront beau \aide{/} enfermer l’insoumis
+Ils n’effleur’ront \aide{/} jamais l’insoumission
+Ils pourront ca\aide{/}misoler la folie
+Mais n’mettront pas \aide{/} nos esprits en prison
+\end{verse}
+
+\begin{chorus}
+\textbf{Lalalala la la la la} \rep{4}
+\end{chorus}
+
+\begin{verse}
+Ils auront beau \aide{/} gazer les activistes
+Ils souriront \aide{/} face aux clowns en action
+Ils pourront fai\aide{/}re taire les artistes
+Nous garderons \aide{/} notre imagination
+Ils auront beau \aide{/} planter les OGM
+Et construire \aide{/} des châteaux en béton
+Ils n’récolt’ront \aide{/} que la colère qu’ils sèment
+Et dans leurs champs \aide{/} des faucheurs par millions
+\end{verse}
+
+\begin{chorus}
+\textbf{Lalalala la la la la} \rep{4}
+\end{chorus}
+
+\begin{verse}
+Ils voudront nous \aide{/} parquer en technival
+Ils entendront \aide{/} partout japper nos caissons
+Ils auront beau \aide{/} chasser nos caravanes 
+~~~~\textit{(et nos camions !)}
+Mais la \aide{/} Terre est notre maison
+Des combats \aide{/} et des luttes qui s’enchainent
+Pour délier \aide{/} nos mains et nos pieds
+Mais nos yeux n’con\aide{/}naitront jamais la peine
+Guidés \aide{/} par nos rêves et nos idées
+\end{verse}
+
+\begin{chorus}
+\textbf{Lalalala la la la la} \rep{4}
+\textbf{Lalalala la la la la} \rep{4}
+\end{chorus}
+
+
+
+\endsong

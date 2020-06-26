@@ -1,0 +1,17 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{Vent frais vent du matin}
+  [by={},date={}]
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+
+	\begin{verse*}
+	Vent frais, vent du matin,
+	Vent qui souffle au sommet des grands pins,
+	Joie du vent qui passe, allons dans le grand \textit{[vent frais...]} 
+	\end{verse*}
+  
+  
+\endsong
+

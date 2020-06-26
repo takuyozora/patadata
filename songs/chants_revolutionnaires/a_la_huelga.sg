@@ -1,0 +1,47 @@
+\selectlanguage{french}
+\songcolumns{2}
+\beginsong{A La Huelga}
+  [by={Chicho~Sánchez Ferlosio},date={1963}]
+  
+  \textnote{\textit{« En grève ! » Cette chanson espagnole appelle à la grève générale. Elle a été écrite lors du soulèvement dans les Asturies en 1962, dans un contexte d’opposition au régime franquiste. Elle faisait partie d’un disque sorti clandestinement.}}
+  
+  \MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+	\begin{verse}
+	\[Am]A la huelga compa\[E]ñero
+	No vayas a trabajar.~~\[Am]
+	Deja q\[Dm]uieta la herram\[Am]ienta
+	Qué es \[E]la hora de luc\[Am]har
+	\end{verse}
+	
+	\begin{chorus}
+	A la huelga \[E]diez, a la huelga c\[Am]ien
+	A la huelga \[Dm]madre, yo voy tamb\[Am]ién
+	A la huelga \[Dm]cién, a la huelga m\[Am]il
+	Yo por e\[E]llos madre, y ellos por \[Am]mi
+	\end{chorus}
+	
+	\begin{verse}
+	Contra el gobierno del hambre
+	Nos vamos a levantar
+	Todos los trabajadores
+	Codo a codo por el pan
+	\end{verse}
+	
+	\begin{verse}
+	Desde el pozo y el arado
+	Desde el torno y el telar
+	Iran los hombres del pueblo
+	A la huelga general
+	\end{verse}
+	
+	\begin{verse}
+	Todos los pueblos del mundo
+	La mano nos van a dar
+	Para devolver a Espana
+	Su perdida libertad
+	\end{verse}
+  
+  
+\endsong
+

@@ -1,0 +1,100 @@
+\selectlanguage{french}
+%\songcolumns{2}
+\OldSongColumns{3}
+\beginsong{Frangines}
+[by={Anne Sylvestre},date={1979}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+%\ccpenalty=-99999
+%\cvpenalty=10000
+%\vcpenalty=10000
+%\vvpenalty=-1000
+%\brkpenalty=-9990000
+%\interlinepenalty=100
+
+\begin{verse}
+Ce fut à l'\[Gm]école\[F/A], déj\[B&]à,
+Qu'on fit de \[E&]nous des concur\[D7]rentes
+On se rega\[Gm]rdait \[F/A]chien et \[B&]chat
+On détes\[E&]tait les redoub\[D7]lantes
+Souffre-doul\[Gm]eur ou bien fa\[Cm]yotes
+On se pouss\[F]ait toujours plus \[B&maj7]haut
+On s'arr\[E&maj7]achait les bonnes no\[Cm]tes
+On pleu\[A7/C#]rait devant le tabl\[D7]eau
+\end{verse}
+
+\begin{chorus}
+On aurait pu rest\[Gm]er fran\[Cm7]gines
+Ça nous aur\[F]ait gagné du \[B&maj7]temps
+Au coude à \[E&maj7]coude, j'imag\[Cm]ine
+Qu'il n'aurait \[D]pas fallu longte\[Gm]mps
+Pour qu'on soit to\[Cm]utes aussi \[B&maj7]bonnes
+{\spaceskip 0.43 \fontdimen2 \font Malgré les pi\[Gm]onnes et \[D7]les par\[Gm]ents\[D7Gm]}
+\end{chorus}
+
+\begin{verse}
+Ensuite, en face des garçons
+Commença la grande offensive
+On se fabriquait des façons
+Des rendez-vous sur l'autre rive
+Et grande bringue ou Blanche-Neige
+C'était à qui amènerait
+Tous les boutonneux du collège
+À l'accompagner sur le quai
+\end{verse}
+
+\begin{chorus}
+On aurait pu rester frangines
+Ça nous aurait gagné du temps
+Bras dessus-dessous, j'imagine
+Qu'on aurait, de ces débutants
+Avant que la vie les assomme,
+Puis faire des hommes,
+Pas des enfants
+\end{chorus}
+
+\begin{verse}
+Un peu plus tard, c'est la beauté
+Qu'on nous érigea en barrière
+On se retrouvait insultée
+Si on n'était pas la première
+Nos amitiés faisaient sourire
+Fallait nous crêper le chignon
+Et tout ce qu'on pouvait se dire
+N'était que fadaises ou chiffons
+\end{verse}
+
+\begin{chorus}
+On aurait pu rester frangines
+Ça nous aurait gagné du temps
+Main sur l'épaule, j'imagine
+Qu'on aurait pu, se regardant,
+Voir qu'on était toutes assez belles
+Et même celles qui ont pas le temps
+\end{chorus}
+
+\begin{verse}
+C'est tout pareil dans nos métiers
+On nous oppose et on nous monte
+En épingle, pour mieux montrer
+Qu'on se trouve en dehors du compte
+Pour peu qu'on dépasse la tête
+On est toujours une exception
+Chacune sur notre planète,
+Ce qu'on a pu tourner en rond !
+\end{verse}
+
+\begin{chorus}
+Si on se retrouvait frangines
+On n'aurait pas perdu son temps
+Unissant nos voix, j'imagine
+Qu'on en dirait vingt fois autant
+Et qu'on ferait changer les choses
+\[E&maj7]Et je su\[B&maj7]ppose au\[A&maj9]ssi les g\[B&maj7]ens
+Et qu'on fe\[D7/A]rait changer les ch\[Gm]oses
+Allez ! On \[Gm/D]ose
+Il \[D7]est grand t\[Gm]emps ! 
+\end{chorus}
+
+\endsong

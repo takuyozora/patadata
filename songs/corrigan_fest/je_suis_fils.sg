@@ -35,7 +35,7 @@
   
   \begin{verse*}
     {\ifchorded
-      \musicnote{Instru.}
+      %\musicnote{Instru.}
         \nolyrics
          {\[Am] \[G] \[Am] \[Am] } 
          {\[Am] \[G] \[C] \[C] }
@@ -65,7 +65,7 @@
     Je ne prends pas les armes contre d'autres affamés
   \end{verse}
 
-  %\textnote{Bridge:}
+  \textnote{Variation du refrain}
   \begin{chorus}
     La la \[C]la la la la la~~~La la \[G]la, la la 
     La la \[Dm]la la la la la~~~La la \[Am]la, la la

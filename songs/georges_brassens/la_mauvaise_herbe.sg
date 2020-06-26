@@ -1,0 +1,108 @@
+\selectlanguage{french}
+%\songcolumns{2}
+\OldSongColumns{3}
+\beginsong{La Mauvaise Herbe}
+[by={Georges Brassens},date={1958}]
+
+\MultiwordChords  %http://songs.sourceforge.net/songsdoc/songs.html#sec5.3.0.3
+
+%\ccpenalty=-99999
+%\cvpenalty=10000
+%\vcpenalty=10000
+%\vvpenalty=-1000
+%\brkpenalty=-9990000
+%\interlinepenalty=100
+
+\begin{verse*}
+Quand l'\[D]jour de \[Em]gloire est \[A7]arrivé\[D]
+\[Bm]Comm' tous les \[Em]autr's ét\[A7]aient cre\[D]vés
+\[D7]Moi seul co\[G]nnus \[F#]le déshon\[Bm]neur
+De n'pas êtr' \[E7]mort \[E7]au champ d'hon\[D]neur
+\end{verse*}
+
+
+\begin{chorus}
+Je s\[Dm]uis d'la mauvaise herbe
+Braves gens, braves g\[A7]ens
+C'est pas moi qu'on rumine
+Et c'est pas moi qu'on met en g\[Dm]erbes
+La mort faucha les autres
+Braves gens, braves g\[A7]ens
+Et me fit grâce à moi
+C'est immoral et c'est c\[Dm]omm' ça
+\[Gm]La la la la la \[C7]la la \[F]la
+\[Gm]La la la l\[A7]a la \[Dm]la la la
+Et je m'demande
+Pourquoi, \[Gm]Bon Dieu
+Ça vous \[A7]dérange
+Que j'vive un \[Dm]peu
+Et je m'demande
+Pourquoi, \[Gm]Bon Dieu
+Ça vous dér\[A7]ange
+Que j'vive un peu\[D]
+\end{chorus}
+
+\begin{verse*}
+La fille à tout l'monde a bon coeur
+Ell' me donne au petit bonheur
+Les p'tits bouts d'sa peau, bien cachés
+Que les autres n'ont pas touchés
+\end{verse*}
+
+\begin{chorus}
+Je suis d'la mauvaise herbe
+Braves gens, braves gens
+C'est pas moi qu'on rumine
+Et c'est pas moi qu'on met en gerbes
+Elle se vend aux autres
+Braves gens, braves gens
+Elle se donne à moi
+C'est immoral et c'est comme ça
+La la la la la la la la
+La la la la la la la la
+Et je m'demande
+Pourquoi, Bon Dieu
+Ça vous dérange
+Qu'on m'aime un peu
+Et je m'demande
+Pourquoi, Bon Dieu
+Ça vous dérange
+Qu'on m'aime un peu
+\end{chorus}
+
+\begin{verse*}
+Les hommes sont faits, nous dit-on
+Pour vivre en bande, comm' les moutons
+Moi, j'vis seul, et c'est pas demain
+Que je suivrai leur droit chemin
+\end{verse*}
+
+\begin{chorus}
+Je suis d'la mauvaise herbe
+Braves gens, braves gens
+C'est pas moi qu'on rumine
+Et c'est pas moi qu'on met en gerbes
+Je suis d'la mauvaise herbe
+Braves gens, braves gens
+Je pousse en liberté
+Dans les jardins mal fréquentés
+La la la la la la la la
+La la la la la la la la
+Et je m'demande
+Pourquoi, Bon Dieu
+Ça vous dérange
+Que j'vive un peu
+Et je m'demande
+Pourquoi, Bon Dieu
+Ça vous dérange
+Que j'vive un peu
+\end{chorus}
+
+\vspace{-0.1cm}
+\begin{verse*}
+\musicnote{Avant les refrains \hfill {\nolyrics \[D C B\flt ~C D C B\flt ~C]}\newline
+Avant les couplets \hfill {\nolyrics \[D Bm Em A7]}}
+\end{verse*}
+
+
+\endsong
